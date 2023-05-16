@@ -1,6 +1,11 @@
 # Grundlagen der Antriebstechnik
 
-Repository für das Feedback zum Buch "Grundlagen der Antriebstechnik".
+Verwenden Sie diese Repository für **Feedback**, falls
+- sich Fehler eingeschlichen haben,
+- Unklarheiten beseitigt werden sollten,
+- Probleme mit LeTTo-Aufgaben auftreten.
+
+Erstellen Sie dafür einen neues **Issue**.
 
 Das Fachbuch erscheint im [Carl Hanser Verlag](https://www.hanser-kundencenter.de/fachbuch/artikel/9783446473751) voraussichtlich im Juli 2023.
 
