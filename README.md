@@ -14,4 +14,4 @@ Das Fachbuch erscheint im [Carl Hanser Verlag](https://www.hanser-kundencenter.d
 
 # Nutzungsbedingungen
 
-Alle im Verzeichnis [lto](https://github.com/christiankral/Grundlagen-der-Antriebstechnik/tree/main/lto) verfügbaren LeTTo-Dateien dürfen unter einhaltung der [Lizenzbedingungem]() frei genutz werden.
+Alle im Verzeichnis [lto](https://github.com/christiankral/Grundlagen-der-Antriebstechnik/tree/main/lto) verfügbaren LeTTo-Dateien dürfen unter einhaltung der [Lizenzbedingungem](https://github.com/christiankral/Grundlagen-der-Antriebstechnik/blob/main/lto/LIZENZ.md) frei genutz werden.
