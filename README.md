@@ -10,7 +10,7 @@ Dafür benötigen Sie einen GitHub-Account, den sie kostenfrei anlegen können.
 
 Das Fachbuch erscheint im [Carl Hanser Verlag](https://www.hanser-kundencenter.de/fachbuch/artikel/9783446473751) am 14. Juli 2023.
 
-![Grundlagend der Antriebstechnik](https://files.hanser.de/Files/Article/ARTK_CT0_9783446473751_0001.jpg)
+<img src="https://files.hanser.de/Files/Article/ARTK_CT0_9783446473751_0001.jpg" width="400"/>
 
 # Nutzungsbedingungen
 
