@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<letto mode="101" databaseinfo="sql">
+   <category>
+      <name><![CDATA[4 Magnetfeld]]></name>
+      <idSchule>0</idSchule>
+      <question type="MoodleClozeCalc">
+         <id>157677020</id>
+         <idUser>1836</idUser>
+         <questionType>22</questionType>
+         <single>2</single>
+         <name><![CDATA[Einheiten]]></name>
+         <punkte>1</punkte>
+         <penalty/>
+         <hidden>0</hidden>
+         <tag/>
+         <noAutoCorrect>0</noAutoCorrect>
+         <usecase>0</usecase>
+         <synchronize>0</synchronize>
+         <shuffleAnswers>1</shuffleAnswers>
+         <answerNumbering><![CDATA[abc]]></answerNumbering>
+         <unitGradingType>2</unitGradingType>
+         <unitPenalty>0.1</unitPenalty>
+         <showUnits>0</showUnits>
+         <unitsLeft>0</unitsLeft>
+         <maxima/>
+         <maximaAngabe/>
+         <responseFormat><![CDATA[editor]]></responseFormat>
+         <responseFieldLines>10</responseFieldLines>
+         <attachments>3</attachments>
+         <md5/>
+         <revNrServer>0</revNrServer>
+         <revNrLocal>0</revNrLocal>
+         <units/>
+         <plugins/>
+         <sendToParser>true</sendToParser>
+         <preCalc>true</preCalc>
+         <streng>false</streng>
+         <licenceKey />
+         <konstanteMitProzent>true</konstanteMitProzent>
+         <useSymbolicMode>false</useSymbolicMode>
+         <addDocumentsPossible>false</addDocumentsPossible>
+         <info/>
+         <randomDataset>false</randomDataset>
+         <text art="Questiontext" id="157677021" format="html">         <inhalt><![CDATA[<p>Weisen Sie den angegebenen physikalischen Gr&ouml;&szlig;en die korrekte SI-Einheit zu:</p>
+
+<p>[Q0]&nbsp;</p>]]></inhalt>
+</text>
+         <text art="general feedback" id="157677022" format="html">         <inhalt/>
+</text>
+         <text art="correct feedback" id="157677023" format="html">         <inhalt/>
+</text>
+         <text art="partially correct feedback" id="157677024" format="html">         <inhalt/>
+</text>
+         <text art="incorrect feedback" id="157677025" format="html">         <inhalt/>
+</text>
+         <text art="grader info" id="157677026" format="html">         <inhalt/>
+</text>
+         <subquestion>
+            <id>157677027</id>
+            <grade>1</grade>
+            <mode>8</mode>
+            <name><![CDATA[Q0]]></name>
+            <maxima/>
+            <plugininfo/>
+            <plugininputimage/>
+            <shuffleAnswers>1</shuffleAnswers>
+            <schwierigkeit>0</schwierigkeit>
+            <answer>
+               <id>157677028</id>
+               <fraction>100</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetischer Fluss]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[Vs]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677029</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetische Flussdichte]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[Vs/m²]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677030</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetischer Widerstand]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[A/(Vs)]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677031</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetischer Leitwert]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[Vs/A]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677032</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Absolute Permeabilität]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[Vs/(Am)]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677033</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Relative Permeabilität]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[1]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677034</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Durchflutung]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[A]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677035</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetische Spannung]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[A]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677036</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetische Feldstärke]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[A/m]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677037</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text/>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$\Omega$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677038</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text/>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[S]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677039</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text/>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[V]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677040</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text/>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[V/n]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677041</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text/>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$\Theta$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677042</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text/>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[As/(Vm)]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677043</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text/>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[As/V]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677044</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text/>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[V/(As)]]></answer>
+               <einheit/>
+            </answer>
+         </subquestion>
+      </question>
+      <question type="MoodleClozeCalc">
+         <id>157677045</id>
+         <idUser>1836</idUser>
+         <questionType>22</questionType>
+         <single>2</single>
+         <name><![CDATA[Formelzeichen]]></name>
+         <punkte>1</punkte>
+         <penalty/>
+         <hidden>0</hidden>
+         <tag/>
+         <noAutoCorrect>0</noAutoCorrect>
+         <usecase>0</usecase>
+         <synchronize>0</synchronize>
+         <shuffleAnswers>1</shuffleAnswers>
+         <answerNumbering><![CDATA[abc]]></answerNumbering>
+         <unitGradingType>2</unitGradingType>
+         <unitPenalty>0.1</unitPenalty>
+         <showUnits>0</showUnits>
+         <unitsLeft>0</unitsLeft>
+         <maxima/>
+         <maximaAngabe><![CDATA[;::;]]></maximaAngabe>
+         <responseFormat><![CDATA[editor]]></responseFormat>
+         <responseFieldLines>10</responseFieldLines>
+         <attachments>3</attachments>
+         <md5/>
+         <revNrServer>1</revNrServer>
+         <revNrLocal>0</revNrLocal>
+         <units/>
+         <plugins/>
+         <sendToParser>true</sendToParser>
+         <preCalc>true</preCalc>
+         <streng>false</streng>
+         <licenceKey />
+         <konstanteMitProzent>true</konstanteMitProzent>
+         <useSymbolicMode>false</useSymbolicMode>
+         <addDocumentsPossible>false</addDocumentsPossible>
+         <info/>
+         <randomDataset>false</randomDataset>
+         <text art="Questiontext" id="157677046" format="html">         <inhalt><![CDATA[<p>Weisen Sie den angegebenen physikalischen Gr&ouml;&szlig;en die korrekten Formelzeichen zu:</p>
+
+<p>[Q0]&nbsp;</p>]]></inhalt>
+</text>
+         <text art="general feedback" id="157677047" format="html">         <inhalt/>
+</text>
+         <text art="correct feedback" id="157677048" format="html">         <inhalt/>
+</text>
+         <text art="partially correct feedback" id="157677049" format="html">         <inhalt/>
+</text>
+         <text art="incorrect feedback" id="157677050" format="html">         <inhalt/>
+</text>
+         <text art="grader info" id="157677051" format="html">         <inhalt/>
+</text>
+         <subquestion>
+            <id>157677052</id>
+            <grade>1</grade>
+            <mode>8</mode>
+            <name><![CDATA[Q0]]></name>
+            <maxima/>
+            <plugininfo/>
+            <plugininputimage/>
+            <shuffleAnswers>1</shuffleAnswers>
+            <schwierigkeit>0</schwierigkeit>
+            <answer>
+               <id>157677053</id>
+               <fraction>100</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetischer Fluss]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$\Phi$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677054</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetische Flussdichte]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$B$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677055</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetischer Widerstand]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$R_m$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677056</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetischer Leitwert]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$G_m$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677057</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Absolute Permeabilität]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$\mu$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677058</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Relative Permeabilität]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$\mu_r$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677059</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Durchflutung]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$\Theta$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677060</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetische Spannung]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$U_m$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677061</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetische Feldstärke]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$H$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677062</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text><![CDATA[Magnetischer Verkettungsfluss]]></text>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$\Psi$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677063</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text/>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$U$]]></answer>
+               <einheit/>
+            </answer>
+            <answer>
+               <id>157677064</id>
+               <fraction>0</fraction>
+               <format><![CDATA[html]]></format>
+               <text/>
+               <feedback/>
+               <tolerance><![CDATA[1.0%]]></tolerance>
+               <correctAnswerFormat>2</correctAnswerFormat>
+               <correctAnswerLength>5</correctAnswerLength>
+               <maxima/>
+               <answer><![CDATA[$\mu_0$]]></answer>
+               <einheit/>
+            </answer>
+         </subquestion>
+      </question>
+   </category>
+</letto>

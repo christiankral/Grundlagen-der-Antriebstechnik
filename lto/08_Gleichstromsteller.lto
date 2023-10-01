@@ -1,0 +1,2180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<letto mode="101" databaseinfo="sql">
+   <category>
+      <name><![CDATA[8 Gleichstromsteller]]></name>
+      <idSchule>0</idSchule>
+      <category>
+         <name><![CDATA[8.1 Tiefsetzsteller]]></name>
+         <idSchule>0</idSchule>
+         <question type="MoodleMatching">
+            <id>157689941</id>
+            <idUser>6873173</idUser>
+            <questionType>18</questionType>
+            <single>2</single>
+            <name><![CDATA[Tiefsetzsteller 1]]></name>
+            <punkte>1</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima/>
+            <maximaAngabe><![CDATA[;::;]]></maximaAngabe>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>0</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins/>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157689944" format="html">
+                           <inhalt><![CDATA[<h3>Tiefsetzsteller 1</h3>
+
+<p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine.</p>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Ordnen Sie den nachfolgenden Spannungen die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
+
+               <file filename="Tiefsetzsteller_solo.png" id="157689945" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
+               </file>
+               <file filename="020_U1_Udc_OK_p0.png" id="157689946" md5="2e75168d49adae490d3e3c1ca1db292" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/2e/2e75168d49adae490d3e3c1ca1db292.png]]></webPath>
+               </file>
+               <file filename="020_U2_Ud_OK_n0.png" id="157689947" md5="d76fc3b9aaca1cb9711270512176dc" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/d7/d76fc3b9aaca1cb9711270512176dc.png]]></webPath>
+               </file>
+               <file filename="020_U3_Uv_0p.png" id="157689948" md5="aaa65434fc3d97ecd1ec36d7e643f57" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/aa/aaa65434fc3d97ecd1ec36d7e643f57.png]]></webPath>
+               </file>
+               <file filename="020_U4_np.png" id="157689949" md5="47a9da96716f2dd5bfb6d39965f35e" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/47/47a9da96716f2dd5bfb6d39965f35e.png]]></webPath>
+               </file>
+               <file filename="020_U5_0n.png" id="157689950" md5="ab961e2d9c2ae34bf311941e491747" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/ab/ab961e2d9c2ae34bf311941e491747.png]]></webPath>
+               </file>
+               <file filename="020_U6_pn.png" id="157689951" md5="39a42b21e8408f6de0feffd222a1bb0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/39/39a42b21e8408f6de0feffd222a1bb0.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157689952" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157689953" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157689954" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157689955" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157689956" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157689957</id>
+               <grade>1</grade>
+               <mode>8</mode>
+               <name/>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>2</schwierigkeit>
+               <answer>
+                  <id>157689958</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$u_d$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG1]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157689959</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG2]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157689960</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$u_{T}$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG3]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157689961</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG4]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157689962</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG5]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157689963</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG6]]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157689943</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.2]]></minimum>
+               <maximum><![CDATA[0.2]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[20]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[%]]></einheit>
+               <items><![CDATA[0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2]]></items>
+            </dataset>
+         </question>
+         <question type="MoodleMatching">
+            <id>157689964</id>
+            <idUser>6873173</idUser>
+            <questionType>18</questionType>
+            <single>2</single>
+            <name><![CDATA[Tiefsetzsteller 2]]></name>
+            <punkte>1</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima/>
+            <maximaAngabe/>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>1</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins/>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157689967" format="html">
+                           <inhalt><![CDATA[<h3>Grundlegende Aufgabe</h3>
+
+<p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine, die n&auml;herungsweise &uuml;ber eine Stromquelle idealisiert wird. Das bedeutet, dass der Strom $I_\mathrm{dc}$ durch die Gleichstrommaschine konstant ist.&nbsp;</p>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Ordnen Sie den nachfolgenden Spannungen die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
+
+               <file filename="Tiefsetzsteller_solo.png" id="157689968" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
+               </file>
+               <file filename="040_U1_Udc_OK_p0.png" id="157689969" md5="4fbefe2596dd1421ba13a266e03348" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/4f/4fbefe2596dd1421ba13a266e03348.png]]></webPath>
+               </file>
+               <file filename="040_U2_Ud_OK_n0.png" id="157689970" md5="f5869984447233689b37ea951933d7b" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/f5/f5869984447233689b37ea951933d7b.png]]></webPath>
+               </file>
+               <file filename="040_U3_Uv_0p.png" id="157689971" md5="e1e989a84565e7a96c1d8b803e5e1c" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/e1/e1e989a84565e7a96c1d8b803e5e1c.png]]></webPath>
+               </file>
+               <file filename="040_U4_np.png" id="157689972" md5="aab81bc671f3cb21b577951fb1e880bc" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/aa/aab81bc671f3cb21b577951fb1e880bc.png]]></webPath>
+               </file>
+               <file filename="040_U5_0n.png" id="157689973" md5="b958f12996c224a14dd2f2f561f4e7" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/b9/b958f12996c224a14dd2f2f561f4e7.png]]></webPath>
+               </file>
+               <file filename="040_U6_pn.png" id="157689974" md5="17a23619b8dc02ea25ee5ae4b0dd70" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/17/17a23619b8dc02ea25ee5ae4b0dd70.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157689975" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157689976" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157689977" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157689978" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157689979" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157689980</id>
+               <grade>1</grade>
+               <mode>8</mode>
+               <name/>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>2</schwierigkeit>
+               <answer>
+                  <id>157689981</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$u_d$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG1]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157689982</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG2]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157689983</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$u_T$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG3]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157689984</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG4]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157689985</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG5]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157689986</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG6]]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157689966</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.4]]></minimum>
+               <maximum><![CDATA[0.4]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[40]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[%]]></einheit>
+               <items><![CDATA[0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4]]></items>
+            </dataset>
+         </question>
+         <question type="MoodleMatching">
+            <id>157689987</id>
+            <idUser>6873173</idUser>
+            <questionType>18</questionType>
+            <single>2</single>
+            <name><![CDATA[Tiefsetzsteller 3]]></name>
+            <punkte>1</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima/>
+            <maximaAngabe/>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>1</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins/>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157689990" format="html">
+                           <inhalt><![CDATA[<h3>Grundlegende Aufgabe</h3>
+
+<p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine, die n&auml;herungsweise &uuml;ber eine Stromquelle idealisiert wird. Das bedeutet, dass der Strom $I_\mathrm{dc}$ durch die Gleichstrommaschine konstant ist.&nbsp;</p>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Ordnen Sie den nachfolgenden Spannungen die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
+
+               <file filename="Tiefsetzsteller_solo.png" id="157689991" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
+               </file>
+               <file filename="060_U1_Udc_OK_p0.png" id="157689992" md5="9499d8748b887fec45d3c517ffd4b" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/94/9499d8748b887fec45d3c517ffd4b.png]]></webPath>
+               </file>
+               <file filename="060_U2_Ud_OK_n0.png" id="157689993" md5="3a6c3524b62d30d1f9c81434295672d7" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/3a/3a6c3524b62d30d1f9c81434295672d7.png]]></webPath>
+               </file>
+               <file filename="060_U3_Uv_0p.png" id="157689994" md5="14d1837b3cb824132aa427d75d6c224" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/14/14d1837b3cb824132aa427d75d6c224.png]]></webPath>
+               </file>
+               <file filename="060_U4_np.png" id="157689995" md5="5353182788619815576da8bd4091903d" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/53/5353182788619815576da8bd4091903d.png]]></webPath>
+               </file>
+               <file filename="060_U5_0n.png" id="157689996" md5="5f384f9829893369fdc129b418bc9df" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/5f/5f384f9829893369fdc129b418bc9df.png]]></webPath>
+               </file>
+               <file filename="060_U6_pn.png" id="157689997" md5="d1dbc142f8bc6d2b8f6c4c7eee55a9" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/d1/d1dbc142f8bc6d2b8f6c4c7eee55a9.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157689998" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157689999" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157690000" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157690001" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157690002" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157690003</id>
+               <grade>1</grade>
+               <mode>8</mode>
+               <name/>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>2</schwierigkeit>
+               <answer>
+                  <id>157690004</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$u_d$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG1]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690005</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG2]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690006</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$u_T$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG3]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690007</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG4]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690008</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG5]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690009</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG6]]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157689989</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.6]]></minimum>
+               <maximum><![CDATA[0.6]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[60]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[%]]></einheit>
+               <items><![CDATA[0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6]]></items>
+            </dataset>
+         </question>
+         <question type="MoodleMatching">
+            <id>157690010</id>
+            <idUser>6873173</idUser>
+            <questionType>18</questionType>
+            <single>2</single>
+            <name><![CDATA[Tiefsetzsteller 4]]></name>
+            <punkte>1</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima/>
+            <maximaAngabe/>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>1</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins/>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157690013" format="html">
+                           <inhalt><![CDATA[<h3>Grundlegende Aufgabe</h3>
+
+<p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine, die n&auml;herungsweise &uuml;ber eine Stromquelle idealisiert wird. Das bedeutet, dass der Strom $I_\mathrm{dc}$ durch die Gleichstrommaschine konstant ist.&nbsp;</p>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Ordnen Sie den nachfolgenden Spannungen die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
+
+               <file filename="Tiefsetzsteller_solo.png" id="157690014" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
+               </file>
+               <file filename="080_U1_Udc_OK_p0.png" id="157690015" md5="34c5a14e41442cc89645c1a18ccd3de" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/34/34c5a14e41442cc89645c1a18ccd3de.png]]></webPath>
+               </file>
+               <file filename="080_U2_Ud_OK_n0.png" id="157690016" md5="256d23bfe0c4a8da4ececcb351f711e1" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/25/256d23bfe0c4a8da4ececcb351f711e1.png]]></webPath>
+               </file>
+               <file filename="080_U3_Uv_0p.png" id="157690017" md5="3fc57356abb3482dbc5caeae96b213" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/3f/3fc57356abb3482dbc5caeae96b213.png]]></webPath>
+               </file>
+               <file filename="080_U4_np.png" id="157690018" md5="1a18aa82b1e09d616ea51b5620f0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/1a/1a18aa82b1e09d616ea51b5620f0.png]]></webPath>
+               </file>
+               <file filename="080_U5_0n.png" id="157690019" md5="a5a61b994ec6759eca64d657605957e5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/a5/a5a61b994ec6759eca64d657605957e5.png]]></webPath>
+               </file>
+               <file filename="080_U6_pn.png" id="157690020" md5="3f105ee26f484eec131ac815fce6593" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/3f/3f105ee26f484eec131ac815fce6593.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157690021" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157690022" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157690023" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157690024" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157690025" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157690026</id>
+               <grade>1</grade>
+               <mode>8</mode>
+               <name/>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>2</schwierigkeit>
+               <answer>
+                  <id>157690027</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$u_d$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG1]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690028</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG2]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690029</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$u_T$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG3]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690030</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG4]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690031</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG5]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690032</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG6]]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157690012</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.8]]></minimum>
+               <maximum><![CDATA[0.8]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[80]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[%]]></einheit>
+               <items><![CDATA[0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8]]></items>
+            </dataset>
+         </question>
+         <question type="MoodleMatching">
+            <id>157690033</id>
+            <idUser>6873173</idUser>
+            <questionType>18</questionType>
+            <single>2</single>
+            <name><![CDATA[Tiefsetzsteller 5]]></name>
+            <punkte>1</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima/>
+            <maximaAngabe/>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>1</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins/>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157690036" format="html">
+                           <inhalt><![CDATA[<h2>Tiefsetzsteller</h2>
+
+<p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine. Der Strom $i_a$ kann&nbsp;n&auml;herungsweise als konstanter Gleichstrom mit $i_a = I_\mathrm{dc}$ angesehen werden.&nbsp;</p>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Ordnen Sie den nachfolgenden Str&ouml;men die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
+
+               <file filename="Tiefsetzsteller_solo.png" id="157690037" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
+               </file>
+               <file filename="020_I1_Iv_OK_p0.png" id="157690038" md5="5c4f1effc6c67bf8713b7366c3d94d70" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/5c/5c4f1effc6c67bf8713b7366c3d94d70.png]]></webPath>
+               </file>
+               <file filename="020_I2_Id_OK_0p.png" id="157690039" md5="d8ca3c489584e8aa878a26a863965a" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/d8/d8ca3c489584e8aa878a26a863965a.png]]></webPath>
+               </file>
+               <file filename="020_I3_pn.png" id="157690040" md5="cb9f65bfe71e7fb4228ff5ea6250a2" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/cb/cb9f65bfe71e7fb4228ff5ea6250a2.png]]></webPath>
+               </file>
+               <file filename="020_I4_np.png" id="157690041" md5="e527a17151531c25886809be7f3d429" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/e5/e527a17151531c25886809be7f3d429.png]]></webPath>
+               </file>
+               <file filename="020_I5_n0.png" id="157690042" md5="1671e6856eb5bf09e645aabc7459d5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/16/1671e6856eb5bf09e645aabc7459d5.png]]></webPath>
+               </file>
+               <file filename="020_I6_0n.png" id="157690043" md5="e512cc15ea413139c12666d111f5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/e5/e512cc15ea413139c12666d111f5.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157690044" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157690045" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157690046" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157690047" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157690048" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157690049</id>
+               <grade>1</grade>
+               <mode>8</mode>
+               <name/>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>2</schwierigkeit>
+               <answer>
+                  <id>157690050</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$i_T$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG1]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690051</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$i_D$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG2]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690052</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG3]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690053</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG4]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690054</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG5]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690055</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG6]]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157690035</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.2]]></minimum>
+               <maximum><![CDATA[0.2]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[20]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[%]]></einheit>
+               <items><![CDATA[0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2]]></items>
+            </dataset>
+         </question>
+         <question type="MoodleMatching">
+            <id>157690056</id>
+            <idUser>6873173</idUser>
+            <questionType>18</questionType>
+            <single>2</single>
+            <name><![CDATA[Tiefsetzsteller 6]]></name>
+            <punkte>1</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima/>
+            <maximaAngabe/>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>1</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins/>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157690059" format="html">
+                           <inhalt><![CDATA[<h2>Tiefsetzsteller</h2>
+
+<p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine. Der Strom $i_a$ kann&nbsp;n&auml;herungsweise als konstanter Gleichstrom mit $i_a = I_\mathrm{dc}$ angesehen werden.&nbsp;</p>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Ordnen Sie den nachfolgenden Str&ouml;men die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
+
+               <file filename="Tiefsetzsteller_solo.png" id="157690060" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
+               </file>
+               <file filename="040_I1_Iv_OK_p0.png" id="157690061" md5="506637c9ab4d1a297ca533a5e95d62f0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/50/506637c9ab4d1a297ca533a5e95d62f0.png]]></webPath>
+               </file>
+               <file filename="040_I2_Id_OK_0p.png" id="157690062" md5="734e94a7ad5eb51e162e3ab794a8d465" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/73/734e94a7ad5eb51e162e3ab794a8d465.png]]></webPath>
+               </file>
+               <file filename="040_I3_pn.png" id="157690063" md5="6e7b665a631447abb3a90afcbfa506b" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/6e/6e7b665a631447abb3a90afcbfa506b.png]]></webPath>
+               </file>
+               <file filename="040_I4_np.png" id="157690064" md5="3da93832e817922548a7cc46702d8d45" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/3d/3da93832e817922548a7cc46702d8d45.png]]></webPath>
+               </file>
+               <file filename="040_I5_n0.png" id="157690065" md5="181a361e117ebae6c86cfe63b37c19" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/18/181a361e117ebae6c86cfe63b37c19.png]]></webPath>
+               </file>
+               <file filename="040_I6_0n.png" id="157690066" md5="3d51e1e9ca87a46c15312e401277d1ce" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/3d/3d51e1e9ca87a46c15312e401277d1ce.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157690067" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157690068" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157690069" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157690070" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157690071" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157690072</id>
+               <grade>1</grade>
+               <mode>8</mode>
+               <name/>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>2</schwierigkeit>
+               <answer>
+                  <id>157690073</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$i_T$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG1]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690074</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$i_D$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG2]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690075</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG3]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690076</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG4]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690077</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG5]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690078</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG6]]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157690058</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.4]]></minimum>
+               <maximum><![CDATA[0.4]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[40]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[%]]></einheit>
+               <items><![CDATA[0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4;0.4]]></items>
+            </dataset>
+         </question>
+         <question type="MoodleMatching">
+            <id>157690079</id>
+            <idUser>6873173</idUser>
+            <questionType>18</questionType>
+            <single>2</single>
+            <name><![CDATA[Tiefsetzsteller 7]]></name>
+            <punkte>1</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima/>
+            <maximaAngabe/>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>1</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins/>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157690082" format="html">
+                           <inhalt><![CDATA[<h2>Tiefsetzsteller</h2>
+
+<p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine. Der Strom $i_a$ kann&nbsp;n&auml;herungsweise als konstanter Gleichstrom mit $i_a = I_\mathrm{dc}$ angesehen werden.&nbsp;</p>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Ordnen Sie den nachfolgenden Str&ouml;men die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
+
+               <file filename="Tiefsetzsteller_solo.png" id="157690083" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
+               </file>
+               <file filename="060_I1_Iv_OK_p0.png" id="157690084" md5="63a652a67ecbeda3bb94dba86dd37bf" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/63/63a652a67ecbeda3bb94dba86dd37bf.png]]></webPath>
+               </file>
+               <file filename="060_I2_Id_OK_0p.png" id="157690085" md5="f8423d369b8b419d609d9e84d928040" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/f8/f8423d369b8b419d609d9e84d928040.png]]></webPath>
+               </file>
+               <file filename="060_I3_pn.png" id="157690086" md5="9c67247b41b20842d5ee38bb77b4e8" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/9c/9c67247b41b20842d5ee38bb77b4e8.png]]></webPath>
+               </file>
+               <file filename="060_I4_np.png" id="157690087" md5="81341b858e47a856642aede9362e2c" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/81/81341b858e47a856642aede9362e2c.png]]></webPath>
+               </file>
+               <file filename="060_I5_n0.png" id="157690088" md5="6738fe63edbeb258682ce1bb8854d25" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/67/6738fe63edbeb258682ce1bb8854d25.png]]></webPath>
+               </file>
+               <file filename="060_I6_0n.png" id="157690089" md5="2838e6450f6e0b782a8d62d78635d5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/28/2838e6450f6e0b782a8d62d78635d5.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157690090" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157690091" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157690092" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157690093" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157690094" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157690095</id>
+               <grade>1</grade>
+               <mode>8</mode>
+               <name/>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>2</schwierigkeit>
+               <answer>
+                  <id>157690096</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$i_T$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG1]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690097</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$i_D$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG2]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690098</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG3]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690099</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG4]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690100</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG5]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690101</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG6]]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157690081</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.6]]></minimum>
+               <maximum><![CDATA[0.6]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[60]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[%]]></einheit>
+               <items><![CDATA[0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6]]></items>
+            </dataset>
+         </question>
+         <question type="MoodleMatching">
+            <id>157690102</id>
+            <idUser>6873173</idUser>
+            <questionType>18</questionType>
+            <single>2</single>
+            <name><![CDATA[Tiefsetzsteller 8]]></name>
+            <punkte>1</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima/>
+            <maximaAngabe/>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>1</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins/>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157690105" format="html">
+                           <inhalt><![CDATA[<h2>Tiefsetzsteller</h2>
+
+<p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine. Der Strom $i_a$ kann&nbsp;n&auml;herungsweise als konstanter Gleichstrom mit $i_a = I_\mathrm{dc}$ angesehen werden.&nbsp;</p>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Ordnen Sie den nachfolgenden Str&ouml;men die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
+
+               <file filename="Tiefsetzsteller_solo.png" id="157690106" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
+               </file>
+               <file filename="080_I1_Iv_OK_p0.png" id="157690107" md5="eec454787108172f638bd14bac9b3" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/ee/eec454787108172f638bd14bac9b3.png]]></webPath>
+               </file>
+               <file filename="080_I2_Id_OK_0p.png" id="157690108" md5="b26fad86e1b96fb978fb94ed4062178e" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/b2/b26fad86e1b96fb978fb94ed4062178e.png]]></webPath>
+               </file>
+               <file filename="080_I3_pn.png" id="157690109" md5="e2ff8bc83434bfad2421bc508a51653c" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/e2/e2ff8bc83434bfad2421bc508a51653c.png]]></webPath>
+               </file>
+               <file filename="080_I4_np.png" id="157690110" md5="25c8ecb9fc881227d881bca3daad6c9" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/25/25c8ecb9fc881227d881bca3daad6c9.png]]></webPath>
+               </file>
+               <file filename="080_I5_n0.png" id="157690111" md5="a1a88b20c130861fede8dfc5b6b6f1bd" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/a1/a1a88b20c130861fede8dfc5b6b6f1bd.png]]></webPath>
+               </file>
+               <file filename="080_I6_0n.png" id="157690112" md5="1db38c75ee1aa9f10effac1a8cf756" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/1d/1db38c75ee1aa9f10effac1a8cf756.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157690113" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157690114" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157690115" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157690116" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157690117" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157690118</id>
+               <grade>1</grade>
+               <mode>8</mode>
+               <name/>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>2</schwierigkeit>
+               <answer>
+                  <id>157690119</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$i_T$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG1]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690120</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[$i_D$]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG2]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690121</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG3]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690122</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG4]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690123</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG5]]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690124</id>
+                  <fraction>0</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text/>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima/>
+                  <answer><![CDATA[[IMG6]]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157690104</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.8]]></minimum>
+               <maximum><![CDATA[0.8]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[80]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[%]]></einheit>
+               <items><![CDATA[0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8;0.8]]></items>
+            </dataset>
+         </question>
+      </category>
+      <category>
+         <name><![CDATA[8.2 H-Brücke]]></name>
+         <idSchule>0</idSchule>
+         <question type="MoodleClozeCalc">
+            <id>157690215</id>
+            <idUser>1836</idUser>
+            <questionType>22</questionType>
+            <single>2</single>
+            <name><![CDATA[Duty cycle 1]]></name>
+            <punkte>1</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima><![CDATA[dU : [[0,-Umax],[1,Umax]]
+
+Uavg : Umax * (2 * d - 1) ]]></maxima>
+            <maximaAngabe><![CDATA[;::;Uavg:Umax*(2*d-1);dU:matrix([0,-Umax],[1,Umax]);]]></maximaAngabe>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>1</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins><![CDATA[[PI Plugin1 Plot "f(d,Uavg) := dU ; d:-0.01,1.01,tex="d"; Uavg:-Umax,Umax,tex="$\overline {u_{12}}$"; f:color=blue; ae;cursor = off"]]]></plugins>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157690219" format="html">
+                           <inhalt><![CDATA[<h2>Tastverh&auml;ltnis</h2>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Gegeben ist der Verlauf des Mittelwerts der Ausgansspannung $\overline {u_{12}}$ als Funktion des Tastverh&auml;ltnisses $d$, wobei die Ausgangsspannung den Bereich ${=-Umax} \le u_\mathrm{avg} \le {=Umax}$ umfasst:</p>
+
+<p>[PIG Plugin1 "w100"/]</p>
+
+<p>Bestimmen Sie f&uuml;r das Tastverh&auml;ltnis&nbsp;$d = {=d,4}$ den Mittelwert der Ausgangsspannung&nbsp;$\overline {u_{12}} = $ [Q0]&nbsp;mit 1% Genauigkeit</p>]]></inhalt>
+
+               <file filename="HBruecke.png" id="157690220" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/57/57aaecc7cd8789e5a26c3ce01a71fa4c.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157690221" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157690222" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157690223" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157690224" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157690225" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157690226</id>
+               <grade>1</grade>
+               <mode>4</mode>
+               <name><![CDATA[Q0]]></name>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>0</schwierigkeit>
+               <answer>
+                  <id>157690227</id>
+                  <fraction>100</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[Umax*(2*d-1)]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima><![CDATA[Uavg]]></maxima>
+                  <answer><![CDATA[-67.5V]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157690217</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[Umax]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[48]]></minimum>
+               <maximum><![CDATA[235]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[48,135,165,225,235]]></zahlenbereich>
+               <ziffern>13</ziffern>
+               <einheit><![CDATA[V]]></einheit>
+               <items><![CDATA[135;135;135;165;48;135;225;165;235;165;135;135;48;165;135;165;48;135;135;165;165;225;165;225;48;48;235;48;165;135;165;165;165;135;225;135;225;235;235;165]]></items>
+            </dataset>
+            <dataset>
+               <id>157690218</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.22]]></minimum>
+               <maximum><![CDATA[0.86]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[F2:0.21-0.29,0.31-0.39,0.41-0.42,0.61-0.69,0.71-0.79,0.81-0.89]]></zahlenbereich>
+               <ziffern>2</ziffern>
+               <einheit/>
+               <items><![CDATA[0.25;0.65;0.42;0.61;0.35;0.64;0.68;0.77;0.22;0.84;0.76;0.32;0.84;0.27;0.42;0.83;0.73;0.72;0.74;0.28;0.86;0.23;0.24;0.62;0.77;0.42;0.77;0.64;0.35;0.42;0.41;0.62;0.24;0.42;0.36;0.77;0.42;0.27;0.75;0.69]]></items>
+            </dataset>
+         </question>
+         <question type="MoodleClozeCalc">
+            <id>157690228</id>
+            <idUser>1836</idUser>
+            <questionType>22</questionType>
+            <single>2</single>
+            <name><![CDATA[Duty cycle 2]]></name>
+            <punkte>1</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima><![CDATA[dU : [[0,-Umax],[1,Umax]]
+
+Uavg : Umax * (2 * d - 1)]]></maxima>
+            <maximaAngabe><![CDATA[;::;Uavg:Umax*(2*d-1);dU:matrix([0,-Umax],[1,Umax]);]]></maximaAngabe>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>1</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins><![CDATA[[PI Plugin1 Plot "f(d,Uavg) := dU ; d:-0.01,1.01,tex="d"; Uavg:-Umax,Umax,tex="\overline{u_{12}}"; f:color=blue; ae;cursor = off"]]]></plugins>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157690232" format="html">
+                           <inhalt><![CDATA[<h2>Tastverh&auml;ltnis</h2>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Gegeben ist der Verlauf des Mittelwerts der Ausgansspannung $\overline {u_{12}}$ als Funktion des Tastverh&auml;ltnisses $d$, wobei die Ausgangsspannung den Bereich ${=-Umax} \le \overline {u_{12}} \le {=Umax}$ umfasst:</p>
+
+<p>[PIG Plugin1 "w100"/]</p>
+
+<p>Bestimmen Sie f&uuml;r&nbsp;den Mittelwert der Ausgangsspannung $\overline {u_{12}} = {=Uavg,4}$ das Tastverh&auml;ltnis&nbsp;$d=$ [Q0]&nbsp;mit 1% Genauigkeit</p>]]></inhalt>
+
+               <file filename="HBruecke.png" id="157690233" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/57/57aaecc7cd8789e5a26c3ce01a71fa4c.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157690234" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157690235" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157690236" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157690237" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157690238" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157690239</id>
+               <grade>1</grade>
+               <mode>4</mode>
+               <name><![CDATA[Q0]]></name>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>0</schwierigkeit>
+               <answer>
+                  <id>157690240</id>
+                  <fraction>100</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[d]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima><![CDATA[d]]></maxima>
+                  <answer><![CDATA[0.41]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157690230</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[Umax]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[48]]></minimum>
+               <maximum><![CDATA[235]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[48,135,165,225,235]]></zahlenbereich>
+               <ziffern>12</ziffern>
+               <einheit><![CDATA[V]]></einheit>
+               <items><![CDATA[135;165;235;235;165;135;135;235;165;235;235;225;135;48;135;135;165;165;235;225;235;225;135;235;235;165;165;48;165;135;225;48;225;235;135;48;135;235;48;225]]></items>
+            </dataset>
+            <dataset>
+               <id>157690231</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.22]]></minimum>
+               <maximum><![CDATA[0.87]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[F2:0.21-0.29,0.31-0.39,0.41-0.42,0.61-0.69,0.71-0.79,0.81-0.89]]></zahlenbereich>
+               <ziffern>2</ziffern>
+               <einheit/>
+               <items><![CDATA[0.41;0.72;0.32;0.41;0.63;0.73;0.77;0.87;0.34;0.24;0.86;0.22;0.68;0.42;0.41;0.66;0.72;0.85;0.35;0.87;0.41;0.76;0.66;0.38;0.81;0.24;0.62;0.87;0.77;0.32;0.85;0.65;0.41;0.25;0.22;0.62;0.63;0.26;0.27;0.41]]></items>
+            </dataset>
+         </question>
+         <question type="MoodleClozeCalc">
+            <id>157690241</id>
+            <idUser>1836</idUser>
+            <questionType>22</questionType>
+            <single>2</single>
+            <name><![CDATA[Mittelwert ua]]></name>
+            <punkte>1</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima><![CDATA[t1 : d * T
+uaavg : (1 - 2 * d) * Ue
+iaavg : uaavg / R
+dIneg : -Ue * d * T / L
+dIpos : Ue * (1 - d) * T / L
+I1 : iaavg + dIpos
+I2 : iaavg + dIneg
+pm : wenn(iaavg > 0, 1, -1)
+dI : pm * iaavg / 10
+  
+tia : [[0s,I1],[t1,I2],[T,I1],[T+t1,I2],[2*T,I1]]
+tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2*T,Ue],[2*T,-Ue]]
+
+]]></maxima>
+            <maximaAngabe><![CDATA[MaxC0:0s;MaxC1:0s;MaxC2:0s;;::;I1:(1-d)*Ue*T/L+(1-2*d)*Ue/R;I2:(1-2*d)*Ue/R-d*Ue*T/L;dI:(1-2*d)*Ue*wenn((1-2*d)*Ue/R>0,1,-1)/(10*R);dIneg:-d*Ue*T/L;dIpos:(1-d)*Ue*T/L;iaavg:(1-2*d)*Ue/R;pm:wenn((1-2*d)*Ue/R>0,1,-1);t1:d*T;tia:matrix([0s,(1-d)*Ue*T/L+(1-2*d)*Ue/R],[d*T,(1-2*d)*Ue/R-d*Ue*T/L],[T,(1-d)*Ue*T/L+(1-2*d)*Ue/R],[d*T+T,(1-2*d)*Ue/R-d*Ue*T/L],[2*T,(1-d)*Ue*T/L+(1-2*d)*Ue/R]);tua:matrix([0s,Ue],[0s,-Ue],[d*T,-Ue],[d*T,Ue],[T,Ue],[T,-Ue],[d*T+T,-Ue],[d*T+T,Ue],[2*T,Ue],[2*T,-Ue]);uaavg:(1-2*d)*Ue;]]></maximaAngabe>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>1</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins><![CDATA[[PI Plugin1 Plot "f(t,ua) := tua; t:0s,2*T, eh = ms; ua: -Ue-10V,Ue+10V;ae; f:color=blue"]]]></plugins>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157690248" format="html">
+                           <inhalt><![CDATA[<h2>Spannungsmittelwert</h2>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Gegeben ist der rechteckf&ouml;rmige Verlauf der Ausgangsspannung $u_{12}$ eines Gleichstromstellers als Funktion der Zeit:</p>
+
+<p>[PIG Plugin1 ""/]</p>
+
+<p>Bestimmen Sie den arithmetischen Mittelwert der Spannung, $\overline {u_{12}} = $ [Q0]&nbsp;</p>]]></inhalt>
+
+               <file filename="HBruecke.png" id="157690249" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/57/57aaecc7cd8789e5a26c3ce01a71fa4c.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157690250" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157690251" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157690252" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157690253" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157690254" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157690255</id>
+               <grade>1</grade>
+               <mode>4</mode>
+               <name><![CDATA[Q0]]></name>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>0</schwierigkeit>
+               <answer>
+                  <id>157690256</id>
+                  <fraction>100</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[Ue*(1-2*d)]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima><![CDATA[uaavg]]></maxima>
+                  <answer><![CDATA[40V]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157690243</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[T]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.005]]></minimum>
+               <maximum><![CDATA[0.05]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[5,10,20,50]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[ms]]></einheit>
+               <items><![CDATA[0.01;0.05;0.01;0.05;0.01;0.005;0.005;0.01;0.05;0.01;0.005;0.02;0.01;0.05;0.02;0.01;0.005;0.005;0.05;0.05;0.01;0.005;0.05;0.005;0.005;0.05;0.05;0.02;0.01;0.05;0.005;0.05;0.01;0.01;0.05;0.05;0.05;0.005;0.05;0.02]]></items>
+            </dataset>
+            <dataset>
+               <id>157690244</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.2]]></minimum>
+               <maximum><![CDATA[0.8]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[20,40,50,60,80]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[%]]></einheit>
+               <items><![CDATA[0.4;0.6;0.6;0.6;0.2;0.6;0.6;0.5;0.6;0.8;0.5;0.8;0.2;0.4;0.4;0.2;0.8;0.5;0.8;0.4;0.6;0.4;0.4;0.6;0.4;0.4;0.6;0.2;0.4;0.2;0.6;0.8;0.2;0.4;0.4;0.2;0.8;0.8;0.6;0.6]]></items>
+            </dataset>
+            <dataset>
+               <id>157690245</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[Ue]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[100]]></minimum>
+               <maximum><![CDATA[400]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[F1:100-400]]></zahlenbereich>
+               <ziffern>1</ziffern>
+               <einheit><![CDATA[V]]></einheit>
+               <items><![CDATA[200;100;200;300;400;100;200;200;200;300;200;200;200;200;200;200;300;300;200;100;200;300;300;300;300;400;200;200;200;300;100;400;200;400;100;200;400;300;200;100]]></items>
+            </dataset>
+            <dataset>
+               <id>157690246</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[R]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[10]]></minimum>
+               <maximum><![CDATA[20]]></maximum>
+               <decimals><![CDATA[3]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[10,20]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[Ohm]]></einheit>
+               <items><![CDATA[10;10;10;20;10;20;10;10;10;20;20;20;10;20;20;10;20;20;20;10;20;20;20;20;20;10;10;10;10;10;10;10;20;20;10;10;10;10;20;10]]></items>
+            </dataset>
+            <dataset>
+               <id>157690247</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[L]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[1]]></minimum>
+               <maximum><![CDATA[2]]></maximum>
+               <decimals><![CDATA[3]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[1,2]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[H]]></einheit>
+               <items><![CDATA[1;1;2;2;2;1;2;2;2;1;1;2;2;2;1;2;2;1;1;1;2;1;1;1;1;1;2;2;1;1;2;1;1;2;2;2;2;1;1;1]]></items>
+            </dataset>
+         </question>
+         <question type="MoodleClozeCalc">
+            <id>157690257</id>
+            <idUser>1836</idUser>
+            <questionType>22</questionType>
+            <single>2</single>
+            <name><![CDATA[Mittelwert ia]]></name>
+            <punkte>3</punkte>
+            <penalty/>
+            <hidden>0</hidden>
+            <tag/>
+            <noAutoCorrect>0</noAutoCorrect>
+            <usecase>0</usecase>
+            <synchronize>0</synchronize>
+            <shuffleAnswers>1</shuffleAnswers>
+            <answerNumbering><![CDATA[abc]]></answerNumbering>
+            <unitGradingType>2</unitGradingType>
+            <unitPenalty>0.1</unitPenalty>
+            <showUnits>0</showUnits>
+            <unitsLeft>0</unitsLeft>
+            <maxima><![CDATA[t1 : d * T
+uaavg : (1 - 2 * d) * Ue
+iaavg : uaavg / R
+dIneg : -Ue * d * T / L
+dIpos : Ue * (1 - d) * T / L
+I1 : iaavg + dIpos
+I2 : iaavg + dIneg
+pm : wenn(iaavg > 0, 1, -1)
+dI : pm * iaavg / 10
+  
+tia : [[0s,I1],[t1,I2],[T,I1],[T+t1,I2],[2*T,I1]]
+tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2*T,Ue],[2*T,-Ue]]
+
+]]></maxima>
+            <maximaAngabe><![CDATA[MaxC0:1mA;MaxC1:0A;MaxC2:1mA;MaxC3:0A;MaxC4:0s;MaxC5:0s;MaxC6:0s;;::;I1:(1-d)*Ue*T/L+(1-2*d)*Ue/R;I2:(1-2*d)*Ue/R-d*Ue*T/L;dI:(1-2*d)*Ue*wenn((1-2*d)*Ue/R>0,1,-1)/(10*R);dIneg:-d*Ue*T/L;dIpos:(1-d)*Ue*T/L;iaavg:(1-2*d)*Ue/R;pm:wenn((1-2*d)*Ue/R>0,1,-1);t1:d*T;tia:matrix([0s,(1-d)*Ue*T/L+(1-2*d)*Ue/R],[d*T,(1-2*d)*Ue/R-d*Ue*T/L],[T,(1-d)*Ue*T/L+(1-2*d)*Ue/R],[d*T+T,(1-2*d)*Ue/R-d*Ue*T/L],[2*T,(1-d)*Ue*T/L+(1-2*d)*Ue/R]);tua:matrix([0s,Ue],[0s,-Ue],[d*T,-Ue],[d*T,Ue],[T,Ue],[T,-Ue],[d*T+T,-Ue],[d*T+T,Ue],[2*T,Ue],[2*T,-Ue]);uaavg:(1-2*d)*Ue;]]></maximaAngabe>
+            <responseFormat><![CDATA[editor]]></responseFormat>
+            <responseFieldLines>10</responseFieldLines>
+            <attachments>3</attachments>
+            <md5/>
+            <revNrServer>1</revNrServer>
+            <revNrLocal>0</revNrLocal>
+            <units/>
+            <plugins><![CDATA[[PI Plugin1 Plot "f(t,ia) := tia; t:0s,2*T, eh = ms; ia: I2-dI,I1+dI; ae"]]]></plugins>
+            <sendToParser>false</sendToParser>
+            <preCalc>false</preCalc>
+            <streng>false</streng>
+            <licenceKey />
+            <konstanteMitProzent>true</konstanteMitProzent>
+            <useSymbolicMode>false</useSymbolicMode>
+            <addDocumentsPossible>false</addDocumentsPossible>
+            <info/>
+            <randomDataset>false</randomDataset>
+            <questionCommentMsg/>
+            <questionCommentIcon>REVIEWED</questionCommentIcon>
+            <text art="Questiontext" id="157690264" format="html">
+                           <inhalt><![CDATA[<h2>Strommittelwert</h2>
+
+<p>[IMG0]<br/>
+<strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
+
+<p>Gegeben ist ein ann&auml;hernd dreieckf&ouml;rmiger Verlauf des Laststroms $i_a$ eines Gleichstromstellers als Funktion der Zeit:</p>
+
+<p>[PIG Plugin1 ""/]</p>
+
+<p>(a) Bestimmen Sie den Maximalwert des Stroms $\max(i_a) = $ [Q0]&nbsp;</p>
+
+<p>(b) Bestimmen Sie den Minimalwert des Stroms $\min(i_a) = $ [Q1]&nbsp;</p>
+
+<p>(c) Bestimmen Sie den arithmetischen Mittelwert des Stroms $\overline {i_a}=$ [Q2]</p>]]></inhalt>
+
+               <file filename="HBruecke.png" id="157690265" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/57/57aaecc7cd8789e5a26c3ce01a71fa4c.png]]></webPath>
+               </file>
+            </text>
+            <text art="general feedback" id="157690266" format="html">            <inhalt/>
+</text>
+            <text art="correct feedback" id="157690267" format="html">            <inhalt/>
+</text>
+            <text art="partially correct feedback" id="157690268" format="html">            <inhalt/>
+</text>
+            <text art="incorrect feedback" id="157690269" format="html">            <inhalt/>
+</text>
+            <text art="grader info" id="157690270" format="html">            <inhalt/>
+</text>
+            <subquestion>
+               <id>157690271</id>
+               <grade>1</grade>
+               <mode>4</mode>
+               <name><![CDATA[Q0]]></name>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>0</schwierigkeit>
+               <answer>
+                  <id>157690272</id>
+                  <fraction>100</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[wenn(abs((T*Ue*(1-d))/L+(Ue*(1-2*d))/R)<1mA,0A,(T*Ue*(1-d))/L+(Ue*(1-2*d))/R)]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[5%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima><![CDATA[wenn(abs(I1)<1mA,0A,I1)]]></maxima>
+                  <answer><![CDATA[5.2A]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <subquestion>
+               <id>157690273</id>
+               <grade>1</grade>
+               <mode>4</mode>
+               <name><![CDATA[Q1]]></name>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>0</schwierigkeit>
+               <answer>
+                  <id>157690274</id>
+                  <fraction>100</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[wenn(abs((T*Ue*d)/L+(-Ue*(1-2*d))/R)<1mA,0A,(Ue*(1-2*d))/R+(-T*Ue*d)/L)]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[5%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima><![CDATA[wenn(abs(I2)<1mA,0A,I2)]]></maxima>
+                  <answer><![CDATA[3.2A]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <subquestion>
+               <id>157690275</id>
+               <grade>1</grade>
+               <mode>4</mode>
+               <name><![CDATA[Q2]]></name>
+               <maxima/>
+               <plugininfo/>
+               <plugininputimage/>
+               <shuffleAnswers>1</shuffleAnswers>
+               <schwierigkeit>0</schwierigkeit>
+               <answer>
+                  <id>157690276</id>
+                  <fraction>100</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[1/2*((2*Ue*(1-2*d))/R+(T*Ue*(1-d))/L+(-T*Ue*d)/L)]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[5%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima><![CDATA[(I1 + I2) / 2]]></maxima>
+                  <answer><![CDATA[4.2A]]></answer>
+                  <einheit/>
+               </answer>
+               <answer>
+                  <id>157690277</id>
+                  <fraction>100</fraction>
+                  <format><![CDATA[html]]></format>
+                  <text><![CDATA[1/2*(Q0+Q1)]]></text>
+                  <feedback/>
+                  <tolerance><![CDATA[1.0%]]></tolerance>
+                  <correctAnswerFormat>2</correctAnswerFormat>
+                  <correctAnswerLength>5</correctAnswerLength>
+                  <maxima><![CDATA[(Q0 + Q1) / 2]]></maxima>
+                  <answer><![CDATA[4.2A]]></answer>
+                  <einheit/>
+               </answer>
+            </subquestion>
+            <dataset>
+               <id>157690259</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[T]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.005]]></minimum>
+               <maximum><![CDATA[0.05]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[5,10,20,50]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[ms]]></einheit>
+               <items><![CDATA[0.01;0.05;0.01;0.05;0.01;0.005;0.005;0.01;0.05;0.01;0.005;0.02;0.01;0.05;0.02;0.01;0.005;0.005;0.05;0.05;0.01;0.005;0.05;0.005;0.005;0.05;0.05;0.02;0.01;0.05;0.005;0.05;0.01;0.01;0.05;0.05;0.05;0.005;0.05;0.02]]></items>
+            </dataset>
+            <dataset>
+               <id>157690260</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[d]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[0.2]]></minimum>
+               <maximum><![CDATA[0.8]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[20,40,50,60,80]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[%]]></einheit>
+               <items><![CDATA[0.4;0.6;0.6;0.6;0.2;0.6;0.6;0.5;0.6;0.8;0.5;0.8;0.2;0.4;0.4;0.2;0.8;0.5;0.8;0.4;0.6;0.4;0.4;0.6;0.4;0.4;0.6;0.2;0.4;0.2;0.6;0.8;0.2;0.4;0.4;0.2;0.8;0.8;0.6;0.6]]></items>
+            </dataset>
+            <dataset>
+               <id>157690261</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[Ue]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[100]]></minimum>
+               <maximum><![CDATA[300]]></maximum>
+               <decimals><![CDATA[0]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[F1:100-300]]></zahlenbereich>
+               <ziffern>1</ziffern>
+               <einheit><![CDATA[V]]></einheit>
+               <items><![CDATA[200;200;200;200;200;200;200;200;200;300;300;200;100;300;100;200;200;300;200;100;300;300;200;300;300;300;300;200;200;200;300;200;300;200;200;200;200;100;200;200]]></items>
+            </dataset>
+            <dataset>
+               <id>157690262</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[R]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[10]]></minimum>
+               <maximum><![CDATA[20]]></maximum>
+               <decimals><![CDATA[3]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[10,20]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[Ohm]]></einheit>
+               <items><![CDATA[10;10;10;20;10;20;10;10;10;20;20;20;10;20;20;10;20;20;20;10;20;20;20;20;20;10;10;10;10;10;10;10;20;20;10;10;10;10;20;10]]></items>
+            </dataset>
+            <dataset>
+               <id>157690263</id>
+               <status><![CDATA[shared]]></status>
+               <name><![CDATA[L]]></name>
+               <type><![CDATA[calculated]]></type>
+               <distribution><![CDATA[uniform]]></distribution>
+               <minimum><![CDATA[1]]></minimum>
+               <maximum><![CDATA[2]]></maximum>
+               <decimals><![CDATA[3]]></decimals>
+               <itemcount>40</itemcount>
+               <zahlenbereich><![CDATA[1,2]]></zahlenbereich>
+               <ziffern>14</ziffern>
+               <einheit><![CDATA[H]]></einheit>
+               <items><![CDATA[1;1;2;2;2;1;2;2;2;1;1;2;2;2;1;2;2;1;1;1;2;1;1;1;1;1;2;2;1;1;2;1;1;2;2;2;2;1;1;1]]></items>
+            </dataset>
+         </question>
+      </category>
+   </category>
+</letto>
