@@ -2329,7 +2329,7 @@ Ie4 : IeN * exp(-t4 / Te)]]></maxima>
                <showUnits>0</showUnits>
                <unitsLeft>0</unitsLeft>
                <maxima><![CDATA[erg:[3,7,11]]]></maxima>
-               <maximaAngabe/>
+               <maximaAngabe><![CDATA[;::;erg:[3,7,11];]]></maximaAngabe>
                <responseFormat><![CDATA[editor]]></responseFormat>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
@@ -2354,7 +2354,7 @@ Ie4 : IeN * exp(-t4 / Te)]]></maxima>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 
-                  <file filename="SMPM-Vergraben-Rechteck-mono.png" id="157699757" md5="fba9ee25a63d4d8261be4a9e89de33d" idUser="0" ext="png" width="50%" height="50" title="" alt="" style="">
+                  <file filename="SMPM-Vergraben-Rechteck-mono.png" id="158360420" md5="fba9ee25a63d4d8261be4a9e89de33d" idUser="0" ext="png" width="50%" height="50" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/fb/fba9ee25a63d4d8261be4a9e89de33d.png]]></webPath>
                   </file>
                </text>
@@ -2382,13 +2382,13 @@ Ie4 : IeN * exp(-t4 / Te)]]></maxima>
                      <id>157699764</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text/>
+                     <text><![CDATA[[3,7,11]]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
                      <correctAnswerLength>5</correctAnswerLength>
                      <maxima><![CDATA[erg]]></maxima>
-                     <answer/>
+                     <answer><![CDATA[[3,7,11]]]></answer>
                      <einheit/>
                   </answer>
                </subquestion>
@@ -2413,7 +2413,7 @@ Ie4 : IeN * exp(-t4 / Te)]]></maxima>
                <showUnits>0</showUnits>
                <unitsLeft>0</unitsLeft>
                <maxima><![CDATA[erg:[1,3,5,7,9,11,13]]]></maxima>
-               <maximaAngabe><![CDATA[;::;]]></maximaAngabe>
+               <maximaAngabe><![CDATA[;::;erg:[1,3,5,7,9,11,13];]]></maximaAngabe>
                <responseFormat><![CDATA[editor]]></responseFormat>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
@@ -2438,7 +2438,7 @@ Ie4 : IeN * exp(-t4 / Te)]]></maxima>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 
-                  <file filename="SMPM-Vergraben-Rechteck-mono.png" id="157699767" md5="668a55d24365097935d85f649624f8" idUser="0" ext="png" width="50%" height="50" title="" alt="" style="">
+                  <file filename="SMPM-Vergraben-Rechteck-mono.png" id="158511672" md5="668a55d24365097935d85f649624f8" idUser="0" ext="png" width="50%" height="50" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/66/668a55d24365097935d85f649624f8.png]]></webPath>
                   </file>
                </text>
