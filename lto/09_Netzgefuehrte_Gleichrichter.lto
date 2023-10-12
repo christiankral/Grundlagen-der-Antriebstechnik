@@ -5742,10 +5742,9 @@ DX4 : vget(Dvec, X4)]]></maxima>
             </subquestion>
          </question>
          <question type="MoodleClozeCalc">
-            <id>157691117</id>
+            <id>158547885</id>
             <idUser>1836</idUser>
             <questionType>22</questionType>
-            <single>2</single>
             <name><![CDATA[B6U Diodenstrom 3]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -5781,7 +5780,7 @@ DX4 : vget(Dvec, X4)]]></maxima>
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157691119" format="html">
+            <text art="Questiontext" id="158547887" format="html">
                            <inhalt><![CDATA[<h2>B6U Diodenstrom&nbsp;</h2>
 
 <p>[IMG0]<br/>
@@ -5799,17 +5798,17 @@ DX4 : vget(Dvec, X4)]]></maxima>
 
 <p>&nbsp;</p>]]></inhalt>
 
-               <file filename="B6U.png" id="157691120" md5="b3ae17b47a218022f95a6c31e4a23" idUser="0" ext="png" width="70%" height="0" title="" alt="" style="">
+               <file filename="B6U.png" id="158547888" md5="b3ae17b47a218022f95a6c31e4a23" idUser="0" ext="png" width="70%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/b3/b3ae17b47a218022f95a6c31e4a23.png]]></webPath>
                </file>
-               <file filename="b6udc.png" id="157691121" md5="6735eb1320ac22ec1cfaf68fab806d14" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="b6udc.png" id="158547889" md5="6735eb1320ac22ec1cfaf68fab806d14" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/67/6735eb1320ac22ec1cfaf68fab806d14.png]]></webPath>
                </file>
-               <file filename="b6iT3p.png" id="157691122" md5="412571adfec699c95db740661865f17" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="b6iT3p.png" id="158547890" md5="412571adfec699c95db740661865f17" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/41/412571adfec699c95db740661865f17.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157691123" format="html">
+            <text art="general feedback" id="158547891" format="html">
                            <inhalt><![CDATA[<p>F&uuml;r die Zeitdauer, in der der&nbsp;angegenebe&nbsp;Stromverlauf nicht null ist,&nbsp;wird die Spannung $u_d$ aus einer Kombination von zwei Au&szlig;enleiterspannungen gebildet. M&ouml;gliche Au&szlig;enleiterspannungen sind $\pm u_{12}$,&nbsp;$\pm u_{23}$ und&nbsp;$\pm u_{31}$.</p>
 
 <p>[IMG0]</p>
@@ -5833,30 +5832,30 @@ DX4 : vget(Dvec, X4)]]></maxima>
 
 <p>&nbsp;</p>]]></inhalt>
 
-               <file filename="Clipboard.png" id="157691124" md5="3ef53daf5f34f2658c7996828857c13" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="Clipboard.png" id="158547892" md5="3ef53daf5f34f2658c7996828857c13" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/3e/3ef53daf5f34f2658c7996828857c13.png]]></webPath>
                </file>
             </text>
-            <text art="correct feedback" id="157691125" format="html">            <inhalt/>
+            <text art="correct feedback" id="158547893" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157691126" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="158547894" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157691127" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="158547895" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157691128" format="html">            <inhalt/>
+            <text art="grader info" id="158547896" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157691129</id>
+               <id>158547897</id>
                <grade>1</grade>
                <mode>3</mode>
                <name><![CDATA[Q0]]></name>
                <maxima/>
                <plugininfo/>
                <plugininputimage/>
-               <shuffleAnswers>1</shuffleAnswers>
+               <shuffleAnswers>0</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157691130</id>
+                  <id>158547898</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{1p}$]]></text>
@@ -5869,7 +5868,7 @@ DX4 : vget(Dvec, X4)]]></maxima>
                   <einheit/>
                </answer>
                <answer>
-                  <id>157691131</id>
+                  <id>158547899</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{3n}$]]></text>
@@ -5882,8 +5881,8 @@ DX4 : vget(Dvec, X4)]]></maxima>
                   <einheit/>
                </answer>
                <answer>
-                  <id>157691132</id>
-                  <fraction>100</fraction>
+                  <id>158547900</id>
+                  <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{2p}$]]></text>
                   <feedback/>
@@ -5895,7 +5894,7 @@ DX4 : vget(Dvec, X4)]]></maxima>
                   <einheit/>
                </answer>
                <answer>
-                  <id>157691133</id>
+                  <id>158547901</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{1n}$]]></text>
@@ -5908,8 +5907,8 @@ DX4 : vget(Dvec, X4)]]></maxima>
                   <einheit/>
                </answer>
                <answer>
-                  <id>157691134</id>
-                  <fraction>-100</fraction>
+                  <id>158547902</id>
+                  <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{3p}$]]></text>
                   <feedback/>
@@ -5921,7 +5920,7 @@ DX4 : vget(Dvec, X4)]]></maxima>
                   <einheit/>
                </answer>
                <answer>
-                  <id>157691135</id>
+                  <id>158547903</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{2n}$]]></text>
@@ -5936,10 +5935,9 @@ DX4 : vget(Dvec, X4)]]></maxima>
             </subquestion>
          </question>
          <question type="MoodleClozeCalc">
-            <id>157691136</id>
+            <id>158547904</id>
             <idUser>1836</idUser>
             <questionType>22</questionType>
-            <single>2</single>
             <name><![CDATA[B6U Diodenstrom 5]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -5975,7 +5973,7 @@ DX4 : vget(Dvec, X4)]]></maxima>
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157691138" format="html">
+            <text art="Questiontext" id="158547906" format="html">
                            <inhalt><![CDATA[<h2>B6U Diodenstrom&nbsp;</h2>
 
 <p>[IMG0]<br/>
@@ -5993,17 +5991,17 @@ DX4 : vget(Dvec, X4)]]></maxima>
 
 <p>&nbsp;</p>]]></inhalt>
 
-               <file filename="B6U.png" id="157691139" md5="b3ae17b47a218022f95a6c31e4a23" idUser="0" ext="png" width="70%" height="0" title="" alt="" style="">
+               <file filename="B6U.png" id="158547907" md5="b3ae17b47a218022f95a6c31e4a23" idUser="0" ext="png" width="70%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/b3/b3ae17b47a218022f95a6c31e4a23.png]]></webPath>
                </file>
-               <file filename="b6udc.png" id="157691140" md5="6735eb1320ac22ec1cfaf68fab806d14" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="b6udc.png" id="158547908" md5="6735eb1320ac22ec1cfaf68fab806d14" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/67/6735eb1320ac22ec1cfaf68fab806d14.png]]></webPath>
                </file>
-               <file filename="b6iT1n.png" id="157691141" md5="f8c79db08a41ffa2c7c736be7cdbf63" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="b6iT1n.png" id="158547909" md5="f8c79db08a41ffa2c7c736be7cdbf63" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/f8/f8c79db08a41ffa2c7c736be7cdbf63.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157691142" format="html">
+            <text art="general feedback" id="158547910" format="html">
                            <inhalt><![CDATA[<p>&nbsp;</p>
 
 <p>F&uuml;r die Zeitdauer, in der der&nbsp;angegenebe&nbsp;Stromverlauf nicht null ist,&nbsp;wird die Spannung $u_d$ aus einer Kombination von zwei Au&szlig;enleiterspannungen gebildet. M&ouml;gliche Au&szlig;enleiterspannungen sind $\pm u_{12}$,&nbsp;$\pm u_{23}$ und&nbsp;$\pm u_{31}$.</p>
@@ -6029,30 +6027,30 @@ DX4 : vget(Dvec, X4)]]></maxima>
 
 <p>&nbsp;</p>]]></inhalt>
 
-               <file filename="Clipboard.png" id="157691143" md5="3ef53daf5f34f2658c7996828857c13" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="Clipboard.png" id="158547911" md5="3ef53daf5f34f2658c7996828857c13" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/3e/3ef53daf5f34f2658c7996828857c13.png]]></webPath>
                </file>
             </text>
-            <text art="correct feedback" id="157691144" format="html">            <inhalt/>
+            <text art="correct feedback" id="158547912" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157691145" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="158547913" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157691146" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="158547914" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157691147" format="html">            <inhalt/>
+            <text art="grader info" id="158547915" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157691148</id>
+               <id>158547916</id>
                <grade>1</grade>
                <mode>3</mode>
                <name><![CDATA[Q0]]></name>
                <maxima/>
                <plugininfo/>
                <plugininputimage/>
-               <shuffleAnswers>1</shuffleAnswers>
+               <shuffleAnswers>0</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157691149</id>
+                  <id>158547917</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{1p}$]]></text>
@@ -6065,7 +6063,7 @@ DX4 : vget(Dvec, X4)]]></maxima>
                   <einheit/>
                </answer>
                <answer>
-                  <id>157691150</id>
+                  <id>158547918</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{3n}$]]></text>
@@ -6078,7 +6076,7 @@ DX4 : vget(Dvec, X4)]]></maxima>
                   <einheit/>
                </answer>
                <answer>
-                  <id>157691151</id>
+                  <id>158547919</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{2p}$]]></text>
@@ -6091,8 +6089,8 @@ DX4 : vget(Dvec, X4)]]></maxima>
                   <einheit/>
                </answer>
                <answer>
-                  <id>157691152</id>
-                  <fraction>-100</fraction>
+                  <id>158547920</id>
+                  <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{1n}$]]></text>
                   <feedback/>
@@ -6104,7 +6102,7 @@ DX4 : vget(Dvec, X4)]]></maxima>
                   <einheit/>
                </answer>
                <answer>
-                  <id>157691153</id>
+                  <id>158547921</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{3p}$]]></text>
@@ -6117,8 +6115,8 @@ DX4 : vget(Dvec, X4)]]></maxima>
                   <einheit/>
                </answer>
                <answer>
-                  <id>157691154</id>
-                  <fraction>100</fraction>
+                  <id>158547922</id>
+                  <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_{2n}$]]></text>
                   <feedback/>
