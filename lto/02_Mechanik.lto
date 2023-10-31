@@ -21486,7 +21486,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
             <name><![CDATA[2.1.11 Reibung]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157674585</id>
+               <id>158654108</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -21510,7 +21510,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>0</revNrServer>
+               <revNrServer>1</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -21523,24 +21523,24 @@ FGvec : FGNvec + FGTvec]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157674586" format="html">               <inhalt><![CDATA[<h2>Haftreibungskoeffizient</h2>
+               <text art="Questiontext" id="158654109" format="html">               <inhalt><![CDATA[<h2>Haftreibungskoeffizient</h2>
 
 <p>Der Haftreibungskoeffizient $\mu_H$ zwischen einem K&ouml;rper und seinem Untergrund h&auml;ngt von folgenden Einflussgr&ouml;&szlig;en ab:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157674587" format="html">               <inhalt/>
+               <text art="general feedback" id="158654110" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157674588" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654111" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674589" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654112" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674590" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654113" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674591" format="html">               <inhalt/>
+               <text art="grader info" id="158654114" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674592</id>
+                  <id>158654115</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -21550,7 +21550,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674593</id>
+                     <id>158654116</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Materialpaarung zwischen Körper und Untergrund]]></text>
@@ -21563,7 +21563,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674594</id>
+                     <id>158654117</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Ausschließlich vom Material des Körpers]]></text>
@@ -21576,7 +21576,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674595</id>
+                     <id>158654118</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Ausschließlich vom Material des Untergrunds]]></text>
@@ -21589,7 +21589,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674596</id>
+                     <id>158654119</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Von der Gewichtskraft]]></text>
@@ -21602,7 +21602,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674597</id>
+                     <id>158654120</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Von der Normalkraft]]></text>
@@ -21617,7 +21617,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157674598</id>
+               <id>158654121</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -21654,7 +21654,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157674599" format="html">
+               <text art="Questiontext" id="158654122" format="html">
                                  <inhalt><![CDATA[<h2>Haftreibungskraft</h2>
 
 <p>[IMG0]</p>
@@ -21665,29 +21665,29 @@ FGvec : FGNvec + FGTvec]]></maxima>
 	<li>$\vec F_G = \vec F_{GT} + \vec F_{GN} = $&nbsp;Gewichtskraft</li>
 	<li>$\vec F_{GT} = $ Tangentialkomponente der Gewichtskraft</li>
 	<li>$\vec F_{GN} = $ Normalkomponente der Gewichtskraft</li>
-	<li>$\vec F_N = $ Normalkraft von der Unterlage auf den K&ouml;per</li>
+	<li>$\vec F_N = $ Normalkraft von der Unterlage auf den K&ouml;rper</li>
 </ul>
 
-<p>Die Haftreibungskraft $\vec F_H$ eines K&ouml;rper (nciht eingezeichnet) auf einer schiefen Ebene wirkt:</p>
+<p>Die Haftreibungskraft $\vec F_H$ eines K&ouml;rper (nicht eingezeichnet) auf einer schiefen Ebene wirkt:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 
-                  <file filename="Normalkraft3H_ohneFH.png" id="157674600" md5="468544f6bb6884e08e74f17cef262623" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Normalkraft3H_ohneFH.png" id="158654123" md5="468544f6bb6884e08e74f17cef262623" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/46/468544f6bb6884e08e74f17cef262623.png]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="157674601" format="html">               <inhalt/>
+               <text art="general feedback" id="158654124" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157674602" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654125" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674603" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654126" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674604" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654127" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674605" format="html">               <inhalt/>
+               <text art="grader info" id="158654128" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674606</id>
+                  <id>158654129</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -21697,7 +21697,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674607</id>
+                     <id>158654130</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Gegen die Richtung der Kraft $\vec F_{GT}$]]></text>
@@ -21710,7 +21710,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674608</id>
+                     <id>158654131</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[In Richtung der Kraft $\vec F_{GT}$]]></text>
@@ -21723,7 +21723,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674609</id>
+                     <id>158654132</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Gegen die Richtung der Kraft $\vec F_{GN}$]]></text>
@@ -21736,7 +21736,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674610</id>
+                     <id>158654133</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[In Richtung der Kraft $\vec F_{GN}$]]></text>
@@ -21751,7 +21751,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157674611</id>
+               <id>158654134</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -21788,7 +21788,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157674612" format="html">
+               <text art="Questiontext" id="158654135" format="html">
                                  <inhalt><![CDATA[<h2>Haftreibungsgrenze</h2>
 
 <p>[IMG0]</p>
@@ -21799,32 +21799,32 @@ FGvec : FGNvec + FGTvec]]></maxima>
 	<li>$ \vec F_G = \vec F_{GT} + \vec F_{GN} = $&nbsp;Gewichtskraft</li>
 	<li>$\vec F_{GT} = $ Tangentialkomponente der Gewichtskraft</li>
 	<li>$\vec F_{GN} = $ Normalkomponente der Gewichtskraft</li>
-	<li>$\vec F_N = $ Normalkraft von der Unterlage auf den K&ouml;per</li>
+	<li>$\vec F_N = $ Normalkraft von der Unterlage auf den K&ouml;rper</li>
 	<li>$\vec F_H = $ Haftreibungskraft</li>
 </ul>
 
-<p>Ein K&ouml;rper beginnt auf einer schiefene Ebene <strong>nicht zu gleiten</strong>, solange folgende Bedinung erf&uuml;llt ist:</p>
+<p>Ein K&ouml;rper beginnt auf einer schiefen Ebene <strong>nicht zu gleiten</strong>, solange folgende Bedienung erf&uuml;llt ist:</p>
 
 <p>[Q0]&nbsp;</p>
 
 <p>Dabei ist $\mu_H$ der Haftreibungskoeffizient zwischen K&ouml;rper und Untergrund.</p>]]></inhalt>
 
-                  <file filename="Clipboard.png" id="157674613" md5="d7ef722d7ace9065b6e87e2879555526" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Clipboard.png" id="158654136" md5="d7ef722d7ace9065b6e87e2879555526" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/d7/d7ef722d7ace9065b6e87e2879555526.png]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="157674614" format="html">               <inhalt/>
+               <text art="general feedback" id="158654137" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157674615" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654138" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674616" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654139" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674617" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654140" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674618" format="html">               <inhalt/>
+               <text art="grader info" id="158654141" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674619</id>
+                  <id>158654142</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -21834,7 +21834,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674620</id>
+                     <id>158654143</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[$|\vec F_H| \le \mu_H \cdot |\vec F_N||$]]></text>
@@ -21847,7 +21847,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674621</id>
+                     <id>158654144</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[$|\vec F_H| \ge \mu_H \cdot |\vec F_N|$]]></text>
@@ -21860,7 +21860,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674622</id>
+                     <id>158654145</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[$|\vec F_H| \le \sin(\mu_H) \cdot |\vec F_N|$]]></text>
@@ -21873,7 +21873,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674623</id>
+                     <id>158654146</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[$|\vec F_H| \ge \sin(\mu_H) \cdot |\vec F_N|$]]></text>
@@ -21888,7 +21888,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157674624</id>
+               <id>158654147</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -21925,24 +21925,24 @@ FGvec : FGNvec + FGTvec]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157674625" format="html">               <inhalt><![CDATA[<h2>Gleitreibungskoeffizient</h2>
+               <text art="Questiontext" id="158654148" format="html">               <inhalt><![CDATA[<h2>Gleitreibungskoeffizient</h2>
 
 <p>Der Gleitreibungskoeffizient $\mu_R$ zwischen einem K&ouml;rper und seinem Untergrund h&auml;ngt von folgenden Einflussgr&ouml;&szlig;en ab:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157674626" format="html">               <inhalt/>
+               <text art="general feedback" id="158654149" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157674627" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654150" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674628" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654151" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674629" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654152" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674630" format="html">               <inhalt/>
+               <text art="grader info" id="158654153" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674631</id>
+                  <id>158654154</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -21952,7 +21952,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674632</id>
+                     <id>158654155</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Materialpaarung zwischen Körper und Untergrund]]></text>
@@ -21965,7 +21965,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674633</id>
+                     <id>158654156</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Ausschließlich vom Material des Körpers]]></text>
@@ -21978,7 +21978,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674634</id>
+                     <id>158654157</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Ausschließlich vom Material des Untergrunds]]></text>
@@ -21993,7 +21993,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157674635</id>
+               <id>158654158</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -22030,24 +22030,24 @@ FGvec : FGNvec + FGTvec]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157674636" format="html">               <inhalt><![CDATA[<h2>Gleitreibungskoeffizient</h2>
+               <text art="Questiontext" id="158654159" format="html">               <inhalt><![CDATA[<h2>Gleitreibungskoeffizient</h2>
 
 <p>Zwischen dem&nbsp;Gleitreibungskoeffizienten $\mu_R$ und dem Haftreibungskoeffizienten $\mu_H$ gilt folgender Zusammenhang:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157674637" format="html">               <inhalt/>
+               <text art="general feedback" id="158654160" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157674638" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654161" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674639" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654162" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674640" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654163" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674641" format="html">               <inhalt/>
+               <text art="grader info" id="158654164" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674642</id>
+                  <id>158654165</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -22057,7 +22057,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674643</id>
+                     <id>158654166</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[$\mu_H > \mu_G$]]></text>
@@ -22070,7 +22070,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674644</id>
+                     <id>158654167</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[$\mu_H < \mu_G$]]></text>
@@ -22083,7 +22083,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674645</id>
+                     <id>158654168</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[$\mu_H = \mu_G$]]></text>
@@ -22098,7 +22098,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157674646</id>
+               <id>158654169</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -22135,24 +22135,24 @@ FGvec : FGNvec + FGTvec]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157674647" format="html">               <inhalt><![CDATA[<h2>Rollreibungskoeffizient</h2>
+               <text art="Questiontext" id="158654170" format="html">               <inhalt><![CDATA[<h2>Rollreibungskoeffizient</h2>
 
 <p>Der Rollreibungskoeffizient $\mu_R$ zwischen einem K&ouml;rper und seinem Untergrund h&auml;ngt von folgenden Einflussgr&ouml;&szlig;en ab:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157674648" format="html">               <inhalt/>
+               <text art="general feedback" id="158654171" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157674649" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654172" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674650" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654173" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674651" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654174" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674652" format="html">               <inhalt/>
+               <text art="grader info" id="158654175" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674653</id>
+                  <id>158654176</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -22162,7 +22162,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674654</id>
+                     <id>158654177</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Materialpaarung zwischen Körper und Untergrund]]></text>
@@ -22175,7 +22175,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674655</id>
+                     <id>158654178</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Ausschließlich vom Material des Körpers]]></text>
@@ -22188,7 +22188,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674656</id>
+                     <id>158654179</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Ausschließlich vom Material des Untergrunds]]></text>
@@ -22203,7 +22203,7 @@ FGvec : FGNvec + FGTvec]]></maxima>
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157674657</id>
+               <id>158654180</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -22260,7 +22260,7 @@ FH2max : mu * FN2y]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>0</revNrServer>
+               <revNrServer>1</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -22275,7 +22275,7 @@ FH2max : mu * FN2y]]></maxima>
                <randomDataset>false</randomDataset>
                <questionCommentMsg/>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="157674664" format="html">
+               <text art="Questiontext" id="158654187" format="html">
                                  <inhalt><![CDATA[<h2>Musterbeispiel Haftreibung eben</h2>
 
 <p>Wir untersuchen einen K&ouml;rper mit der Masse $m_1={m1}$, der sich auf einer ebenen Fl&auml;che befindet. Der Haftreibungskoeffizient zwischen diesem K&ouml;rper und dem Untergrund betr&auml;gt $\mu_H = {mu}$.</p>
@@ -22351,35 +22351,35 @@ FH2max : mu * FN2y]]></maxima>
 	<li>Es gilt: ${=F2y;=N,4}&nbsp; - {=m1 * g;=N,4} + F_{Ny} = {=0N}$</li>
 	<li>Daraus folgt $F_{Ny} = $&nbsp;[Q8]&nbsp;</li>
 	<li>Damit ergibt sich f&uuml;r den Kraftvektor $\vec F_G = $&nbsp;[Q9]&nbsp;</li>
-	<li><strong>Kontrolle:</strong>&nbsp;Folglich ist die maximale Haftreibungkraft in diesem Fall $F_{H,\max} = \mu_H \cdot F_{Ny} = $ [Q10]</li>
+	<li><strong>Kontrolle:</strong>&nbsp;Folglich ist die maximale Haftreibungskraft in diesem Fall $F_{H,\max} = \mu_H \cdot F_{Ny} = $ [Q10]</li>
 </ul>
 
 <p>Die maximale Haftreibugskraft betr&auml;gt $F_{H,\max} = \mu_H \cdot |\vec F_N| = $</p>
 
 <p>Es gilt $F_{H,\max}$&nbsp;[Q11]&nbsp;$|\vec F_H|$</p>]]></inhalt>
 
-                  <file filename="Haftreibung1.png" id="157674665" md5="76dc53d3bf1835649e4f38dad271cd" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Haftreibung1.png" id="158654188" md5="76dc53d3bf1835649e4f38dad271cd" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/76/76dc53d3bf1835649e4f38dad271cd.png]]></webPath>
                   </file>
-                  <file filename="Haftreibung2.png" id="157674666" md5="6146501aca6ae42e570a1b1257ef0" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Haftreibung2.png" id="158654189" md5="6146501aca6ae42e570a1b1257ef0" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/61/6146501aca6ae42e570a1b1257ef0.png]]></webPath>
                   </file>
-                  <file filename="Haftreibung3.png" id="157674667" md5="1cd678fe61e511f59c870e745c456ac" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Haftreibung3.png" id="158654190" md5="1cd678fe61e511f59c870e745c456ac" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/1c/1cd678fe61e511f59c870e745c456ac.png]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="157674668" format="html">               <inhalt/>
+               <text art="general feedback" id="158654191" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157674669" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654192" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674670" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654193" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674671" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654194" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674672" format="html">               <inhalt/>
+               <text art="grader info" id="158654195" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674673</id>
+                  <id>158654196</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q0]]></name>
@@ -22389,7 +22389,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674674</id>
+                     <id>158654197</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[20.601N]]></text>
@@ -22403,7 +22403,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674675</id>
+                  <id>158654198</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q1]]></name>
@@ -22413,7 +22413,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674676</id>
+                     <id>158654199</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,-20.601N,0N]]]></text>
@@ -22427,7 +22427,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674677</id>
+                  <id>158654200</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q2]]></name>
@@ -22437,7 +22437,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674678</id>
+                     <id>158654201</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,20.601N,0N]]]></text>
@@ -22451,7 +22451,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674679</id>
+                  <id>158654202</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q3]]></name>
@@ -22461,7 +22461,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674680</id>
+                     <id>158654203</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[7.2097N,0N,0N]]]></text>
@@ -22475,7 +22475,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674681</id>
+                  <id>158654204</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q4]]></name>
@@ -22485,7 +22485,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674682</id>
+                     <id>158654205</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[9.1262N]]></text>
@@ -22499,7 +22499,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674683</id>
+                  <id>158654206</id>
                   <grade>1</grade>
                   <mode>0</mode>
                   <name><![CDATA[Q5]]></name>
@@ -22509,7 +22509,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674684</id>
+                     <id>158654207</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[<]]></text>
@@ -22522,7 +22522,7 @@ FH2max : mu * FN2y]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674685</id>
+                     <id>158654208</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[=]]></text>
@@ -22535,7 +22535,7 @@ FH2max : mu * FN2y]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674686</id>
+                     <id>158654209</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[>]]></text>
@@ -22549,7 +22549,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674687</id>
+                  <id>158654210</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q6]]></name>
@@ -22559,7 +22559,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674688</id>
+                     <id>158654211</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[6.5864N]]></text>
@@ -22573,7 +22573,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674689</id>
+                  <id>158654212</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q7]]></name>
@@ -22583,7 +22583,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674690</id>
+                     <id>158654213</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[6.5864N,0N,0N]]]></text>
@@ -22597,7 +22597,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674691</id>
+                  <id>158654214</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q8]]></name>
@@ -22607,7 +22607,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674692</id>
+                     <id>158654215</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[23.533N]]></text>
@@ -22621,7 +22621,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674693</id>
+                  <id>158654216</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q9]]></name>
@@ -22631,7 +22631,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674694</id>
+                     <id>158654217</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,23.533N,0N]]]></text>
@@ -22645,7 +22645,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674695</id>
+                  <id>158654218</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q10]]></name>
@@ -22655,7 +22655,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674696</id>
+                     <id>158654219</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[10.425N]]></text>
@@ -22669,7 +22669,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674697</id>
+                  <id>158654220</id>
                   <grade>1</grade>
                   <mode>0</mode>
                   <name><![CDATA[Q11]]></name>
@@ -22679,7 +22679,7 @@ FH2max : mu * FN2y]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674698</id>
+                     <id>158654221</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[<]]></text>
@@ -22692,7 +22692,7 @@ FH2max : mu * FN2y]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674699</id>
+                     <id>158654222</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[=]]></text>
@@ -22705,7 +22705,7 @@ FH2max : mu * FN2y]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674700</id>
+                     <id>158654223</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[>]]></text>
@@ -22719,7 +22719,7 @@ FH2max : mu * FN2y]]></maxima>
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157674659</id>
+                  <id>158654182</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[mu]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -22734,7 +22734,7 @@ FH2max : mu * FN2y]]></maxima>
                   <items><![CDATA[0.443;0.73;0.65;0.629;0.768;0.355;0.309;0.508;0.403;0.394;0.306;0.547;0.768;0.792;0.768;0.526;0.355;0.481;0.748;0.747;0.499;0.394;0.499;0.792;0.526;0.429;0.638;0.757;0.562;0.488;0.608;0.583;0.508;0.747;0.638;0.481;0.495;0.352;0.488;0.508]]></items>
                </dataset>
                <dataset>
-                  <id>157674660</id>
+                  <id>158654183</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[m1]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -22749,7 +22749,7 @@ FH2max : mu * FN2y]]></maxima>
                   <items><![CDATA[2.1;3.3;3.6;4.8;4.9;2.1;3.6;4.9;2.1;4.7;4.2;3;2.4;3.2;2.5;2.4;2.7;3.8;4.1;2.8;3.5;2.1;2.1;3.7;3.3;3.2;4.8;2.7;2.9;4.9;2.7;3.6;2.6;3.5;2.7;4.1;2.6;3.1;2.2;4]]></items>
                </dataset>
                <dataset>
-                  <id>157674661</id>
+                  <id>158654184</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[g]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -22764,7 +22764,7 @@ FH2max : mu * FN2y]]></maxima>
                   <items><![CDATA[9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81]]></items>
                </dataset>
                <dataset>
-                  <id>157674662</id>
+                  <id>158654185</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[k1]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -22779,7 +22779,7 @@ FH2max : mu * FN2y]]></maxima>
                   <items><![CDATA[0.79;0.61;0.61;0.6;0.63;0.69;0.8;0.79;0.74;0.6;0.7;0.63;0.7;0.61;0.8;0.63;0.8;0.61;0.63;0.62;0.63;0.79;0.69;0.63;0.73;0.61;0.79;0.69;0.79;0.61;0.71;0.63;0.61;0.61;0.8;0.69;0.6;0.61;0.71;0.79]]></items>
                </dataset>
                <dataset>
-                  <id>157674663</id>
+                  <id>158654186</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[alpha]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -22795,7 +22795,7 @@ FH2max : mu * FN2y]]></maxima>
                </dataset>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157674701</id>
+               <id>158654224</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -22838,7 +22838,7 @@ FHmax : mu * FNabs
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>0</revNrServer>
+               <revNrServer>1</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -22853,10 +22853,10 @@ FHmax : mu * FNabs
                <randomDataset>false</randomDataset>
                <questionCommentMsg/>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="157674706" format="html">
+               <text art="Questiontext" id="158654229" format="html">
                                  <inhalt><![CDATA[<h2>Haftreibung eben 1</h2>
 
-<p>Wir untersuchen einen K&ouml;rper mit der Masse $m_1={m1}$, der sich auf einer ebenen Fl&auml;che befindet. DIe Gefwichtskraft $\vec F_G$ grefit im Schwerpunkt $\mathcal S$ an.</p>
+<p>Wir untersuchen einen K&ouml;rper mit der Masse $m_1={m1}$, der sich auf einer ebenen Fl&auml;che befindet. DIe Gewichtskraft $\vec F_G$ grefit im Schwerpunkt $\mathcal S$ an.</p>
 
 <p>Der Haftreibungskoeffizient zwischen diesem K&ouml;rper und dem Untergrund betr&auml;gt $\mu_H = {mu}$.</p>
 
@@ -22876,22 +22876,22 @@ FHmax : mu * FNabs
 
 <p>(e) Bestimmen Sie die daf&uuml;r erforderliche Kraft $\vec F = $&nbsp;[Q4]&nbsp;</p>]]></inhalt>
 
-                  <file filename="Haftreibung2N.png" id="157674707" md5="b1a654b5ee3c3b7774fd69cb4f8dcf9" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Haftreibung2N.png" id="158654230" md5="b1a654b5ee3c3b7774fd69cb4f8dcf9" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/b1/b1a654b5ee3c3b7774fd69cb4f8dcf9.png]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="157674708" format="html">               <inhalt/>
+               <text art="general feedback" id="158654231" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157674709" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654232" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674710" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654233" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674711" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654234" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674712" format="html">               <inhalt/>
+               <text art="grader info" id="158654235" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674713</id>
+                  <id>158654236</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q0]]></name>
@@ -22901,7 +22901,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674714</id>
+                     <id>158654237</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,-117.72N,0N]]]></text>
@@ -22915,7 +22915,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674715</id>
+                  <id>158654238</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q1]]></name>
@@ -22925,7 +22925,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674716</id>
+                     <id>158654239</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,117.72N,0N]]]></text>
@@ -22939,7 +22939,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674717</id>
+                  <id>158654240</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q2]]></name>
@@ -22949,7 +22949,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674718</id>
+                     <id>158654241</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[61.214N]]></text>
@@ -22963,7 +22963,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674719</id>
+                  <id>158654242</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q3]]></name>
@@ -22973,7 +22973,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674720</id>
+                     <id>158654243</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[-61.214N,0N,0N]]]></text>
@@ -22987,7 +22987,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674721</id>
+                  <id>158654244</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q4]]></name>
@@ -22997,7 +22997,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674722</id>
+                     <id>158654245</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[61.214N,0N,0N]]]></text>
@@ -23011,7 +23011,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157674703</id>
+                  <id>158654226</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[m1]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -23026,7 +23026,7 @@ FHmax : mu * FNabs
                   <items><![CDATA[12;15;18;18;15;11;16;18;16;16;18;14;17;13;14;11;14;14;18;13;13;14;18;13;18;12;17;14;12;13;16;16;13;11;19;14;14;15;12;18]]></items>
                </dataset>
                <dataset>
-                  <id>157674704</id>
+                  <id>158654227</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[g]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -23041,7 +23041,7 @@ FHmax : mu * FNabs
                   <items><![CDATA[9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81]]></items>
                </dataset>
                <dataset>
-                  <id>157674705</id>
+                  <id>158654228</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[mu]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -23057,7 +23057,7 @@ FHmax : mu * FNabs
                </dataset>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157674723</id>
+               <id>158654246</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -23123,10 +23123,10 @@ FNvec : -FGvec
                <randomDataset>false</randomDataset>
                <questionCommentMsg/>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="157674729" format="html">
+               <text art="Questiontext" id="158654252" format="html">
                                  <inhalt><![CDATA[<h2>Haftreibung eben 2</h2>
 
-<p>Wir untersuchen einen K&ouml;rper mit der Masse $m_1={m1}$, der sich auf einer ebenen Fl&auml;che befindet. DIe Gefwichtskraft $\vec F_G$ grefit im Schwerpunkt $\mathcal S$ an.</p>
+<p>Wir untersuchen einen K&ouml;rper mit der Masse $m_1={m1}$, der sich auf einer ebenen Fl&auml;che befindet. DIe Gewichtskraft $\vec F_G$ grefit im Schwerpunkt $\mathcal S$ an.</p>
 
 <p>Der Haftreibungskoeffizient zwischen diesem K&ouml;rper und dem Untergrund betr&auml;gt $\mu_H = {mu}$.</p>
 
@@ -23141,7 +23141,7 @@ FNvec : -FGvec
 	<li>die Kraft $\vec F_2 = F_{2y} \cdot \vec e_y$&nbsp; in die positive $y$-Richtung.</li>
 </ul>
 
-<p>Wir suchen&nbsp;die maximale Kraft $\vec F_2$ die erforderlich ist, dass&nbsp;gerade noch der Grenzfall der Haftreibug auftritt -- also kurz vor dem Gleiten.</p>
+<p>Wir suchen&nbsp;die maximale Kraft $\vec F_2$ die erforderlich ist, dass&nbsp;gerade noch der Grenzfall der Haftreibung auftritt -- also kurz vor dem Gleiten.</p>
 
 <p>(a) Bestimmen Sie den Vektor der Gewichtskraft $\vec F_G = $&nbsp;[Q0]&nbsp;</p>
 
@@ -23155,11 +23155,11 @@ FNvec : -FGvec
 
 <p>(f) Bestimmen Sie den Kraftvektor $\vec F_2 = $&nbsp;[Q5]&nbsp;</p>]]></inhalt>
 
-                  <file filename="Haftreibung2xy.png" id="157674730" md5="b2b9db5b4b79b67bdfab7893eb4d681" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Haftreibung2xy.png" id="158654253" md5="b2b9db5b4b79b67bdfab7893eb4d681" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/b2/b2b9db5b4b79b67bdfab7893eb4d681.png]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="157674731" format="html">               <inhalt><![CDATA[<p>(b) Da der Grenzfall der Haftreibung untersucht wird, muss die Haftreibung $\vec F_H = -\vec F_1$ sein.&nbsp;</p>
+               <text art="general feedback" id="158654254" format="html">               <inhalt><![CDATA[<p>(b) Da der Grenzfall der Haftreibung untersucht wird, muss die Haftreibung $\vec F_H = -\vec F_1$ sein.&nbsp;</p>
 
 <p>Au&szlig;erdem tritt ja keine andere Kraftkomponente in $x$-Richtung auf.</p>
 
@@ -23179,16 +23179,16 @@ FNvec : -FGvec
 
 <p>&nbsp;</p>]]></inhalt>
 </text>
-               <text art="correct feedback" id="157674732" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654255" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674733" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654256" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674734" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654257" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674735" format="html">               <inhalt/>
+               <text art="grader info" id="158654258" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674736</id>
+                  <id>158654259</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q0]]></name>
@@ -23198,7 +23198,7 @@ FNvec : -FGvec
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674737</id>
+                     <id>158654260</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,-117.72N,0N]]]></text>
@@ -23212,7 +23212,7 @@ FNvec : -FGvec
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674738</id>
+                  <id>158654261</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q1]]></name>
@@ -23222,7 +23222,7 @@ FNvec : -FGvec
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674739</id>
+                     <id>158654262</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[-41.014N,0N,0N]]]></text>
@@ -23236,7 +23236,7 @@ FNvec : -FGvec
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674740</id>
+                  <id>158654263</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q2]]></name>
@@ -23246,7 +23246,7 @@ FNvec : -FGvec
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674741</id>
+                     <id>158654264</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[41.014N]]></text>
@@ -23260,7 +23260,7 @@ FNvec : -FGvec
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674742</id>
+                  <id>158654265</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q3]]></name>
@@ -23270,7 +23270,7 @@ FNvec : -FGvec
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674743</id>
+                     <id>158654266</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[78.872N]]></text>
@@ -23284,7 +23284,7 @@ FNvec : -FGvec
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674744</id>
+                  <id>158654267</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q4]]></name>
@@ -23294,7 +23294,7 @@ FNvec : -FGvec
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674745</id>
+                     <id>158654268</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,117.72N,0N]]]></text>
@@ -23308,7 +23308,7 @@ FNvec : -FGvec
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674746</id>
+                  <id>158654269</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q5]]></name>
@@ -23318,7 +23318,7 @@ FNvec : -FGvec
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674747</id>
+                     <id>158654270</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,38.848N,0N]]]></text>
@@ -23332,7 +23332,7 @@ FNvec : -FGvec
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157674725</id>
+                  <id>158654248</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[m1]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -23347,7 +23347,7 @@ FNvec : -FGvec
                   <items><![CDATA[12;15;18;18;15;11;16;18;16;16;18;14;17;13;14;11;14;14;18;13;13;14;18;13;18;12;17;14;12;13;16;16;13;11;19;14;14;15;12;18]]></items>
                </dataset>
                <dataset>
-                  <id>157674726</id>
+                  <id>158654249</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[g]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -23362,7 +23362,7 @@ FNvec : -FGvec
                   <items><![CDATA[9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81]]></items>
                </dataset>
                <dataset>
-                  <id>157674727</id>
+                  <id>158654250</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[mu]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -23377,7 +23377,7 @@ FNvec : -FGvec
                   <items><![CDATA[0.52;0.35;0.47;0.49;0.33;0.36;0.35;0.55;0.35;0.33;0.5;0.31;0.31;0.35;0.52;0.33;0.55;0.52;0.56;0.54;0.42;0.42;0.35;0.55;0.33;0.52;0.35;0.53;0.35;0.47;0.49;0.44;0.36;0.47;0.47;0.33;0.34;0.47;0.34;0.46]]></items>
                </dataset>
                <dataset>
-                  <id>157674728</id>
+                  <id>158654251</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[k]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -23393,7 +23393,7 @@ FNvec : -FGvec
                </dataset>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157674748</id>
+               <id>158654271</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -23452,7 +23452,7 @@ FHmax : mu * FNabs
                <randomDataset>false</randomDataset>
                <questionCommentMsg/>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="157674754" format="html">
+               <text art="Questiontext" id="158654277" format="html">
                                  <inhalt><![CDATA[<h2>Musterbeispiel Haftreibung Steigung</h2>
 
 <p>Wir untersuchen einen K&ouml;rper mit der Masse $m_1={m1}$, der sich auf einer schiefen Ebene&nbsp;befindet, die um den Winkel $\beta = {beta}$ geneigt ist.&nbsp;DIe Gewichtskraft $\vec F_G$ greift im Schwerpunkt $\mathcal S$ an.</p>
@@ -23513,22 +23513,22 @@ FHmax : mu * FNabs
 
 <p>[Q11]&nbsp;</p>]]></inhalt>
 
-                  <file filename="Normalkraft3H_mitFH.png" id="157674755" md5="991a8ccb23c012be2ca4b3a0dfd4bf" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Normalkraft3H_mitFH.png" id="158654278" md5="991a8ccb23c012be2ca4b3a0dfd4bf" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/99/991a8ccb23c012be2ca4b3a0dfd4bf.png]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="157674756" format="html">               <inhalt/>
+               <text art="general feedback" id="158654279" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157674757" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654280" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674758" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654281" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674759" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654282" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674760" format="html">               <inhalt/>
+               <text art="grader info" id="158654283" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674761</id>
+                  <id>158654284</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q0]]></name>
@@ -23538,7 +23538,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674762</id>
+                     <id>158654285</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[117.72N]]></text>
@@ -23552,7 +23552,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674763</id>
+                  <id>158654286</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q1]]></name>
@@ -23562,7 +23562,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674764</id>
+                     <id>158654287</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[-20.442N]]></text>
@@ -23576,7 +23576,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674765</id>
+                  <id>158654288</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q2]]></name>
@@ -23586,7 +23586,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674766</id>
+                     <id>158654289</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[-115.93N]]></text>
@@ -23600,7 +23600,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674767</id>
+                  <id>158654290</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q3]]></name>
@@ -23610,7 +23610,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674768</id>
+                     <id>158654291</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[-20.442N,-115.93N,0N]]]></text>
@@ -23624,7 +23624,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674769</id>
+                  <id>158654292</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q4]]></name>
@@ -23634,7 +23634,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674770</id>
+                     <id>158654293</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[-20.442N,0N,0N]]]></text>
@@ -23648,7 +23648,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674771</id>
+                  <id>158654294</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q5]]></name>
@@ -23658,7 +23658,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674772</id>
+                     <id>158654295</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,-115.93N,0N]]]></text>
@@ -23672,7 +23672,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674773</id>
+                  <id>158654296</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q6]]></name>
@@ -23682,7 +23682,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674774</id>
+                     <id>158654297</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,115.93N,0N]]]></text>
@@ -23696,7 +23696,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674775</id>
+                  <id>158654298</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q7]]></name>
@@ -23706,7 +23706,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674776</id>
+                     <id>158654299</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[20.442N,0N,0N]]]></text>
@@ -23720,7 +23720,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674777</id>
+                  <id>158654300</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q8]]></name>
@@ -23730,7 +23730,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674778</id>
+                     <id>158654301</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[47.532N]]></text>
@@ -23744,7 +23744,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674779</id>
+                  <id>158654302</id>
                   <grade>1</grade>
                   <mode>0</mode>
                   <name><![CDATA[Q9]]></name>
@@ -23754,7 +23754,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674780</id>
+                     <id>158654303</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[<]]></text>
@@ -23767,7 +23767,7 @@ FHmax : mu * FNabs
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674781</id>
+                     <id>158654304</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[=]]></text>
@@ -23780,7 +23780,7 @@ FHmax : mu * FNabs
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674782</id>
+                     <id>158654305</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[>]]></text>
@@ -23794,7 +23794,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674783</id>
+                  <id>158654306</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q10]]></name>
@@ -23804,7 +23804,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674784</id>
+                     <id>158654307</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[20.442N]]></text>
@@ -23818,7 +23818,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674785</id>
+                  <id>158654308</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q11]]></name>
@@ -23828,7 +23828,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674786</id>
+                     <id>158654309</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Haftreibung liegt vor]]></text>
@@ -23841,7 +23841,7 @@ FHmax : mu * FNabs
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674787</id>
+                     <id>158654310</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Haftreibung liegt nicht vor]]></text>
@@ -23854,7 +23854,7 @@ FHmax : mu * FNabs
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674788</id>
+                     <id>158654311</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Grenze zwischen Haft- und Gleitreibung]]></text>
@@ -23868,7 +23868,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157674750</id>
+                  <id>158654273</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[m1]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -23883,7 +23883,7 @@ FHmax : mu * FNabs
                   <items><![CDATA[12;15;18;18;15;11;16;18;16;16;18;14;17;13;14;11;14;14;18;13;13;14;18;13;18;12;17;14;12;13;16;16;13;11;19;14;14;15;12;18]]></items>
                </dataset>
                <dataset>
-                  <id>157674751</id>
+                  <id>158654274</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[g]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -23898,7 +23898,7 @@ FHmax : mu * FNabs
                   <items><![CDATA[9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81]]></items>
                </dataset>
                <dataset>
-                  <id>157674752</id>
+                  <id>158654275</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[mu]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -23913,7 +23913,7 @@ FHmax : mu * FNabs
                   <items><![CDATA[0.41;0.68;0.61;0.4;0.53;0.55;0.5;0.55;0.55;0.32;0.34;0.69;0.67;0.61;0.59;0.55;0.41;0.59;0.44;0.41;0.41;0.69;0.55;0.34;0.68;0.59;0.55;0.68;0.61;0.34;0.59;0.67;0.41;0.46;0.33;0.34;0.33;0.34;0.41;0.5]]></items>
                </dataset>
                <dataset>
-                  <id>157674753</id>
+                  <id>158654276</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[beta]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -23929,7 +23929,7 @@ FHmax : mu * FNabs
                </dataset>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157674789</id>
+               <id>158654312</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -23992,7 +23992,7 @@ FHmax : mu * FNabs
                <randomDataset>false</randomDataset>
                <questionCommentMsg/>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="157674796" format="html">
+               <text art="Questiontext" id="158654319" format="html">
                                  <inhalt><![CDATA[<h2>Haftreibung Steigung 1</h2>
 
 <p>Wir untersuchen einen K&ouml;rper mit der Masse $m_1={m1}$, der sich auf einer schiefen Ebene&nbsp;befindet, die um den Winkel $\beta = {beta}$ geneigt ist.&nbsp;DIe Gefwichtskraft $\vec F_G$ grefit im Schwerpunkt $\mathcal S$ an. Auf den K&ouml;rper wird die Kraft $\vec F = {=Fvec;=N,4}$ in Richtung der $x$-Achse.</p>
@@ -24023,11 +24023,11 @@ FHmax : mu * FNabs
 
 <p>[Q7]&nbsp;</p>]]></inhalt>
 
-                  <file filename="Normalkraft3H_mitFH_mitF.png" id="157674797" md5="f0ba771a75ec24161beafa617bf1c76" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Normalkraft3H_mitFH_mitF.png" id="158654320" md5="f0ba771a75ec24161beafa617bf1c76" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/f0/f0ba771a75ec24161beafa617bf1c76.png]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="157674798" format="html">               <inhalt><![CDATA[<p>(b) $\vec F_{GT} = - m \cdot g \cdot \sin(\beta) \cdot \vec e_y$</p>
+               <text art="general feedback" id="158654321" format="html">               <inhalt><![CDATA[<p>(b) $\vec F_{GT} = - m \cdot g \cdot \sin(\beta) \cdot \vec e_y$</p>
 
 <p>(c) $\vec F_{GN} = - m \cdot g \cdot \cos(\beta) \cdot \vec e_y$</p>
 
@@ -24035,16 +24035,16 @@ FHmax : mu * FNabs
 
 <p>(f) $\vec F_H$ aus $\vec F_{GT} + \underbrace{\vec F_{GN} + \vec F_N}_{\vec 0\,\mathrm N} + \vec F + \vec F_H = \vec 0\,\mathrm N$&nbsp;</p>]]></inhalt>
 </text>
-               <text art="correct feedback" id="157674799" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654322" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674800" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654323" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674801" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654324" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674802" format="html">               <inhalt/>
+               <text art="grader info" id="158654325" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674803</id>
+                  <id>158654326</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q0]]></name>
@@ -24054,7 +24054,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674804</id>
+                     <id>158654327</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[117.72N]]></text>
@@ -24068,7 +24068,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674805</id>
+                  <id>158654328</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q1]]></name>
@@ -24078,7 +24078,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674806</id>
+                     <id>158654329</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[-20.442N,0N,0N]]]></text>
@@ -24092,7 +24092,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674807</id>
+                  <id>158654330</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q2]]></name>
@@ -24102,7 +24102,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674808</id>
+                     <id>158654331</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,-115.93N,0N]]]></text>
@@ -24116,7 +24116,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674809</id>
+                  <id>158654332</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q3]]></name>
@@ -24126,7 +24126,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674810</id>
+                     <id>158654333</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[-20.442N,-115.93N,0N]]]></text>
@@ -24140,7 +24140,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674811</id>
+                  <id>158654334</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q4]]></name>
@@ -24150,7 +24150,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674812</id>
+                     <id>158654335</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[0N,115.93N,0N]]]></text>
@@ -24164,7 +24164,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674813</id>
+                  <id>158654336</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q5]]></name>
@@ -24174,7 +24174,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674814</id>
+                     <id>158654337</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[[-11.413N,0N,0N]]]></text>
@@ -24188,7 +24188,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674815</id>
+                  <id>158654338</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q6]]></name>
@@ -24198,7 +24198,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674816</id>
+                     <id>158654339</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[47.532N]]></text>
@@ -24212,7 +24212,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674817</id>
+                  <id>158654340</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q7]]></name>
@@ -24222,7 +24222,7 @@ FHmax : mu * FNabs
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674818</id>
+                     <id>158654341</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Haftreibung liegt vor]]></text>
@@ -24235,7 +24235,7 @@ FHmax : mu * FNabs
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674819</id>
+                     <id>158654342</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Haftreibung liegt nicht vor]]></text>
@@ -24248,7 +24248,7 @@ FHmax : mu * FNabs
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157674820</id>
+                     <id>158654343</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Grenze zwischen Haft- und Gleitreibung]]></text>
@@ -24262,7 +24262,7 @@ FHmax : mu * FNabs
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157674791</id>
+                  <id>158654314</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[m1]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -24277,7 +24277,7 @@ FHmax : mu * FNabs
                   <items><![CDATA[12;15;18;18;15;11;16;18;16;16;18;14;17;13;14;11;14;14;18;13;13;14;18;13;18;12;17;14;12;13;16;16;13;11;19;14;14;15;12;18]]></items>
                </dataset>
                <dataset>
-                  <id>157674792</id>
+                  <id>158654315</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[g]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -24292,7 +24292,7 @@ FHmax : mu * FNabs
                   <items><![CDATA[9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81]]></items>
                </dataset>
                <dataset>
-                  <id>157674793</id>
+                  <id>158654316</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[mu]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -24307,7 +24307,7 @@ FHmax : mu * FNabs
                   <items><![CDATA[0.41;0.68;0.61;0.4;0.53;0.55;0.5;0.55;0.55;0.32;0.34;0.69;0.67;0.61;0.59;0.55;0.41;0.59;0.44;0.41;0.41;0.69;0.55;0.34;0.68;0.59;0.55;0.68;0.61;0.34;0.59;0.67;0.41;0.46;0.33;0.34;0.33;0.34;0.41;0.5]]></items>
                </dataset>
                <dataset>
-                  <id>157674794</id>
+                  <id>158654317</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[beta]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -24322,7 +24322,7 @@ FHmax : mu * FNabs
                   <items><![CDATA[0.174532925199;0.226892802759;0.0872664625997;0.191986217719;0.226892802759;0.0349065850399;0.0698131700798;0.261799387799;0.314159265359;0.0349065850399;0.0872664625997;0.279252680319;0.0523598775598;0.174532925199;0.0523598775598;0.0523598775598;0.244346095279;0.226892802759;0.191986217719;0.0523598775598;0.0349065850399;0.261799387799;0.157079632679;0.174532925199;0.10471975512;0.174532925199;0.244346095279;0.209439510239;0.0872664625997;0.0349065850399;0.0349065850399;0.209439510239;0.0698131700798;0.10471975512;0.296705972839;0.191986217719;0.0872664625997;0.314159265359;0.0523598775598;0.157079632679]]></items>
                </dataset>
                <dataset>
-                  <id>157674795</id>
+                  <id>158654318</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[k]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -24338,7 +24338,7 @@ FHmax : mu * FNabs
                </dataset>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157674821</id>
+               <id>158654344</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -24368,7 +24368,7 @@ FHvec : [0N, FHabs, 0N]
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>0</revNrServer>
+               <revNrServer>1</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -24383,7 +24383,7 @@ FHvec : [0N, FHabs, 0N]
                <randomDataset>false</randomDataset>
                <questionCommentMsg/>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="157674827" format="html">
+               <text art="Questiontext" id="158654350" format="html">
                                  <inhalt><![CDATA[<h2>Auto Haftreibung</h2>
 
 <p>Auto befindet sich im Stillstand in der Ebene. Zufolge der Gewichtskraft des Fahrzeugs, wirkt</p>
@@ -24405,22 +24405,22 @@ FHvec : [0N, FHabs, 0N]
 
 <p>(c) Im Fall eines Allradantriebs $F_{V+H} = $&nbsp;[Q2]&nbsp;</p>]]></inhalt>
 
-                  <file filename="Reibung_Auto_eben.png" id="157674828" md5="ae3243e2e7a7d7bb44b66c11d567d" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
+                  <file filename="Reibung_Auto_eben.png" id="158654351" md5="ae3243e2e7a7d7bb44b66c11d567d" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/ae/ae3243e2e7a7d7bb44b66c11d567d.png]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="157674829" format="html">               <inhalt><![CDATA[<p>Je Achse gilt immer, dass die maximal m&ouml;gliche Vortriebskraft gleich $\mu$ mal Normalkraft ist</p>]]></inhalt>
+               <text art="general feedback" id="158654352" format="html">               <inhalt><![CDATA[<p>Je Achse gilt immer, dass die maximal m&ouml;gliche Vortriebskraft gleich $\mu$ mal Normalkraft ist</p>]]></inhalt>
 </text>
-               <text art="correct feedback" id="157674830" format="html">               <inhalt/>
+               <text art="correct feedback" id="158654353" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157674831" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="158654354" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157674832" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="158654355" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157674833" format="html">               <inhalt/>
+               <text art="grader info" id="158654356" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157674834</id>
+                  <id>158654357</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q0]]></name>
@@ -24430,7 +24430,7 @@ FHvec : [0N, FHabs, 0N]
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674835</id>
+                     <id>158654358</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[2.8359kN]]></text>
@@ -24444,7 +24444,7 @@ FHvec : [0N, FHabs, 0N]
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674836</id>
+                  <id>158654359</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q1]]></name>
@@ -24454,7 +24454,7 @@ FHvec : [0N, FHabs, 0N]
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674837</id>
+                     <id>158654360</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[1.8906kN]]></text>
@@ -24468,7 +24468,7 @@ FHvec : [0N, FHabs, 0N]
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>157674838</id>
+                  <id>158654361</id>
                   <grade>1</grade>
                   <mode>4</mode>
                   <name><![CDATA[Q2]]></name>
@@ -24478,7 +24478,7 @@ FHvec : [0N, FHabs, 0N]
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157674839</id>
+                     <id>158654362</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[4.7265kN]]></text>
@@ -24492,7 +24492,7 @@ FHvec : [0N, FHabs, 0N]
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157674823</id>
+                  <id>158654346</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[m]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -24507,7 +24507,7 @@ FHvec : [0N, FHabs, 0N]
                   <items><![CDATA[1460;1750;2160;1320;1620;1730;1750;1320;1630;2120;1750;1360;1960;1230;1570;1930;1350;1750;2160;1930;1570;1290;1570;1960;2050;1320;1250;2120;1400;1220;1480;1740;1750;1570;2140;2160;1780;1510;2200;1730]]></items>
                </dataset>
                <dataset>
-                  <id>157674824</id>
+                  <id>158654347</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[g]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -24522,7 +24522,7 @@ FHvec : [0N, FHabs, 0N]
                   <items><![CDATA[9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81;9.81]]></items>
                </dataset>
                <dataset>
-                  <id>157674825</id>
+                  <id>158654348</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[v]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -24537,7 +24537,7 @@ FHvec : [0N, FHabs, 0N]
                   <items><![CDATA[0.6;0.56;0.71;0.63;0.66;0.65;0.56;0.58;0.65;0.65;0.61;0.55;0.56;0.55;0.63;0.67;0.68;0.56;0.64;0.67;0.63;0.71;0.71;0.58;0.68;0.71;0.59;0.64;0.63;0.56;0.56;0.55;0.63;0.65;0.69;0.58;0.56;0.6;0.67;0.61]]></items>
                </dataset>
                <dataset>
-                  <id>157674826</id>
+                  <id>158654349</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[mu]]></name>
                   <type><![CDATA[calculated]]></type>
