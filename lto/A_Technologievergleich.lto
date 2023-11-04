@@ -4,7 +4,7 @@
       <name><![CDATA[A Technologievergleich]]></name>
       <idSchule>0</idSchule>
       <question type="MoodleClozeCalc">
-         <id>157705662</id>
+         <id>157652559</id>
          <idUser>1836</idUser>
          <questionType>22</questionType>
          <single>2</single>
@@ -28,7 +28,7 @@
          <responseFieldLines>10</responseFieldLines>
          <attachments>3</attachments>
          <md5/>
-         <revNrServer>1</revNrServer>
+         <revNrServer>0</revNrServer>
          <revNrLocal>0</revNrLocal>
          <units/>
          <plugins/>
@@ -41,14 +41,14 @@
          <addDocumentsPossible>false</addDocumentsPossible>
          <info/>
          <randomDataset>false</randomDataset>
-         <text art="Questiontext" id="157705663" format="html">         <inhalt><![CDATA[<h2>Vergleich elektrischer Maschinen</h2>
+         <text art="Questiontext" id="157652560" format="html">         <inhalt><![CDATA[<h2>Vergleich elektrischer Maschinen</h2>
 
 <ul>
 	<li>GM-FE = Gleichstrommaschine</li>
 	<li>ASM-KL&nbsp;= Asynchronmaschine mit Kurzschlussl&auml;ufer</li>
 	<li>SM-PM = Synchronmaschine mit Permanentmagneten</li>
 	<li>SM-EE = Synchronmaschine mit elektrischer Erregung</li>
-	<li>SM-REL = Synchronreluktanzmaschine</li>
+	<li>SM-REL = Synchronreluktanz-Maschine</li>
 </ul>
 
 <table border="1" cellpadding="1" cellspacing="1" style="width:700px">
@@ -139,20 +139,21 @@
 	</tbody>
 </table>
 
-<p>&nbsp;</p>]]></inhalt>
+<p>&nbsp;</p>
+]]></inhalt>
 </text>
-         <text art="general feedback" id="157705664" format="html">         <inhalt/>
+         <text art="general feedback" id="157652561" format="html">         <inhalt/>
 </text>
-         <text art="correct feedback" id="157705665" format="html">         <inhalt/>
+         <text art="correct feedback" id="157652562" format="html">         <inhalt/>
 </text>
-         <text art="partially correct feedback" id="157705666" format="html">         <inhalt/>
+         <text art="partially correct feedback" id="157652563" format="html">         <inhalt/>
 </text>
-         <text art="incorrect feedback" id="157705667" format="html">         <inhalt/>
+         <text art="incorrect feedback" id="157652564" format="html">         <inhalt/>
 </text>
-         <text art="grader info" id="157705668" format="html">         <inhalt/>
+         <text art="grader info" id="157652565" format="html">         <inhalt/>
 </text>
          <subquestion>
-            <id>157705669</id>
+            <id>157652638</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q0]]></name>
@@ -162,7 +163,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705670</id>
+               <id>157652639</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[++]]></text>
@@ -175,7 +176,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705671</id>
+               <id>157652640</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[+]]></text>
@@ -188,7 +189,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705672</id>
+               <id>157652641</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[0]]></text>
@@ -201,7 +202,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705673</id>
+               <id>157652642</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[-]]></text>
@@ -214,7 +215,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705674</id>
+               <id>157652643</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[--]]></text>
@@ -228,7 +229,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705675</id>
+            <id>157652644</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q1]]></name>
@@ -238,7 +239,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705676</id>
+               <id>157652645</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[+]]></text>
@@ -251,7 +252,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705677</id>
+               <id>157652646</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[0]]></text>
@@ -264,7 +265,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705678</id>
+               <id>157652647</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[-]]></text>
@@ -278,7 +279,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705679</id>
+            <id>157652648</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q2]]></name>
@@ -288,7 +289,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705680</id>
+               <id>157652649</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[++]]></text>
@@ -301,7 +302,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705681</id>
+               <id>157652650</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[+]]></text>
@@ -314,7 +315,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705682</id>
+               <id>157652651</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[0]]></text>
@@ -327,7 +328,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705683</id>
+               <id>157652652</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[-]]></text>
@@ -340,7 +341,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705684</id>
+               <id>157652653</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[--]]></text>
@@ -355,7 +356,7 @@
          </subquestion>
       </question>
       <question type="MoodleClozeCalc">
-         <id>157705685</id>
+         <id>157187403</id>
          <idUser>1836</idUser>
          <questionType>22</questionType>
          <single>2</single>
@@ -392,24 +393,25 @@
          <addDocumentsPossible>false</addDocumentsPossible>
          <info/>
          <randomDataset>false</randomDataset>
-         <text art="Questiontext" id="157705686" format="html">         <inhalt><![CDATA[<h2>Drehmomentdichte</h2>
+         <text art="Questiontext" id="157187404" format="html">         <inhalt><![CDATA[<h2>Drehmomentdichte</h2>
 
 <p>Die Drehmomentdichte einer permanenterregten Synchronmaschine (SM-PM) ist h&ouml;her als bei einer Asynchronmaschine (ASM-KL) mit Kurzschlussl&auml;ufer, da</p>
 
-<p>[Q0]&nbsp;</p>]]></inhalt>
+<p>[Q0]&nbsp;</p>
+]]></inhalt>
 </text>
-         <text art="general feedback" id="157705687" format="html">         <inhalt/>
+         <text art="general feedback" id="157187405" format="html">         <inhalt/>
 </text>
-         <text art="correct feedback" id="157705688" format="html">         <inhalt/>
+         <text art="correct feedback" id="157187406" format="html">         <inhalt/>
 </text>
-         <text art="partially correct feedback" id="157705689" format="html">         <inhalt/>
+         <text art="partially correct feedback" id="157187407" format="html">         <inhalt/>
 </text>
-         <text art="incorrect feedback" id="157705690" format="html">         <inhalt/>
+         <text art="incorrect feedback" id="157187408" format="html">         <inhalt/>
 </text>
-         <text art="grader info" id="157705691" format="html">         <inhalt/>
+         <text art="grader info" id="157187409" format="html">         <inhalt/>
 </text>
          <subquestion>
-            <id>157705692</id>
+            <id>157187410</id>
             <grade>1</grade>
             <mode>3</mode>
             <name><![CDATA[Q0]]></name>
@@ -419,7 +421,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705693</id>
+               <id>157187411</id>
                <fraction>50</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[eine ASM-KL Strom für den Aufbau des magnetischen Felds benötigt]]></text>
@@ -432,7 +434,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705694</id>
+               <id>157187412</id>
                <fraction>50</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[die Magnete einer SM-PM keine elektrische Energie benötigen]]></text>
@@ -445,7 +447,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705695</id>
+               <id>157187413</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[die maximale Temperatur im Rotor einer ASM-KL begrenzt ist]]></text>
@@ -458,7 +460,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705696</id>
+               <id>157187414</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[die Magnete einer SM-PM weniger Platz als der Kurzschlusskäfig einer ASM-KL benötigen]]></text>
@@ -471,7 +473,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705697</id>
+               <id>157187415</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[der Rotor einer ASM-KL schlechter kühlbar ist]]></text>
@@ -486,7 +488,7 @@
          </subquestion>
       </question>
       <question type="MoodleClozeCalc">
-         <id>157705698</id>
+         <id>157187416</id>
          <idUser>1836</idUser>
          <questionType>22</questionType>
          <single>2</single>
@@ -523,24 +525,24 @@
          <addDocumentsPossible>false</addDocumentsPossible>
          <info/>
          <randomDataset>false</randomDataset>
-         <text art="Questiontext" id="157705699" format="html">         <inhalt><![CDATA[<h2>Drehmomentdichte</h2>
+         <text art="Questiontext" id="157187417" format="html">         <inhalt><![CDATA[<h2>Drehmomentdichte</h2>
 
 <p>Die Drehmomentdichte einer permanenterregten Synchronmaschine (SM-PM) ist h&ouml;her als bei einer fremderregten Gleichstrommaschine&nbsp;(GM-FE) da</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-         <text art="general feedback" id="157705700" format="html">         <inhalt/>
+         <text art="general feedback" id="157187418" format="html">         <inhalt/>
 </text>
-         <text art="correct feedback" id="157705701" format="html">         <inhalt/>
+         <text art="correct feedback" id="157187419" format="html">         <inhalt/>
 </text>
-         <text art="partially correct feedback" id="157705702" format="html">         <inhalt/>
+         <text art="partially correct feedback" id="157187420" format="html">         <inhalt/>
 </text>
-         <text art="incorrect feedback" id="157705703" format="html">         <inhalt/>
+         <text art="incorrect feedback" id="157187421" format="html">         <inhalt/>
 </text>
-         <text art="grader info" id="157705704" format="html">         <inhalt/>
+         <text art="grader info" id="157187422" format="html">         <inhalt/>
 </text>
          <subquestion>
-            <id>157705705</id>
+            <id>157187423</id>
             <grade>1</grade>
             <mode>3</mode>
             <name><![CDATA[Q0]]></name>
@@ -550,7 +552,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705706</id>
+               <id>157187424</id>
                <fraction>50</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[der Kommutator einer GM-FE zusätzlich Masse und Volumen benötigt]]></text>
@@ -563,7 +565,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705707</id>
+               <id>157187425</id>
                <fraction>50</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[die Erregerverluste einer GM-FE zu größeren Kühloberflächen führen]]></text>
@@ -576,7 +578,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705708</id>
+               <id>157187426</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[die Magnete einer SM-PM so gut wie keinen Raum beanspruchen]]></text>
@@ -589,7 +591,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705709</id>
+               <id>157187427</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[der Rotor einer SM-PM aufgrund möglicher Kühlschlitze besser kühlbar ist]]></text>
@@ -602,7 +604,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705710</id>
+               <id>157187428</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[die maximale Temperatur im Rotor einer GM-FE begrenzt ist]]></text>
@@ -617,7 +619,7 @@
          </subquestion>
       </question>
       <question type="MoodleClozeCalc">
-         <id>157705711</id>
+         <id>157187429</id>
          <idUser>1836</idUser>
          <questionType>22</questionType>
          <single>2</single>
@@ -654,7 +656,7 @@
          <addDocumentsPossible>false</addDocumentsPossible>
          <info/>
          <randomDataset>false</randomDataset>
-         <text art="Questiontext" id="157705712" format="html">         <inhalt><![CDATA[<h2>Vergleich GM-FE und SM-EE</h2>
+         <text art="Questiontext" id="157187430" format="html">         <inhalt><![CDATA[<h2>Vergleich GM-FE und SM-EE</h2>
 
 <ul>
 	<li>GM-FE&nbsp;= Gleichstrommaschine, fremderregt</li>
@@ -689,7 +691,7 @@
 			<td>[Q3]</td>
 		</tr>
 		<tr>
-			<td>Wartungkosten</td>
+			<td>Wartungskosten</td>
 			<td>bez&uuml;glich GM-FE</td>
 			<td>[Q4]</td>
 		</tr>
@@ -699,20 +701,21 @@
 			<td>[Q5]</td>
 		</tr>
 	</tbody>
-</table>]]></inhalt>
+</table>
+]]></inhalt>
 </text>
-         <text art="general feedback" id="157705713" format="html">         <inhalt/>
+         <text art="general feedback" id="157187431" format="html">         <inhalt/>
 </text>
-         <text art="correct feedback" id="157705714" format="html">         <inhalt/>
+         <text art="correct feedback" id="157187432" format="html">         <inhalt/>
 </text>
-         <text art="partially correct feedback" id="157705715" format="html">         <inhalt/>
+         <text art="partially correct feedback" id="157187433" format="html">         <inhalt/>
 </text>
-         <text art="incorrect feedback" id="157705716" format="html">         <inhalt/>
+         <text art="incorrect feedback" id="157187434" format="html">         <inhalt/>
 </text>
-         <text art="grader info" id="157705717" format="html">         <inhalt/>
+         <text art="grader info" id="157187435" format="html">         <inhalt/>
 </text>
          <subquestion>
-            <id>157705718</id>
+            <id>157187436</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q0]]></name>
@@ -722,7 +725,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705719</id>
+               <id>157187437</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -735,7 +738,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705720</id>
+               <id>157187438</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -748,7 +751,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705721</id>
+               <id>157187439</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -762,7 +765,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705722</id>
+            <id>157187440</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q1]]></name>
@@ -772,7 +775,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705723</id>
+               <id>157187441</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -785,7 +788,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705724</id>
+               <id>157187442</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -798,7 +801,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705725</id>
+               <id>157187443</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -812,7 +815,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705726</id>
+            <id>157187444</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q2]]></name>
@@ -822,7 +825,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705727</id>
+               <id>157187445</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -835,7 +838,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705728</id>
+               <id>157187446</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -848,7 +851,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705729</id>
+               <id>157187447</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -862,7 +865,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705730</id>
+            <id>157187448</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q3]]></name>
@@ -872,7 +875,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705731</id>
+               <id>157187449</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -885,7 +888,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705732</id>
+               <id>157187450</id>
                <fraction>50</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -898,7 +901,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705733</id>
+               <id>157187451</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -912,7 +915,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705734</id>
+            <id>157187452</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q4]]></name>
@@ -922,7 +925,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705735</id>
+               <id>157187453</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -935,7 +938,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705736</id>
+               <id>157187454</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -948,7 +951,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705737</id>
+               <id>157187455</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -962,7 +965,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705738</id>
+            <id>157187456</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q5]]></name>
@@ -972,7 +975,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705739</id>
+               <id>157187457</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -985,7 +988,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705740</id>
+               <id>157187458</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -998,7 +1001,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705741</id>
+               <id>157187459</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1013,7 +1016,7 @@
          </subquestion>
       </question>
       <question type="MoodleClozeCalc">
-         <id>157705742</id>
+         <id>157187460</id>
          <idUser>1836</idUser>
          <questionType>22</questionType>
          <single>2</single>
@@ -1037,7 +1040,7 @@
          <responseFieldLines>10</responseFieldLines>
          <attachments>3</attachments>
          <md5/>
-         <revNrServer>1</revNrServer>
+         <revNrServer>0</revNrServer>
          <revNrLocal>0</revNrLocal>
          <units/>
          <plugins/>
@@ -1050,11 +1053,11 @@
          <addDocumentsPossible>false</addDocumentsPossible>
          <info/>
          <randomDataset>false</randomDataset>
-         <text art="Questiontext" id="157705743" format="html">         <inhalt><![CDATA[<h2>Vergleich ASM-KL und SM-SYN</h2>
+         <text art="Questiontext" id="157187461" format="html">         <inhalt><![CDATA[<h2>Vergleich ASM-KL und SM-SYN</h2>
 
 <ul>
 	<li>ASM-KL = Asynchronmaschine mit Kurzschlussl&auml;ufer</li>
-	<li>SM-SYN = Synchronreluktanzmaschine</li>
+	<li>SM-SYN = Synchronreluktanz-Maschine</li>
 </ul>
 
 <table border="1" cellpadding="1" cellspacing="1" style="width:700px">
@@ -1085,7 +1088,7 @@
 			<td>[Q3]</td>
 		</tr>
 		<tr>
-			<td>Wartungkosten</td>
+			<td>Wartungskosten</td>
 			<td>bez&uuml;glich ASM-KL</td>
 			<td>[Q4]</td>
 		</tr>
@@ -1095,20 +1098,21 @@
 			<td>[Q5]</td>
 		</tr>
 	</tbody>
-</table>]]></inhalt>
+</table>
+]]></inhalt>
 </text>
-         <text art="general feedback" id="157705744" format="html">         <inhalt/>
+         <text art="general feedback" id="157187462" format="html">         <inhalt/>
 </text>
-         <text art="correct feedback" id="157705745" format="html">         <inhalt/>
+         <text art="correct feedback" id="157187463" format="html">         <inhalt/>
 </text>
-         <text art="partially correct feedback" id="157705746" format="html">         <inhalt/>
+         <text art="partially correct feedback" id="157187464" format="html">         <inhalt/>
 </text>
-         <text art="incorrect feedback" id="157705747" format="html">         <inhalt/>
+         <text art="incorrect feedback" id="157187465" format="html">         <inhalt/>
 </text>
-         <text art="grader info" id="157705748" format="html">         <inhalt/>
+         <text art="grader info" id="157187466" format="html">         <inhalt/>
 </text>
          <subquestion>
-            <id>157705749</id>
+            <id>157187467</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q0]]></name>
@@ -1118,7 +1122,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705750</id>
+               <id>157187468</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1131,7 +1135,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705751</id>
+               <id>157187469</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1144,7 +1148,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705752</id>
+               <id>157187470</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1158,7 +1162,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705753</id>
+            <id>157187471</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q1]]></name>
@@ -1168,7 +1172,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705754</id>
+               <id>157187472</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1181,7 +1185,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705755</id>
+               <id>157187473</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1194,7 +1198,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705756</id>
+               <id>157187474</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1208,7 +1212,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705757</id>
+            <id>157187475</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q2]]></name>
@@ -1218,7 +1222,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705758</id>
+               <id>157187476</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1231,7 +1235,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705759</id>
+               <id>157187477</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1244,7 +1248,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705760</id>
+               <id>157187478</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1258,7 +1262,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705761</id>
+            <id>157187479</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q3]]></name>
@@ -1268,7 +1272,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705762</id>
+               <id>157187480</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1281,7 +1285,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705763</id>
+               <id>157187481</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1294,7 +1298,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705764</id>
+               <id>157187482</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1308,7 +1312,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705765</id>
+            <id>157187483</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q4]]></name>
@@ -1318,7 +1322,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705766</id>
+               <id>157187484</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1331,7 +1335,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705767</id>
+               <id>157187485</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1344,7 +1348,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705768</id>
+               <id>157187486</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1358,7 +1362,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705769</id>
+            <id>157187487</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q5]]></name>
@@ -1368,7 +1372,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705770</id>
+               <id>157187488</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1381,7 +1385,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705771</id>
+               <id>157187489</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1394,7 +1398,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705772</id>
+               <id>157187490</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1409,7 +1413,7 @@
          </subquestion>
       </question>
       <question type="MoodleClozeCalc">
-         <id>157705773</id>
+         <id>157187491</id>
          <idUser>1836</idUser>
          <questionType>22</questionType>
          <single>2</single>
@@ -1433,7 +1437,7 @@
          <responseFieldLines>10</responseFieldLines>
          <attachments>3</attachments>
          <md5/>
-         <revNrServer>1</revNrServer>
+         <revNrServer>0</revNrServer>
          <revNrLocal>0</revNrLocal>
          <units/>
          <plugins/>
@@ -1446,7 +1450,7 @@
          <addDocumentsPossible>false</addDocumentsPossible>
          <info/>
          <randomDataset>false</randomDataset>
-         <text art="Questiontext" id="157705774" format="html">         <inhalt><![CDATA[<h2>Vergleich ASM-KL und SM-PM</h2>
+         <text art="Questiontext" id="157187492" format="html">         <inhalt><![CDATA[<h2>Vergleich ASM-KL und SM-PM</h2>
 
 <ul>
 	<li>ASM-KL = Asynchronmaschine mit Kurzschlussl&auml;ufer</li>
@@ -1481,7 +1485,7 @@
 			<td>[Q3]</td>
 		</tr>
 		<tr>
-			<td>Wartungkosten</td>
+			<td>Wartungskosten</td>
 			<td>bez&uuml;glich ASM-KL</td>
 			<td>[Q4]</td>
 		</tr>
@@ -1491,20 +1495,21 @@
 			<td>[Q5]</td>
 		</tr>
 	</tbody>
-</table>]]></inhalt>
+</table>
+]]></inhalt>
 </text>
-         <text art="general feedback" id="157705775" format="html">         <inhalt/>
+         <text art="general feedback" id="157187493" format="html">         <inhalt/>
 </text>
-         <text art="correct feedback" id="157705776" format="html">         <inhalt/>
+         <text art="correct feedback" id="157187494" format="html">         <inhalt/>
 </text>
-         <text art="partially correct feedback" id="157705777" format="html">         <inhalt/>
+         <text art="partially correct feedback" id="157187495" format="html">         <inhalt/>
 </text>
-         <text art="incorrect feedback" id="157705778" format="html">         <inhalt/>
+         <text art="incorrect feedback" id="157187496" format="html">         <inhalt/>
 </text>
-         <text art="grader info" id="157705779" format="html">         <inhalt/>
+         <text art="grader info" id="157187497" format="html">         <inhalt/>
 </text>
          <subquestion>
-            <id>157705780</id>
+            <id>157187498</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q0]]></name>
@@ -1514,7 +1519,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705781</id>
+               <id>157187499</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1527,7 +1532,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705782</id>
+               <id>157187500</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1540,7 +1545,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705783</id>
+               <id>157187501</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1554,7 +1559,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705784</id>
+            <id>157187502</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q1]]></name>
@@ -1564,7 +1569,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705785</id>
+               <id>157187503</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1577,7 +1582,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705786</id>
+               <id>157187504</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1590,7 +1595,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705787</id>
+               <id>157187505</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1604,7 +1609,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705788</id>
+            <id>157187506</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q2]]></name>
@@ -1614,7 +1619,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705789</id>
+               <id>157187507</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1627,7 +1632,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705790</id>
+               <id>157187508</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1640,7 +1645,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705791</id>
+               <id>157187509</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1654,7 +1659,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705792</id>
+            <id>157187510</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q3]]></name>
@@ -1664,7 +1669,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705793</id>
+               <id>157187511</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1677,7 +1682,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705794</id>
+               <id>157187512</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1690,7 +1695,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705795</id>
+               <id>157187513</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1704,7 +1709,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705796</id>
+            <id>157187514</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q4]]></name>
@@ -1714,7 +1719,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705797</id>
+               <id>157187515</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1727,7 +1732,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705798</id>
+               <id>157187516</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1740,7 +1745,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705799</id>
+               <id>157187517</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1754,7 +1759,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705800</id>
+            <id>157187518</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q5]]></name>
@@ -1764,7 +1769,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705801</id>
+               <id>157187519</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1777,7 +1782,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705802</id>
+               <id>157187520</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -1790,7 +1795,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705803</id>
+               <id>157187521</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1805,10 +1810,9 @@
          </subquestion>
       </question>
       <question type="MoodleClozeCalc">
-         <id>157705804</id>
+         <id>157652667</id>
          <idUser>1836</idUser>
          <questionType>22</questionType>
-         <single>2</single>
          <name><![CDATA[Vergleich GR ohne B mit SN]]></name>
          <punkte>4</punkte>
          <penalty/>
@@ -1842,7 +1846,7 @@
          <addDocumentsPossible>false</addDocumentsPossible>
          <info/>
          <randomDataset>false</randomDataset>
-         <text art="Questiontext" id="157705805" format="html">         <inhalt><![CDATA[<h2>Vergleich Diodengleichrichter ohne Bremswiderstand mit Netzstromrichter</h2>
+         <text art="Questiontext" id="157652668" format="html">         <inhalt><![CDATA[<h2>Vergleich Diodengleichrichter ohne Bremswiderstand mit Netzstromrichter</h2>
 
 <ul>
 	<li>GR ohne B = Diodengleichrichter ohne Bremswiderstand</li>
@@ -1879,20 +1883,21 @@
 	</tbody>
 </table>
 
-<p>&nbsp;</p>]]></inhalt>
+<p>&nbsp;</p>
+]]></inhalt>
 </text>
-         <text art="general feedback" id="157705806" format="html">         <inhalt/>
+         <text art="general feedback" id="157652669" format="html">         <inhalt/>
 </text>
-         <text art="correct feedback" id="157705807" format="html">         <inhalt/>
+         <text art="correct feedback" id="157652670" format="html">         <inhalt/>
 </text>
-         <text art="partially correct feedback" id="157705808" format="html">         <inhalt/>
+         <text art="partially correct feedback" id="157652671" format="html">         <inhalt/>
 </text>
-         <text art="incorrect feedback" id="157705809" format="html">         <inhalt/>
+         <text art="incorrect feedback" id="157652672" format="html">         <inhalt/>
 </text>
-         <text art="grader info" id="157705810" format="html">         <inhalt/>
+         <text art="grader info" id="157652673" format="html">         <inhalt/>
 </text>
          <subquestion>
-            <id>157705811</id>
+            <id>157652684</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q0]]></name>
@@ -1902,7 +1907,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705812</id>
+               <id>157652685</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -1915,7 +1920,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705813</id>
+               <id>157652702</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich gut]]></text>
@@ -1928,7 +1933,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705814</id>
+               <id>157652703</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -1942,7 +1947,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705815</id>
+            <id>157652686</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q1]]></name>
@@ -1952,7 +1957,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705816</id>
+               <id>157652687</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[nicht möglich]]></text>
@@ -1965,7 +1970,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705817</id>
+               <id>157652704</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleichwertig möglich]]></text>
@@ -1978,7 +1983,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705818</id>
+               <id>157652705</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[besser möglich]]></text>
@@ -1991,7 +1996,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705819</id>
+               <id>157652706</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringfügig möglich]]></text>
@@ -2005,7 +2010,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705820</id>
+            <id>157652688</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q2]]></name>
@@ -2015,7 +2020,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705821</id>
+               <id>157652689</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[nicht möglich]]></text>
@@ -2028,7 +2033,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705822</id>
+               <id>157652707</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleichwertig möglich]]></text>
@@ -2041,7 +2046,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705823</id>
+               <id>157652708</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[besser möglich]]></text>
@@ -2054,7 +2059,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705824</id>
+               <id>157652709</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringfügig möglich]]></text>
@@ -2068,7 +2073,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705825</id>
+            <id>157652690</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q3]]></name>
@@ -2078,7 +2083,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705826</id>
+               <id>157652691</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -2091,7 +2096,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705827</id>
+               <id>157652710</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -2104,7 +2109,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705828</id>
+               <id>157652711</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -2119,10 +2124,9 @@
          </subquestion>
       </question>
       <question type="MoodleClozeCalc">
-         <id>157705829</id>
+         <id>157652712</id>
          <idUser>1836</idUser>
          <questionType>22</questionType>
-         <single>2</single>
          <name><![CDATA[Vergleich GR ohne B mit SN Kopie]]></name>
          <punkte>4</punkte>
          <penalty/>
@@ -2156,7 +2160,7 @@
          <addDocumentsPossible>false</addDocumentsPossible>
          <info/>
          <randomDataset>false</randomDataset>
-         <text art="Questiontext" id="157705830" format="html">         <inhalt><![CDATA[<h2>Vergleich Diodengleichrichter mit Bremswiderstand mit Netzstromrichter</h2>
+         <text art="Questiontext" id="157652713" format="html">         <inhalt><![CDATA[<h2>Vergleich Diodengleichrichter mit Bremswiderstand mit Netzstromrichter</h2>
 
 <ul>
 	<li>GR mit B = Diodengleichrichter mit Bremswiderstand</li>
@@ -2195,18 +2199,18 @@
 
 <p>&nbsp;</p>]]></inhalt>
 </text>
-         <text art="general feedback" id="157705831" format="html">         <inhalt/>
+         <text art="general feedback" id="157652714" format="html">         <inhalt/>
 </text>
-         <text art="correct feedback" id="157705832" format="html">         <inhalt/>
+         <text art="correct feedback" id="157652715" format="html">         <inhalt/>
 </text>
-         <text art="partially correct feedback" id="157705833" format="html">         <inhalt/>
+         <text art="partially correct feedback" id="157652716" format="html">         <inhalt/>
 </text>
-         <text art="incorrect feedback" id="157705834" format="html">         <inhalt/>
+         <text art="incorrect feedback" id="157652717" format="html">         <inhalt/>
 </text>
-         <text art="grader info" id="157705835" format="html">         <inhalt/>
+         <text art="grader info" id="157652718" format="html">         <inhalt/>
 </text>
          <subquestion>
-            <id>157705836</id>
+            <id>157652719</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q0]]></name>
@@ -2216,7 +2220,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705837</id>
+               <id>157652720</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -2229,7 +2233,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705838</id>
+               <id>157652721</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich gut]]></text>
@@ -2242,7 +2246,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705839</id>
+               <id>157652722</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
@@ -2256,7 +2260,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705840</id>
+            <id>157652723</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q1]]></name>
@@ -2266,7 +2270,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705841</id>
+               <id>157652724</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[nicht möglich]]></text>
@@ -2279,7 +2283,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705842</id>
+               <id>157652725</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleichwertig möglich]]></text>
@@ -2292,7 +2296,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705843</id>
+               <id>157652726</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[besser möglich]]></text>
@@ -2305,7 +2309,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705844</id>
+               <id>157652727</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringfügig möglich]]></text>
@@ -2319,7 +2323,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705845</id>
+            <id>157652728</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q2]]></name>
@@ -2329,7 +2333,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705846</id>
+               <id>157652729</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[nicht möglich]]></text>
@@ -2342,7 +2346,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705847</id>
+               <id>157652730</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleichwertig möglich]]></text>
@@ -2355,7 +2359,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705848</id>
+               <id>157652731</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[besser möglich]]></text>
@@ -2368,7 +2372,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705849</id>
+               <id>157652732</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringfügig möglich]]></text>
@@ -2382,7 +2386,7 @@
             </answer>
          </subquestion>
          <subquestion>
-            <id>157705850</id>
+            <id>157652733</id>
             <grade>1</grade>
             <mode>0</mode>
             <name><![CDATA[Q3]]></name>
@@ -2392,7 +2396,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157705851</id>
+               <id>157652734</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[geringer]]></text>
@@ -2405,7 +2409,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705852</id>
+               <id>157652735</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[etwa gleich hoch]]></text>
@@ -2418,7 +2422,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157705853</id>
+               <id>157652736</id>
                <fraction>-100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[höher]]></text>
