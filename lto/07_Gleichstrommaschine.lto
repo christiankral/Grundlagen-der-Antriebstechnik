@@ -309,6 +309,158 @@
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
+               <id>157046328</id>
+               <idUser>1836</idUser>
+               <questionType>22</questionType>
+               <name><![CDATA[Prinzip 2]]></name>
+               <punkte>1</punkte>
+               <penalty/>
+               <hidden>0</hidden>
+               <tag/>
+               <noAutoCorrect>0</noAutoCorrect>
+               <usecase>0</usecase>
+               <synchronize>0</synchronize>
+               <shuffleAnswers>1</shuffleAnswers>
+               <answerNumbering><![CDATA[abc]]></answerNumbering>
+               <unitGradingType>2</unitGradingType>
+               <unitPenalty>0.1</unitPenalty>
+               <showUnits>0</showUnits>
+               <unitsLeft>0</unitsLeft>
+               <maxima/>
+               <maximaAngabe><![CDATA[;::;]]></maximaAngabe>
+               <responseFormat><![CDATA[editor]]></responseFormat>
+               <responseFieldLines>10</responseFieldLines>
+               <attachments>3</attachments>
+               <md5/>
+               <revNrServer>0</revNrServer>
+               <revNrLocal>0</revNrLocal>
+               <units/>
+               <plugins/>
+               <sendToParser>false</sendToParser>
+               <preCalc>false</preCalc>
+               <streng>false</streng>
+               <licenceKey />
+               <konstanteMitProzent>true</konstanteMitProzent>
+               <useSymbolicMode>false</useSymbolicMode>
+               <addDocumentsPossible>false</addDocumentsPossible>
+               <info/>
+               <randomDataset>false</randomDataset>
+               <questionCommentMsg/>
+               <questionCommentIcon>REVIEWED</questionCommentIcon>
+               <text art="Questiontext" id="157046329" format="html">
+                                 <inhalt><![CDATA[<h1>Prinzip 2</h1>
+
+<p>[IMG0]&nbsp;</p>
+
+<p>In <strong>Bild 7.2c</strong>&nbsp;bedeuten:</p>
+
+<p>[Q0]&nbsp;</p>]]></inhalt>
+
+                  <file filename="Clipboard.png" id="157046400" md5="1fc0bed7347c0cbe2dbd528bff1c22" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/1f/1fc0bed7347c0cbe2dbd528bff1c22.png]]></webPath>
+                  </file>
+               </text>
+               <text art="general feedback" id="157046334" format="html">               <inhalt/>
+</text>
+               <text art="correct feedback" id="157046335" format="html">               <inhalt/>
+</text>
+               <text art="partially correct feedback" id="157046336" format="html">               <inhalt/>
+</text>
+               <text art="incorrect feedback" id="157046337" format="html">               <inhalt/>
+</text>
+               <text art="grader info" id="157046338" format="html">               <inhalt/>
+</text>
+               <subquestion>
+                  <id>157046349</id>
+                  <grade>1</grade>
+                  <mode>8</mode>
+                  <name><![CDATA[Q0]]></name>
+                  <maxima/>
+                  <plugininfo/>
+                  <plugininputimage/>
+                  <shuffleAnswers>1</shuffleAnswers>
+                  <schwierigkeit>0</schwierigkeit>
+                  <answer>
+                     <id>157046350</id>
+                     <fraction>100</fraction>
+                     <format><![CDATA[html]]></format>
+                     <text><![CDATA[$\tau$]]></text>
+                     <feedback/>
+                     <tolerance><![CDATA[1%]]></tolerance>
+                     <correctAnswerFormat>2</correctAnswerFormat>
+                     <correctAnswerLength>5</correctAnswerLength>
+                     <maxima/>
+                     <answer><![CDATA[Tangentialkoordinate]]></answer>
+                     <einheit/>
+                  </answer>
+                  <answer>
+                     <id>157046351</id>
+                     <fraction>-100</fraction>
+                     <format><![CDATA[html]]></format>
+                     <text><![CDATA[$\tau_p$]]></text>
+                     <feedback/>
+                     <tolerance><![CDATA[1.0%]]></tolerance>
+                     <correctAnswerFormat>2</correctAnswerFormat>
+                     <correctAnswerLength>5</correctAnswerLength>
+                     <maxima/>
+                     <answer><![CDATA[Polteilung]]></answer>
+                     <einheit/>
+                  </answer>
+                  <answer>
+                     <id>157046352</id>
+                     <fraction>-100</fraction>
+                     <format><![CDATA[html]]></format>
+                     <text><![CDATA[$\delta$]]></text>
+                     <feedback/>
+                     <tolerance><![CDATA[1.0%]]></tolerance>
+                     <correctAnswerFormat>2</correctAnswerFormat>
+                     <correctAnswerLength>5</correctAnswerLength>
+                     <maxima/>
+                     <answer><![CDATA[Luftspaltweite]]></answer>
+                     <einheit/>
+                  </answer>
+                  <answer>
+                     <id>157046353</id>
+                     <fraction>0</fraction>
+                     <format><![CDATA[html]]></format>
+                     <text><![CDATA[$D$]]></text>
+                     <feedback/>
+                     <tolerance><![CDATA[1.0%]]></tolerance>
+                     <correctAnswerFormat>2</correctAnswerFormat>
+                     <correctAnswerLength>5</correctAnswerLength>
+                     <maxima/>
+                     <answer><![CDATA[Ankerdurchmesser]]></answer>
+                     <einheit/>
+                  </answer>
+                  <answer>
+                     <id>157046354</id>
+                     <fraction>0</fraction>
+                     <format><![CDATA[html]]></format>
+                     <text/>
+                     <feedback/>
+                     <tolerance><![CDATA[1.0%]]></tolerance>
+                     <correctAnswerFormat>2</correctAnswerFormat>
+                     <correctAnswerLength>5</correctAnswerLength>
+                     <maxima/>
+                     <answer><![CDATA[Achsialkoordinate]]></answer>
+                     <einheit/>
+                  </answer>
+                  <answer>
+                     <id>157046355</id>
+                     <fraction>0</fraction>
+                     <format><![CDATA[html]]></format>
+                     <text/>
+                     <feedback/>
+                     <tolerance><![CDATA[1.0%]]></tolerance>
+                     <correctAnswerFormat>2</correctAnswerFormat>
+                     <correctAnswerLength>5</correctAnswerLength>
+                     <maxima/>
+                     <answer><![CDATA[Statordurchmesser]]></answer>
+                     <einheit/>
+                  </answer>
+               </subquestion>
+            </question>
+            <question type="MoodleClozeCalc">
                <id>157046249</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
@@ -570,158 +722,6 @@
                      <correctAnswerLength>5</correctAnswerLength>
                      <maxima/>
                      <answer/>
-                     <einheit/>
-                  </answer>
-               </subquestion>
-            </question>
-            <question type="MoodleClozeCalc">
-               <id>157046328</id>
-               <idUser>1836</idUser>
-               <questionType>22</questionType>
-               <name><![CDATA[Prinzip 2]]></name>
-               <punkte>1</punkte>
-               <penalty/>
-               <hidden>0</hidden>
-               <tag/>
-               <noAutoCorrect>0</noAutoCorrect>
-               <usecase>0</usecase>
-               <synchronize>0</synchronize>
-               <shuffleAnswers>1</shuffleAnswers>
-               <answerNumbering><![CDATA[abc]]></answerNumbering>
-               <unitGradingType>2</unitGradingType>
-               <unitPenalty>0.1</unitPenalty>
-               <showUnits>0</showUnits>
-               <unitsLeft>0</unitsLeft>
-               <maxima/>
-               <maximaAngabe><![CDATA[;::;]]></maximaAngabe>
-               <responseFormat><![CDATA[editor]]></responseFormat>
-               <responseFieldLines>10</responseFieldLines>
-               <attachments>3</attachments>
-               <md5/>
-               <revNrServer>0</revNrServer>
-               <revNrLocal>0</revNrLocal>
-               <units/>
-               <plugins/>
-               <sendToParser>false</sendToParser>
-               <preCalc>false</preCalc>
-               <streng>false</streng>
-               <licenceKey />
-               <konstanteMitProzent>true</konstanteMitProzent>
-               <useSymbolicMode>false</useSymbolicMode>
-               <addDocumentsPossible>false</addDocumentsPossible>
-               <info/>
-               <randomDataset>false</randomDataset>
-               <questionCommentMsg/>
-               <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="157046329" format="html">
-                                 <inhalt><![CDATA[<h1>Prinzip 2</h1>
-
-<p>[IMG0]&nbsp;</p>
-
-<p>In <strong>Bild 7.2c</strong>&nbsp;bedeuten:</p>
-
-<p>[Q0]&nbsp;</p>]]></inhalt>
-
-                  <file filename="Clipboard.png" id="157046400" md5="1fc0bed7347c0cbe2dbd528bff1c22" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/1f/1fc0bed7347c0cbe2dbd528bff1c22.png]]></webPath>
-                  </file>
-               </text>
-               <text art="general feedback" id="157046334" format="html">               <inhalt/>
-</text>
-               <text art="correct feedback" id="157046335" format="html">               <inhalt/>
-</text>
-               <text art="partially correct feedback" id="157046336" format="html">               <inhalt/>
-</text>
-               <text art="incorrect feedback" id="157046337" format="html">               <inhalt/>
-</text>
-               <text art="grader info" id="157046338" format="html">               <inhalt/>
-</text>
-               <subquestion>
-                  <id>157046349</id>
-                  <grade>1</grade>
-                  <mode>8</mode>
-                  <name><![CDATA[Q0]]></name>
-                  <maxima/>
-                  <plugininfo/>
-                  <plugininputimage/>
-                  <shuffleAnswers>1</shuffleAnswers>
-                  <schwierigkeit>0</schwierigkeit>
-                  <answer>
-                     <id>157046350</id>
-                     <fraction>100</fraction>
-                     <format><![CDATA[html]]></format>
-                     <text><![CDATA[$\tau$]]></text>
-                     <feedback/>
-                     <tolerance><![CDATA[1%]]></tolerance>
-                     <correctAnswerFormat>2</correctAnswerFormat>
-                     <correctAnswerLength>5</correctAnswerLength>
-                     <maxima/>
-                     <answer><![CDATA[Tangentialkoordinate]]></answer>
-                     <einheit/>
-                  </answer>
-                  <answer>
-                     <id>157046351</id>
-                     <fraction>-100</fraction>
-                     <format><![CDATA[html]]></format>
-                     <text><![CDATA[$\tau_p$]]></text>
-                     <feedback/>
-                     <tolerance><![CDATA[1.0%]]></tolerance>
-                     <correctAnswerFormat>2</correctAnswerFormat>
-                     <correctAnswerLength>5</correctAnswerLength>
-                     <maxima/>
-                     <answer><![CDATA[Polteilung]]></answer>
-                     <einheit/>
-                  </answer>
-                  <answer>
-                     <id>157046352</id>
-                     <fraction>-100</fraction>
-                     <format><![CDATA[html]]></format>
-                     <text><![CDATA[$\delta$]]></text>
-                     <feedback/>
-                     <tolerance><![CDATA[1.0%]]></tolerance>
-                     <correctAnswerFormat>2</correctAnswerFormat>
-                     <correctAnswerLength>5</correctAnswerLength>
-                     <maxima/>
-                     <answer><![CDATA[Luftspaltweite]]></answer>
-                     <einheit/>
-                  </answer>
-                  <answer>
-                     <id>157046353</id>
-                     <fraction>0</fraction>
-                     <format><![CDATA[html]]></format>
-                     <text><![CDATA[$D$]]></text>
-                     <feedback/>
-                     <tolerance><![CDATA[1.0%]]></tolerance>
-                     <correctAnswerFormat>2</correctAnswerFormat>
-                     <correctAnswerLength>5</correctAnswerLength>
-                     <maxima/>
-                     <answer><![CDATA[Ankerdurchmesser]]></answer>
-                     <einheit/>
-                  </answer>
-                  <answer>
-                     <id>157046354</id>
-                     <fraction>0</fraction>
-                     <format><![CDATA[html]]></format>
-                     <text/>
-                     <feedback/>
-                     <tolerance><![CDATA[1.0%]]></tolerance>
-                     <correctAnswerFormat>2</correctAnswerFormat>
-                     <correctAnswerLength>5</correctAnswerLength>
-                     <maxima/>
-                     <answer><![CDATA[Achsialkoordinate]]></answer>
-                     <einheit/>
-                  </answer>
-                  <answer>
-                     <id>157046355</id>
-                     <fraction>0</fraction>
-                     <format><![CDATA[html]]></format>
-                     <text/>
-                     <feedback/>
-                     <tolerance><![CDATA[1.0%]]></tolerance>
-                     <correctAnswerFormat>2</correctAnswerFormat>
-                     <correctAnswerLength>5</correctAnswerLength>
-                     <maxima/>
-                     <answer><![CDATA[Statordurchmesser]]></answer>
                      <einheit/>
                   </answer>
                </subquestion>
@@ -1754,7 +1754,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -1894,7 +1894,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -2086,7 +2086,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -2616,7 +2616,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -2862,7 +2862,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -2916,7 +2916,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                   </answer>
                   <answer>
                      <id>157728287</id>
-                     <fraction>-33</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Die Bürsten einer Gleichstrommaschine bestehen aus magnetisch gut leitfähigem Material]]></text>
                      <feedback/>
@@ -2929,7 +2929,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                   </answer>
                   <answer>
                      <id>157728288</id>
-                     <fraction>-33</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Die Bürsten einer Gleichstrommaschine bestehen aus Kupfer]]></text>
                      <feedback/>
@@ -2968,7 +2968,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                   </answer>
                   <answer>
                      <id>157728291</id>
-                     <fraction>-33</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Über die Bürsten wird der Strom zwischen Anker- und Erregerwicklung kommutiert]]></text>
                      <feedback/>
@@ -3006,7 +3006,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -3060,7 +3060,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                   </answer>
                   <answer>
                      <id>157728302</id>
-                     <fraction>-50</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Der Kommutator besteht aus Kohlelamellen]]></text>
                      <feedback/>
@@ -3073,7 +3073,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                   </answer>
                   <answer>
                      <id>157728303</id>
-                     <fraction>-50</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Der Kommutator besteht aus magnetisch gut leitfähigem Material]]></text>
                      <feedback/>
@@ -3099,7 +3099,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                   </answer>
                   <answer>
                      <id>157728305</id>
-                     <fraction>-50</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Die Kommutatorlamellen weisen gegeneinander einen geringen Übergangswiderstand auf]]></text>
                      <feedback/>
@@ -3140,7 +3140,7 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -3158,10 +3158,10 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                <text art="Questiontext" id="157049732" format="html">
                                  <inhalt><![CDATA[<h1>Ankerwicklung</h1>
 
-<p>[IMG0]<br/>
+<p>[IMG0]<br />
 <strong>Bild 7.6 (a)</strong> Ebene Darstellung einer Ankerwicklung</p>
 
-<p>[IMG2]<br/>
+<p>[IMG2]<br />
 <strong>Bild 7.6 (b)</strong> Ankerwicklung&nbsp;(Foto: &copy; Heinrich Sch&uuml;mann GmbH &amp; Co. KG)</p>
 
 <p>In <strong>Bild 7.6a</strong>&nbsp;ist die ebene Darstellung einer Wicklung gezeigt. Wir sprechen auch von einer abgewickelten Darstellung, da die Umfangskoordinate (im Luftspalt zwischen Hauptpol und Rotor), in eine lineare Darstellung abgewickelt $-$ das hei&szlig;t &uuml;bertragen $-$ wird.</p>
@@ -3176,8 +3176,9 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
 
 <p>In einer praktischen Ausf&uuml;hrung k&ouml;nnen jedoch mehrere B&uuml;rsten parallel geschaltet sein, wie das <strong>Bild 7.5b</strong> zeigt.</p>
 
-<p>[IMG1]<br/>
-Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gleichstrommaschine kleinerer Leistung (Foto: &copy; Shutterstock),&nbsp;<strong>(b)</strong>&nbsp;Gleichstrommaschine mit ca. 300 kW (Foto: Christian Kral, CC BY 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Commutator_and_brushes_DC_motor.jpg" target="_blank">Wikimedia Commons</a>),&nbsp;<strong>(c)</strong>&nbsp;Fertigung des Rotors mit Kommutator und teilweise eingelegter Ankerwicklung (Foto: &copy;ABB),&nbsp;<strong>(d)</strong>&nbsp;Kommutator mit eingelegten Leitern der Ankerwicklung die entlang der gestrichelt angedeuteten Linie (Symbol der&nbsp;Schere) gek&uuml;rzt werden m&uuml;ssen (Foto: &copy;ABB)</p>]]></inhalt>
+<p>[IMG1]<br />
+Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gleichstrommaschine kleinerer Leistung (Foto: &copy; Shutterstock),&nbsp;<strong>(b)</strong>&nbsp;Gleichstrommaschine mit ca. 300 kW (Foto: Christian Kral, CC BY 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Commutator_and_brushes_DC_motor.jpg" target="_blank">Wikimedia Commons</a>),&nbsp;<strong>(c)</strong>&nbsp;Fertigung des Rotors mit Kommutator und teilweise eingelegter Ankerwicklung (Foto: &copy;ABB),&nbsp;<strong>(d)</strong>&nbsp;Kommutator mit eingelegten Leitern der Ankerwicklung die entlang der gestrichelt angedeuteten Linie (Symbol der&nbsp;Schere) gek&uuml;rzt werden m&uuml;ssen (Foto: &copy;ABB)</p>
+]]></inhalt>
 
                   <file filename="7.6a.png" id="158656300" md5="289820baa6d8ee6c996b9a1810e638" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/28/289820baa6d8ee6c996b9a1810e638.png]]></webPath>
@@ -3718,12 +3719,13 @@ Bild <strong>7.5 (a)</strong> Kommutator (ohne B&uuml;rsten) und Rotor einer Gle
                <info/>
                <randomDataset>false</randomDataset>
                <text art="Questiontext" id="158374990" format="html">
-                                 <inhalt><![CDATA[<p>[IMG0]<br/>
-Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023</p>
+                                 <inhalt><![CDATA[<p>[IMG0]<br />
+Bild:&nbsp;&copy; Christian Kral aus &quot;Grundlagen der Antriebstechnik&quot;, Carl Hanser Verlag 2023</p>
 
 <p>Die Spulenweite $w$ einer Scheifen- oder Wellenwicklung betr&auml;gt etwa:</p>
 
-<p>[Q0]&nbsp;</p>]]></inhalt>
+<p>[Q0]&nbsp;</p>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="158656304" md5="25b7de70a0d8d7b492861cfcf125422" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/25/25b7de70a0d8d7b492861cfcf125422.png]]></webPath>
@@ -3831,7 +3833,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -4029,7 +4031,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                   </answer>
                   <answer>
                      <id>2860608</id>
-                     <fraction>-50</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Die Hauptpole erzeugen zusätzlich zum Hauptfeld auch das magnetische Ankerquerfeld]]></text>
                      <feedback/>
@@ -4055,7 +4057,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                   </answer>
                   <answer>
                      <id>2860610</id>
-                     <fraction>-50</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Eine Gleichstrommaschine verfügt über eine beliebige Anzahl von Hauptpolen]]></text>
                      <feedback/>
@@ -4068,7 +4070,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                   </answer>
                   <answer>
                      <id>2860611</id>
-                     <fraction>-50</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Eine Gleichstrommaschine verfügt über eine ungerade Anzahl von Hauptpolen]]></text>
                      <feedback/>
@@ -4402,7 +4404,8 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
 
 <p>Die kommutierenden Spulen befinden sich in der [Q3] (6) in Bild <strong>7.10a</strong>.</p>
 
-<p/>]]></inhalt>
+<p> </p>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="158656316" md5="dead5ce31d5d1a9a736f27a909770" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/de/dead5ce31d5d1a9a736f27a909770.png]]></webPath>
@@ -4419,7 +4422,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                <text art="grader info" id="157050440" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>158656317</id>
+                  <id>158656352</id>
                   <grade>1</grade>
                   <mode>1</mode>
                   <name><![CDATA[Q0]]></name>
@@ -4429,7 +4432,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>158656318</id>
+                     <id>158656429</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höher]]></text>
@@ -4443,7 +4446,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>158656319</id>
+                  <id>158656353</id>
                   <grade>1</grade>
                   <mode>1</mode>
                   <name><![CDATA[Q1]]></name>
@@ -4453,7 +4456,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>158656320</id>
+                     <id>158656430</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Kommutierung]]></text>
@@ -4467,7 +4470,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>158656321</id>
+                  <id>158656354</id>
                   <grade>1</grade>
                   <mode>1</mode>
                   <name><![CDATA[Q2]]></name>
@@ -4477,7 +4480,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>158656322</id>
+                     <id>158656431</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Magnetfeld]]></text>
@@ -4491,7 +4494,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                   </answer>
                </subquestion>
                <subquestion>
-                  <id>158656323</id>
+                  <id>158656355</id>
                   <grade>1</grade>
                   <mode>1</mode>
                   <name><![CDATA[Q3]]></name>
@@ -4501,7 +4504,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>158656324</id>
+                     <id>158656432</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[geometrisch neutralen Zone]]></text>
@@ -4539,7 +4542,7 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -4572,7 +4575,8 @@ Bild:&nbsp;&copy; Christian Kral aus "Grundlagen der Antriebstechnik", Carl Hans
 
 <p>gerichtet ist. Wir bezeichnen dieses Feld als <strong>Hauptfeld</strong>, da es</p>
 
-<p>[Q1]&nbsp;</p>]]></inhalt>
+<p>[Q1]&nbsp;</p>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="158045907" md5="dead5ce31d5d1a9a736f27a909770" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/de/dead5ce31d5d1a9a736f27a909770.png]]></webPath>
@@ -5414,7 +5418,8 @@ erg : wenn(nord = gesnord, [3],[1,5])
                <text art="Questiontext" id="158513971" format="">
                                  <inhalt><![CDATA[<p>Kennzeichnen Sie alle Wicklungsanteile, die zur Erregerwicklung geh&ouml;ren</p>
 
-<p>[Q0]&nbsp;</p>]]></inhalt>
+<p>[Q0]&nbsp;</p>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="158656327" md5="14a6fa99afa511a602e5cde8bb7792" idUser="0" ext="png" width="50%" height="50" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/14/14a6fa99afa511a602e5cde8bb7792.png]]></webPath>
@@ -5560,7 +5565,7 @@ erg : wenn(nord = gesnord, [3],[1,5])
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins><![CDATA[[PI Plugin1 Plot "baseimage(0);input=mc([705.7,396.1],[636.8,166.7],[398.2,96.47],[167.5,165.4],[97.21,400.1],[170.1,633],[399.5,707.2],[636.8,634.3])"]]]></plugins>
@@ -5576,7 +5581,8 @@ erg : wenn(nord = gesnord, [3],[1,5])
                <text art="Questiontext" id="158610975" format="">
                                  <inhalt><![CDATA[<p>Kennzeichnen Sie alle Wendepole der Maschine</p>
 
-<p>[Q0]&nbsp;</p>]]></inhalt>
+<p>[Q0]&nbsp;</p>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="158611000" md5="14a6fa99afa511a602e5cde8bb7792" idUser="0" ext="png" width="50%" height="50" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/14/14a6fa99afa511a602e5cde8bb7792.png]]></webPath>
@@ -5846,7 +5852,7 @@ erg : wenn(nord = gesnord, [3],[1,5])
                   </answer>
                   <answer>
                      <id>2860630</id>
-                     <fraction>-50</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Das Wendepolfeld ist für die Drehzahlumkehr erforderlich]]></text>
                      <feedback/>
@@ -5859,7 +5865,7 @@ erg : wenn(nord = gesnord, [3],[1,5])
                   </answer>
                   <answer>
                      <id>2860631</id>
-                     <fraction>-50</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Das Wendepolfeld induziert eine zusätzliche Spannung in der Hauptfeldwicklung]]></text>
                      <feedback/>
@@ -6164,7 +6170,8 @@ erg : wenn(nord = gesnord, [3],[1,5])
 
 <p>Die Wendepolwicklung ist</p>
 
-<p>[Q4]&nbsp;</p>]]></inhalt>
+<p>[Q4]&nbsp;</p>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="158656335" md5="346881be22cc7ac99da0a05eb95d1e6" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/34/346881be22cc7ac99da0a05eb95d1e6.png]]></webPath>
@@ -6830,7 +6837,8 @@ erg : wenn(nord = gesnord, [3],[1,5])
 
 <p>[Q5]&nbsp;</p>
 
-<p>insgesamt zu einer Feldschw&auml;chung. Das bedeutet, dass der wirksame Hauptfluss $\Phi_h$ mit zunehmenden Ankerstrom absinkt.&nbsp;</p>]]></inhalt>
+<p>insgesamt zu einer Feldschw&auml;chung. Das bedeutet, dass der wirksame Hauptfluss $\Phi_h$ mit zunehmenden Ankerstrom absinkt.&nbsp;</p>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="158656340" md5="dead5ce31d5d1a9a736f27a909770" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/de/dead5ce31d5d1a9a736f27a909770.png]]></webPath>
@@ -7196,7 +7204,7 @@ erg : wenn(nord = gesnord, [3],[1,5])
 
 <h3>3) Hilfsreihenschlusswicklung</h3>
 
-<p>EIn Hilfsreihenschlusswicklung ist eine</p>
+<p>Ein Hilfsreihenschlusswicklung ist eine</p>
 
 <p>[Q2]&nbsp;</p>
 
@@ -7208,7 +7216,8 @@ erg : wenn(nord = gesnord, [3],[1,5])
 
 <p>Dadurch k&ouml;nnen folgende Auswirkungen der Ankerr&uuml;ckwirkung kompensiert werden:</p>
 
-<p>[Q4]&nbsp;</p>]]></inhalt>
+<p>[Q4]&nbsp;</p>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="158512850" md5="496ba941ee1693b180103cfdf3bedb89" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/49/496ba941ee1693b180103cfdf3bedb89.png]]></webPath>
@@ -7700,7 +7709,7 @@ erg : wenn(nord = gesnord, [3],[1,5])
 		<tr>
 			<td>C1</td>
 			<td>C2</td>
-			<td>Kompensationswickluing</td>
+			<td>Kompensationswicklung</td>
 			<td>[Q3]</td>
 		</tr>
 		<tr>
@@ -7726,7 +7735,8 @@ erg : wenn(nord = gesnord, [3],[1,5])
 
 <p>Bei Maschinen die eine Wendepolwicklung aufweisen, sind [Q7] bereits intern verbunden. Damit kann die Wendepolwicklung nicht aus Versehen falsch gepolt werden. &Auml;hnliches gilt oft auch f&uuml;r die [Q8]. Manchmal werden in solchen F&auml;llen f&uuml;r den <strong>gesamten Ankerkreis </strong>einschlie&szlig;lich Wendepol- und Kompensationswicklung dann die Klemmenbezeichnungen [Q9] verwendet.</p>
 
-<p>Sowohl die Wendepolwicklung als auch die Kompensationswicklung sind so gepolt, dass das von ihnen jeweils erzeugte Feld [Q10].</p>]]></inhalt>
+<p>Sowohl die Wendepolwicklung als auch die Kompensationswicklung sind so gepolt, dass das von ihnen jeweils erzeugte Feld [Q10].</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="36173179" format="html">               <inhalt/>
 </text>
@@ -8730,7 +8740,7 @@ erg : wenn(nord = gesnord, [3],[1,5])
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -8748,7 +8758,7 @@ erg : wenn(nord = gesnord, [3],[1,5])
                <text art="Questiontext" id="157110277" format="html">
                                  <inhalt><![CDATA[<h1>Verschaltung von Gleichstrommaschinen</h1>
 
-<p>In einem Verschaltungsplan einer Gleichstrommaschine (GM) werden keine ohmschen Widerst&auml;nde oder Spulen eingezeichnet. Es werden lediglich die Klemmen der Gleichstrommaschine miteinander verbunden. Gleichstrommaschinen haben ab ca. {=1kW,kW} Leistung in der Regel eine Wendepolwicklung; davon wird nachfolgend ausgegangen. Gr&ouml;&szlig;ere Maschinen haben auch eine Kompensationswicklung; dieser Fall wird nur einmal konkret behandelt und ist sinngem&auml;&szlig; auch auf andere Schaltungsarten zu &uuml;bertragen.</p>
+<p>In einem Verschaltungsplan einer Gleichstrommaschine (GM) werden keine ohmschen Widerst&auml;nde oder Spulen eingezeichnet. Es werden lediglich die Klemmen der Gleichstrommaschine miteinander verbunden. Gleichstrommaschinen haben ab ca. {=1kW;=kW} Leistung in der Regel eine Wendepolwicklung; davon wird nachfolgend ausgegangen. Gr&ouml;&szlig;ere Maschinen haben auch eine Kompensationswicklung; dieser Fall wird nur einmal konkret behandelt und ist sinngem&auml;&szlig; auch auf andere Schaltungsarten zu &uuml;bertragen.</p>
 
 <p>Nachfolgende soll das<strong> [LINK0&nbsp;Handout zur Verschaltungen der Gleichstrommaschine]</strong> erg&auml;nzt werden.</p>
 
@@ -8765,7 +8775,7 @@ erg : wenn(nord = gesnord, [3],[1,5])
 
 <p>In Industrieanwendungen werden Gleichstrommaschine oft mit fester (konstanter) Gleichspannung betrieben.</p>
 
-<p>Sehen Sie sich das Video zur und erg&auml;nzen Sie die Schaltung im<strong><strong> Handout</strong>.</strong><br/>
+<p>Sehen Sie sich das Video zur und erg&auml;nzen Sie die Schaltung im<strong><strong> Handout</strong>.</strong><br />
 [LINK1 Verdrahtung einer fremderregten GM]</p>
 
 <p>Bei der Verdrahtung ist wichtig:</p>
@@ -8783,7 +8793,7 @@ erg : wenn(nord = gesnord, [3],[1,5])
 
 <p>[Q4]</p>
 
-<p>Sehen Sie sich das Video zur und erg&auml;nzen Sie die Schaltung im<strong><strong> Handout</strong></strong>.<br/>
+<p>Sehen Sie sich das Video zur und erg&auml;nzen Sie die Schaltung im<strong><strong> Handout</strong></strong>.<br />
 [LINK2 Verdrahtung einer fremderregten GM mit Hilfsreihenschlusswicklung]</p>
 
 <h2>3 Fremderregte GM mit Kompensationswicklung</h2>
@@ -8794,19 +8804,19 @@ erg : wenn(nord = gesnord, [3],[1,5])
 
 <p>Im Schaltbild wird die Kompensationswicklung derart gepolt, dass der Stromfluss [Q6] gerichtet ist.</p>
 
-<p>Sehen Sie sich das Video zur und erg&auml;nzen Sie die Schaltung im<strong><strong> Handout</strong>.</strong><br/>
+<p>Sehen Sie sich das Video zur und erg&auml;nzen Sie die Schaltung im<strong><strong> Handout</strong>.</strong><br />
 [LINK3 Verdrahtung einer fremderregten GM mit Kompensationswicklung]</p>
 
 <h2>4 Fremderregte GM mit Feldschw&auml;chung</h2>
 
 <p>Unter Feldschw&auml;chung versteht man die Schw&auml;chung des Hauptfeldes. Die Feldschw&auml;chung erm&ouml;glicht die Erh&ouml;hung der Drehzahl einer Gleichstrommaschine &uuml;ber die Bemessungsdrehzahl hinaus, als Konsequenz des [Q7] in der Form $U_a \approx U_i = N_a \cdot \Phi_h \Omega$. Bei fester Spannung die Winkelgeschwindigkeit $\Omega$ bzw. die Drehzahl durch eine [Q8] des Hauptfelds erh&ouml;ht werden. In diesem Fall muss auch die Erregerspannung [Q9] sein.</p>
 
-<p>Sehen Sie sich das Video zur und erg&auml;nzen Sie die Schaltung im<strong><strong> Handout</strong>.</strong><br/>
+<p>Sehen Sie sich das Video zur und erg&auml;nzen Sie die Schaltung im<strong><strong> Handout</strong>.</strong><br />
 [LINK4 Verdrahtung einer fremderregten GM mit Feldschw&auml;chung]</p>
 
 <h2>5 Reihenschluss-GM</h2>
 
-<p>[IMG8]<br/>
+<p>[IMG8]<br />
 trams aux fils., <a href="https://creativecommons.org/licenses/by/2.0" target="_blank">CC BY 2.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Vienna_tram_type_L_on_line_5_at_Markthalle_Nu%C3%9Fdorfer_Stra%C3%9Fe_1976.jpg" target="_blank">Wikimedia Commons</a></p>
 
 <p>Gleichstrommaschinen die ausschlie&szlig;lich eine Reihenschlusswicklung aufweisen, wurden fr&uuml;her in Stra&szlig;enbahnen als Antriebsmaschinen eingesetzt.</p>
@@ -8817,15 +8827,16 @@ trams aux fils., <a href="https://creativecommons.org/licenses/by/2.0" target="_
 
 <h2>6 Nebenschluss-Generator</h2>
 
-<p>[IMG7]<br/>
+<p>[IMG7]<br />
 O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedia.org/wiki/File:POWERHOUSE_INTERIOR,_DETAIL_OF_EXCITER_No._2_GENERAL_ELECTRIC_GENERATOR_SHOWING_COPPER_COMMUTATOR_AND_CARBON_BRUSHES._VIEW_TO_NORTHEAST._-_Rush_Creek_Hydroelectric_System,_HAER_CAL,26-JULA.V,1A-11.tif" target="_blank">Wikimedia Commons</a></p>
 
 <p>Gleichstrom-Nebenschluss-Generator weisen eine Nebenschluss-Feldwicklung auf, die [Q11] zur Ankerwicklung geschaltet wird. Nebenschluss-Generatoren dienten fr&uuml;her der Erzeugung von Spannungen in Gleichspannungsnetzen. Die praktische Bedeutung dieser Maschinen ist heute gering. Heute werden Gleichstrom-Nebenschluss-Generatoren jedoch immer noch in Kraftwerken als <strong>Erregermaschinen</strong> (Hilfsmaschinen) eingesetzt, um die Gleichspannungen f&uuml;r das Erregerfeld von Kraftwerksgeneratoren (Synchrongeneratoren) zu erzeugen.</p>
 
 <p>Der gro&szlig;e&nbsp;[Q12]&nbsp; eines Gleichstrom-Nebenschluss-Generator ist es, dass er, sobald der eine Ankerspannung erzeugt hat, dar&uuml;ber seine eigene Feldwicklung versorgen kann.</p>
 
-<p>Sehen Sie sich das Video zur und erg&auml;nzen Sie die Schaltung im<strong><strong> Handout</strong></strong>.<br/>
-[LINK6 Verdrahtung einer Reihenschlussmaschine-GM]</p>]]></inhalt>
+<p>Sehen Sie sich das Video zur und erg&auml;nzen Sie die Schaltung im<strong><strong> Handout</strong></strong>.<br />
+[LINK6 Verdrahtung einer Reihenschlussmaschine-GM]</p>
+]]></inhalt>
 
                   <file filename="GM_Schaltungsarten.pdf" id="158656366" md5="8e38e7ef3824e51dfb6c9381d62ea743" idUser="0" ext="pdf" width="40%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/8e/8e38e7ef3824e51dfb6c9381d62ea743.pdf]]></webPath>
@@ -9729,7 +9740,8 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>]]></inhalt>
+<p>&nbsp;</p>
+]]></inhalt>
 
                   <file filename="DCF_verdrahtung.png" id="157058543" md5="44e7538a67c886591766deac6bb785b" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/44/44e7538a67c886591766deac6bb785b.png]]></webPath>
@@ -10081,7 +10093,7 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -10278,7 +10290,7 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -10298,7 +10310,7 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
 
 <p>[IMG0]</p>
 
-<p>In der nachfolgend angegebenen Schaltung gibt zwei variable Gleichspannungsvergsorungen</p>
+<p>In der nachfolgend angegebenen Schaltung gibt zwei variable Gleichspannungsversorgungen</p>
 
 <ul>
 	<li>$+$ / $-$ DC variabel: variable Gleichspannung f&uuml;r den Ankerkreis</li>
@@ -10311,7 +10323,8 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>]]></inhalt>
+<p>&nbsp;</p>
+]]></inhalt>
 
                   <file filename="DCFW_verdrahtung.png" id="158656390" md5="e8135cb8d27fd36102eb62b49fd8d95" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/e8/e8135cb8d27fd36102eb62b49fd8d95.png]]></webPath>
@@ -10654,7 +10667,7 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -10685,7 +10698,8 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>]]></inhalt>
+<p>&nbsp;</p>
+]]></inhalt>
 
                   <file filename="DCFR_verdrahtung.png" id="158656400" md5="3f18728c38b3b55450528ef9d31d4f63" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/3f/3f18728c38b3b55450528ef9d31d4f63.png]]></webPath>
@@ -10853,7 +10867,7 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -10882,7 +10896,8 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
 
 <p><strong>Hinweis.</strong> Achten Sie bei der Verdrahtung darauf, dass sie keine direkten Verbindungen zwischen den Wicklungen A und D herstellen, da dies nicht automatisiert ausgewertet werden kann</p>
 
-<p>&nbsp;</p>]]></inhalt>
+<p>&nbsp;</p>
+]]></inhalt>
 
                   <file filename="DCR_verdrahtung.png" id="158656405" md5="1332e74d8f83db9edac3c0e3822684a9" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/13/1332e74d8f83db9edac3c0e3822684a9.png]]></webPath>
@@ -11430,7 +11445,8 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
 
 <p>F&uuml;r den Erregerkreis gilt:</p>
 
-<p>[Q1]&nbsp;&nbsp;</p>]]></inhalt>
+<p>[Q1]&nbsp;&nbsp;</p>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="158656415" md5="226958f9767b6535524763d49b338ec" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/22/226958f9767b6535524763d49b338ec.png]]></webPath>
@@ -11876,7 +11892,7 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -11894,19 +11910,20 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
 
 <p>Wie kommt man zum Ersatzschaltbild einer Gleichstrommaschine?</p>
 
-<p>Zeichnen Sie mit, w&auml;hrend Sie dieses Video schauen&nbsp;<br/>
+<p>Zeichnen Sie mit, w&auml;hrend Sie dieses Video schauen&nbsp;<br />
 [LINK0 Zur Entstehung des Ersatzschaltbilds]&nbsp;</p>
 
 <p>Damit verbessern Sie ihr Verst&auml;ndnis zur Funktionsweise und zum Aufbau der Gleichstrommaschine.</p>
 
-<p>[IMG1]<br/>
+<p>[IMG1]<br />
 <strong>Bild 1: </strong>Zur Entstehung des Ersatzschaltbilds</p>
 
 <p>Bei kleinen Gleichstrommaschinen kommt mitunter ein Permanentmagnet f&uuml;r die Erregung zur Anwendung. Wir sprechen in diesem Zusammenhang von Gleichstrommaschinen mit Permanentmagneterregung. Falls nicht, ben&ouml;tigt man eine [Q0]. In diesem Fall spricht man allgemein von <strong>elektrisch erregten Gleichstrommaschinen</strong>. Zus&auml;tzlich hat aber jede Gleichstrommaschine eine [Q1].</p>
 
 <p>Elektrisch erregte Gleichstrommaschine haben ganz allgemein also [Q2] Stromkreise.</p>
 
-<h2>&nbsp;</h2>]]></inhalt>
+<h2>&nbsp;</h2>
+]]></inhalt>
 
                   <file filename="Ersatzschaltbild.mp4" id="158656420" md5="50c8a7acf4ce75be1edf38aba66a97" idUser="0" ext="mp4" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/50/50c8a7acf4ce75be1edf38aba66a97.mp4]]></webPath>
@@ -12725,7 +12742,7 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -12741,7 +12758,7 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
                <text art="Questiontext" id="157109776" format="html">
                                  <inhalt><![CDATA[<h2>Erregerkreis</h2>
 
-<p>[IMG1]<br/>
+<p>[IMG1]<br />
 <strong>Bild 1: </strong>Zur Entstehung des Ersatzschaltbilds</p>
 
 <p>Der Erregerkreis dient der Erzeugung des [Q0]. Die Erregerwicklung ist im elektrisches Ersatzschaltbild durch [Q1] repr&auml;sentiert. In <strong>Bild 1</strong> (links) ist der Erregerkreis quer zum Ankerkreis gezeichnet, da das Hauptfeld [Q2] Ankerquerfeld orientiert ist. Dieser Sachverhalt ist auch im Ersatzschaltbild in Bild 1 (rechts) so gezeichnet.</p>
@@ -12750,7 +12767,8 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
 
 <p>[Q3]</p>
 
-<h2>&nbsp;</h2>]]></inhalt>
+<h2>&nbsp;</h2>
+]]></inhalt>
 
                   <file filename="Ersatzschaltbild.mp4" id="158656433" md5="50c8a7acf4ce75be1edf38aba66a97" idUser="0" ext="mp4" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/50/50c8a7acf4ce75be1edf38aba66a97.mp4]]></webPath>
@@ -13693,7 +13711,7 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -13718,27 +13736,28 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
 <p>In einer fremderregten Gleichstrommaschine treten folgende Leistungen und Verluste auf:</p>
 
 <ul>
-	<li>Dem Erregerkreis elektrisch zugef&uuml;hrte&nbsp;Erregerkreisleistung:<br/>
+	<li>Dem Erregerkreis elektrisch zugef&uuml;hrte&nbsp;Erregerkreisleistung:<br />
 	[Q0]&nbsp;</li>
-	<li>Stromw&auml;rmeverluste des Ankers:<br/>
+	<li>Stromw&auml;rmeverluste des Ankers:<br />
 	[Q1]</li>
-	<li>Die B&uuml;rsten&uuml;bergangsverluste betragen:<br/>
-	[Q2]<br/>
-	mit<br/>
+	<li>Die B&uuml;rsten&uuml;bergangsverluste betragen:<br />
+	[Q2]<br />
+	mit<br />
 	[Q3]</li>
-	<li>Eisenverluste des Ankerkreises $P_{\mathrm{Fe}}$<br/>
+	<li>Eisenverluste des Ankerkreises $P_{\mathrm{Fe}}$<br />
 	[Q4]</li>
-	<li>Die Reibungsverluste $P_\mathrm{Rbg}$<br/>
+	<li>Die Reibungsverluste $P_\mathrm{Rbg}$<br />
 	[Q5]</li>
-	<li>Die gesamte&nbsp;Leistung des Ankers betr&auml;gt<br/>
+	<li>Die gesamte&nbsp;Leistung des Ankers betr&auml;gt<br />
 	[Q6]&nbsp;</li>
-	<li>Gesamte elektrische Leistung betr&auml;gt<br/>
+	<li>Gesamte elektrische Leistung betr&auml;gt<br />
 	[Q7]</li>
-	<li>Unter der inneren Leistung $P_i$ verstehen wir<br/>
+	<li>Unter der inneren Leistung $P_i$ verstehen wir<br />
 	[Q8]</li>
-	<li>Es gilt f&uuml;r die mechanische Leistung:<br/>
+	<li>Es gilt f&uuml;r die mechanische Leistung:<br />
 	[Q9]&nbsp;</li>
-</ul>]]></inhalt>
+</ul>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="158656442" md5="8da1ee6da1e88a77f8d48d5f968f678" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/8d/8da1ee6da1e88a77f8d48d5f968f678.png]]></webPath>
@@ -14630,7 +14649,7 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -14650,13 +14669,14 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
 
 <p>[IMG1]</p>
 
-<p>Im generatorischen Betreib wird mechanische Leistung&nbsp;[Q0] und elektrische Leistung&nbsp;[Q1].</p>
+<p>Im generatorischen Betrieb wird mechanische Leistung&nbsp;[Q0] und elektrische Leistung&nbsp;[Q1].</p>
 
 <p>Der&nbsp;<strong>Wirkungsgrad&nbsp;</strong>errechnet sich im Generatorbetrieb aus</p>
 
 <p>[Q2]</p>
 
-<h1>&nbsp;</h1>]]></inhalt>
+<h1>&nbsp;</h1>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="157122234" md5="8da1ee6da1e88a77f8d48d5f968f678" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/8d/8da1ee6da1e88a77f8d48d5f968f678.png]]></webPath>
@@ -15080,22 +15100,23 @@ O&#39;Loughlin, Gregory L., Public domain, via <a href="https://commons.wikimedi
 <p>Das Typenschild eines fremderregten Gleichstrommotors zeigt folgende relevanten&nbsp;Bemessungsdaten:</p>
 
 <ul>
-	<li><strong>Bemessungsspannung des Ankers&nbsp;$U_{aN}$</strong>: darf dauerhaft nicht &uuml;berschritten werden, da andernfalls<br/>
+	<li><strong>Bemessungsspannung des Ankers&nbsp;$U_{aN}$</strong>: darf dauerhaft nicht &uuml;berschritten werden, da andernfalls<br />
 	[Q0]&nbsp;</li>
-	<li><strong>Bemessungsstrom des Ankers&nbsp;&nbsp;$I_{aN}$</strong>: darf dauerhaft nicht &uuml;berschritten werden, da andernfalls<br/>
+	<li><strong>Bemessungsstrom des Ankers&nbsp;&nbsp;$I_{aN}$</strong>: darf dauerhaft nicht &uuml;berschritten werden, da andernfalls<br />
 	[Q1]</li>
-	<li><strong>Bemessungsspannung des Erregerkreises&nbsp;$U_{eN}$</strong>: darf dauerhaft nicht &uuml;berschritten werden, da andernfalls<br/>
+	<li><strong>Bemessungsspannung des Erregerkreises&nbsp;$U_{eN}$</strong>: darf dauerhaft nicht &uuml;berschritten werden, da andernfalls<br />
 	[Q2]</li>
-	<li><strong>Bemessungsstrom des Erregerkreises&nbsp;$I_{eN}$</strong>: darf dauerhaft nicht &uuml;berschritten werden, da andernfalls<br/>
+	<li><strong>Bemessungsstrom des Erregerkreises&nbsp;$I_{eN}$</strong>: darf dauerhaft nicht &uuml;berschritten werden, da andernfalls<br />
 	[Q3]</li>
-	<li><strong>Bemessungsdrehzahl $n_N$</strong>: tritt im Betrieb mit <strong>Ankerkreisnennspannung</strong> und <strong>Ankerkreisnennstrom</strong> auf und<br/>
+	<li><strong>Bemessungsdrehzahl $n_N$</strong>: tritt im Betrieb mit <strong>Ankerkreisnennspannung</strong> und <strong>Ankerkreisnennstrom</strong> auf und<br />
 	[Q4]&nbsp;</li>
-	<li><strong>Maximale Drehzahl $n_{\max}$</strong><br/>
+	<li><strong>Maximale Drehzahl $n_{\max}$</strong><br />
 	[Q5]</li>
 	<li><strong>Bemessungsleistung&nbsp;</strong><strong>$P_N$</strong> ist die [Q6]&nbsp;</li>
 </ul>
 
-<p>Alle Bemessungsgr&ouml;&szlig;en d&uuml;rfen [Q7]&nbsp;nicht &uuml;berschritten werden.</p>]]></inhalt>
+<p>Alle Bemessungsgr&ouml;&szlig;en d&uuml;rfen [Q7]&nbsp;nicht &uuml;berschritten werden.</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="39903727" format="html">               <inhalt/>
 </text>
@@ -15856,7 +15877,20 @@ MN : PN / OmegaN]]></maxima>
                      <id>158603307</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[die Leistung]]></text>
+                     <text/>
+                     <feedback/>
+                     <tolerance><![CDATA[1.0%]]></tolerance>
+                     <correctAnswerFormat>2</correctAnswerFormat>
+                     <correctAnswerLength>5</correctAnswerLength>
+                     <maxima/>
+                     <answer/>
+                     <einheit/>
+                  </answer>
+                  <answer>
+                     <id>158656674</id>
+                     <fraction>-100</fraction>
+                     <format><![CDATA[html]]></format>
+                     <text><![CDATA[den Strom]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -17056,9 +17090,10 @@ MN : PN / OmegaN]]></maxima>
 
 <p>Rechnen Sie die Winkelgeschwindigkeiten $\Omega = {=omega,4,s-1}$ in einen Drehzahl um:</p>
 
-<p>(a) $n =$ [Q0] in&nbsp;der Einheit Upm</p>
+<p>(a) $n =$ [Q0] mit der Einheit <strong>Upm</strong></p>
 
-<p>(b) $n =$ [Q1] in der Einheit $\mathrm s^{-1}$ (in LeTTo $\texttt{&#39;1/s&#39;}$)</p>]]></inhalt>
+<p>(b) $n =$ [Q1] in der Einheit $\mathrm s^{-1}$ (in LeTTo $\texttt{&#39;1/s&#39;}$)</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="42303189" format="html">               <inhalt/>
 </text>
@@ -17415,7 +17450,7 @@ M : Pm / omega]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -17432,11 +17467,12 @@ M : Pm / omega]]></maxima>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
                <text art="Questiontext" id="42308122" format="html">               <inhalt><![CDATA[<h2>Grundlegende Aufgabe</h2>
 
-<p>Eine Gleichstrommaschine leistet an der Welle die Mechanische Leistung $P_m = {=Pm,4}$ beim Drehmoment $M = {=M,4,Nm}$</p>
+<p>Eine Gleichstrommaschine leistet an der Welle die Mechanische Leistung $P_m = {=Pm;4}$ beim Drehmoment $M = {=M;4,Nm}$</p>
 
 <p>(a) Bestimmen Sie die Winkelgeschwindigkeit $\omega =$&nbsp;[Q0]&nbsp;</p>
 
-<p>(b) Bestimmen Sie die Drehzahl&nbsp;$n =$&nbsp;[Q1] mit der Einheit Upm</p>]]></inhalt>
+<p>(b) Bestimmen Sie die Drehzahl&nbsp;$n =$&nbsp;[Q1] mit der Einheit <strong>Upm</strong></p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="42308123" format="html">               <inhalt/>
 </text>
@@ -17552,7 +17588,7 @@ M : Pm / omega]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -17569,11 +17605,12 @@ M : Pm / omega]]></maxima>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
                <text art="Questiontext" id="42308488" format="html">               <inhalt><![CDATA[<h2>Grundlegende Aufgabe</h2>
 
-<p>Eine Gleichstrommaschine hat an der Welle das&nbsp;Drehmoment $M = {=M,4,Nm}$ bei der Drehzahl $\omega&nbsp; = {=omega,4,s-1}$</p>
+<p>Eine Gleichstrommaschine hat an der Welle das&nbsp;Drehmoment $M = {=M;4,Nm}$ bei der Drehzahl $\omega&nbsp; = {=omega;4,s-1}$</p>
 
 <p>(a) Bestimmen Sie die mechanische Leistung $P_m =$&nbsp;[Q0]&nbsp;</p>
 
-<p>(b) Bestimmen Sie die Drehzahl&nbsp;$n =$&nbsp;[Q1] mit der Einheit Upm</p>]]></inhalt>
+<p>(b) Bestimmen Sie die Drehzahl&nbsp;$n =$&nbsp;[Q1] mit der Einheit <strong>Upm</strong></p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="42308489" format="html">               <inhalt/>
 </text>
@@ -17694,7 +17731,7 @@ etaN : PmN / PaN]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -17746,7 +17783,8 @@ etaN : PmN / PaN]]></maxima>
 
 <p>$P_{aN} = U_{aN} \cdot I_{aN} = $ [Q4]</p>
 
-<p>Damit gilt $\eta_N = \dfrac{P_{mN}}{P_{aN}} = $ [Q5]</p>]]></inhalt>
+<p>Damit gilt $\eta_N = \dfrac{P_{mN}}{P_{aN}} = $ [Q5]</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="157113076" format="html">               <inhalt><![CDATA[<p>(a) Mit $\Omega_N = 2 \cdot \pi n_N$ bestimmen wir:</p>
 
@@ -18038,7 +18076,8 @@ etaN : PmN / PaN]]></maxima>
 
 <p>(d) Bestimmen Sie die im Bemessungspunkt aufgenommene elektrische Leistung $P_{aN} = $&nbsp;[Q3]&nbsp;</p>
 
-<p>(e) Bestimmen Sie den Wirkungsgrad im Bemessungspunkt $\eta_N = $&nbsp;[Q4]&nbsp;</p>]]></inhalt>
+<p>(e) Bestimmen Sie den Wirkungsgrad im Bemessungspunkt $\eta_N = $&nbsp;[Q4]&nbsp;</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="157112287" format="html">               <inhalt><![CDATA[<p>(a) Mit $\Omega_N = 2 \cdot \pi n_N$ bestimmen wir:</p>
 
@@ -18280,7 +18319,7 @@ eta : wenn(Pm > 0, Pm / Pa, Pa / Pm)]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -18318,7 +18357,8 @@ eta : wenn(Pm > 0, Pm / Pa, Pa / Pm)]]></maxima>
 
 <p>(e) Bestimmen Sie die elektrisch aufgenommen Wirkleistung $P_a = $ [Q4]</p>
 
-<p>(f) Bestimmen Sie den Wirkungsgrad $\eta = $ [Q5]</p>]]></inhalt>
+<p>(f) Bestimmen Sie den Wirkungsgrad $\eta = $ [Q5]</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="157113344" format="html">               <inhalt/>
 </text>
@@ -18609,7 +18649,7 @@ n4 : (Ua4 - Ra * Ia) / (NaPhihN * 2 * %pi)
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -18624,7 +18664,7 @@ n4 : (Ua4 - Ra * Ia) / (NaPhihN * 2 * %pi)
                <randomDataset>false</randomDataset>
                <questionCommentMsg/>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="157113950" format="html">               <inhalt><![CDATA[<h2>Permanentmagnet-Gleichstrommaschine 3</h2>
+               <text art="Questiontext" id="157113950" format="html">               <inhalt><![CDATA[<h2>Permanentmagnet-Gleichstrommaschine 2</h2>
 
 <p>Von einer Permanentmagnet-Gleichstrommaschine kennt man folgende Kenngr&ouml;&szlig;en:</p>
 
@@ -18645,7 +18685,8 @@ n4 : (Ua4 - Ra * Ia) / (NaPhihN * 2 * %pi)
 
 <p>(c) Bestimmen Sie f&uuml;r den&nbsp;Betrieb mit $U_a = {Ua3}$ die Drehzahl $n = $ [Q2]</p>
 
-<p>(d) Bestimmen Sie f&uuml;r den&nbsp;Betrieb mit $U_a = {Ua4}$ die Drehzahl $n = $ [Q3]</p>]]></inhalt>
+<p>(d) Bestimmen Sie f&uuml;r den&nbsp;Betrieb mit $U_a = {Ua4}$ die Drehzahl $n = $ [Q3]</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="157113951" format="html">               <inhalt><![CDATA[<p>(a) Die von der Masse $m$ bewirkte Gewichtskraft betr&auml;gt $F_G = m \cdot g$&nbsp;</p>
 
@@ -19383,7 +19424,7 @@ nv:(UaN-(Ra+Rv)*IaN)/kPhiN/2/%pi]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -19422,7 +19463,8 @@ nv:(UaN-(Ra+Rv)*IaN)/kPhiN/2/%pi]]></maxima>
 
 <p>(d) Bestimmen Sie maximale Drehzahl, welche die <strong>mechanisch unbelastete Maschine</strong> ($M_i={=0Nm}$) nach dem Hochlauf mit dem unter (c) bestimmten Vorwiderstand erreichen kann, $n = $ [Q2]&nbsp;</p>
 
-<p>(e) Bestimmen Sie die maximale Drehzahl, welche die mechanisch mit Bemessungsmoment belastete Maschine nach dem Hochlauf im Betrieb mit dem unter (b) bestimmten Vorwiderstand erreichen kann, $n = $ [Q3]&nbsp;</p>]]></inhalt>
+<p>(e) Bestimmen Sie die maximale Drehzahl, welche die mechanisch mit Bemessungsmoment belastete Maschine nach dem Hochlauf im Betrieb mit dem unter (b) bestimmten Vorwiderstand erreichen kann, $n = $ [Q3]&nbsp;</p>
+]]></inhalt>
 
                   <file filename="ESB_GM_Rv.png" id="157122426" md5="76fdb212180035de244e961667ef78" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/76/76fdb212180035de244e961667ef78.png]]></webPath>
@@ -19713,7 +19755,8 @@ nU:(UaU-Ra*IaN/2)/kPhiN/2/%pi
 
 <p>(h) Bestimmen Sie die maximale Drehzahl, welche die mechanisch unbelastete Maschine nach dem Hochlauf mit der unter (g) bestimmten Ankerkreisspannung erreichen kann [Q6]&nbsp;</p>
 
-<p>(i) Bestimmen Sie die maximale Drehzahl, welche die mit dem halben (inneren) Bemessungsmoment belastete Maschine nach dem Hochlauf mit der unter (f) bestimmten Ankerkreisspannung erreichen kann [Q7]&nbsp;</p>]]></inhalt>
+<p>(i) Bestimmen Sie die maximale Drehzahl, welche die mit dem halben (inneren) Bemessungsmoment belastete Maschine nach dem Hochlauf mit der unter (f) bestimmten Ankerkreisspannung erreichen kann [Q7]&nbsp;</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="6579557" format="html">               <inhalt/>
 </text>
@@ -20575,7 +20618,8 @@ n : vget(nvec, i)
 
 <p><strong>{=p}</strong></p>
 
-<p>[Q0]</p>]]></inhalt>
+<p>[Q0]</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="157754842" format="html">               <inhalt/>
 </text>
@@ -20718,7 +20762,7 @@ n : vget(nvec, i)
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins><![CDATA[[PI Plugin1 Plot "M(n) := 1000Nm;M : -1.2 * Mref, 1.2 * Mref, eh="Nm";n : -1.2 * nref, 1.2 * nref, eh="Upm";ae;;// input=mcxy([n0,M0],[nref,M0],[nref,Mref],[n0,Mref],[-nref,Mref],[-nref,M0],[-nref,-Mref],[n0,-Mref],[nref,-Mref]);// input=mc([500,500],[800,500],[800,800],[500,800],[200,800],[200,500],[200,200],[500,200],[800,200]);input=mc([800,500],[800,200],[500,200],[200,200],[200,500],[200,800],[500,800],[800,800])"],[PI Plugin2 Plot "baseimage(i)"]]]></plugins>
@@ -20738,16 +20782,17 @@ n : vget(nvec, i)
 
 <p>[IMG1]</p>
 
-<hr/>
+<hr />
 <p>Kennzeichnen Sie den nachfolgend angegebenen Betriebszustand im Drehmoment-Drehzahl-Diagramm.</p>
 
 <p><strong>Hinweis 1:</strong>&nbsp;Wenn kein Geschwindigkeitspfeil eingezeichnet ist, steht die Seilbahn still</p>
 
 <p><strong>Hinweis 2:</strong> Achten Sie darauf, auf welchem der beiden Seilh&auml;lften die gr&uuml;ne Masse h&auml;ngt</p>
 
-<p>[PIG Plugin2 "w40"/]</p>
+<p>[PIG Plugin2 &quot;w40&quot;/]</p>
 
-<p>[Q0]</p>]]></inhalt>
+<p>[Q0]</p>
+]]></inhalt>
 
                   <file filename="nM+10.png" id="158656485" md5="05f22b69abba45e981aa64d7c821c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/05/05f22b69abba45e981aa64d7c821c.png]]></webPath>
@@ -20915,7 +20960,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -20933,7 +20978,7 @@ KL:(1-ua)*4+1]]></maxima>
                <text art="Questiontext" id="5650393" format="html">
                                  <inhalt><![CDATA[<p>Gegeben ist das Kennlinienfeld einer Gleichstrommaschine, bei dem der Ankerstrom $I_a$ (und damit das Drehmoment) als Funktion&nbsp;der Drehzahl&nbsp;$n$&nbsp;angegeben ist.</p>
 
-<p>Jede Linie repr&auml;sentiert den Betrieb der Maschine mit konstanter Ankerkreisspannung $U_a$. Der Bemessungsstrom des Ankers ist mit $I_{aN}={IaN}$ bezeichnet. Die Leerlaufdrehzahl $n_0={=n0,Upm}$ bei der Bemessungsspannung des Ankers $U_{aN}={UaN}$ ist durch die Beschriftung $n_{0N}$ gekennzeichnet.</p>
+<p>Jede Linie repr&auml;sentiert den Betrieb der Maschine mit konstanter Ankerkreisspannung $U_a$. Der Bemessungsstrom des Ankers ist mit $I_{aN}={IaN}$ bezeichnet. Die Leerlaufdrehzahl $n_0={=n0;=Upm}$ bei der Bemessungsspannung des Ankers $U_{aN}={UaN}$ ist durch die Beschriftung $n_{0N}$ gekennzeichnet.</p>
 
 <p>[IMG0]</p>
 
@@ -20943,7 +20988,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>(b) Bestimmen Sie auf welcher Kennlinie (1)&ndash;(9) die Maschine betrieben wird (Resultat nur als Ziffer 1&ndash;9 ohne Klammern eingeben) [Q1]&nbsp;</p>
 
-<p>&nbsp;</p>]]></inhalt>
+<p>&nbsp;</p>
+]]></inhalt>
 
                   <file filename="gmkl.png" id="158656497" md5="521a751d75a236ae8827412a95d66" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/52/521a751d75a236ae8827412a95d66.png]]></webPath>
@@ -21160,7 +21206,7 @@ KL:(1-ua)*4+1]]></maxima>
                <info/>
                <randomDataset>false</randomDataset>
                <text art="Questiontext" id="5761291" format="html">
-                                 <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+                                 <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -21172,7 +21218,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Man kennt&nbsp; nachfolgend angegebene Grenzkennlinie f&uuml;r den Dauerbetrieb mit maximaler Leistung. Um welche Kennlinie handelt es sich?</p>
 
-<p>[IMG0]</p>]]></inhalt>
+<p>[IMG0]</p>
+]]></inhalt>
 
                   <file filename="n_u.png" id="157127524" md5="7f1243e9da13f9a7862818e5b1bf3574" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/7f/7f1243e9da13f9a7862818e5b1bf3574.png]]></webPath>
@@ -21288,7 +21335,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -21302,7 +21349,7 @@ KL:(1-ua)*4+1]]></maxima>
                <info/>
                <randomDataset>false</randomDataset>
                <text art="Questiontext" id="5761309" format="html">
-                                 <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+                                 <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -21314,7 +21361,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Man kennt&nbsp; nachfolgend angegebene Grenzkennlinie f&uuml;r den Dauerbetrieb mit maximaler Leistung. Um welche Kennlinie handelt es sich?</p>
 
-<p>[IMG0]</p>]]></inhalt>
+<p>[IMG0]</p>
+]]></inhalt>
 
                   <file filename="n_i.png" id="157127549" md5="0c9e9efd9a9eadcc69b4d7ee5255b" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/0c/0c9e9efd9a9eadcc69b4d7ee5255b.png]]></webPath>
@@ -21430,7 +21478,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -21444,7 +21492,7 @@ KL:(1-ua)*4+1]]></maxima>
                <info/>
                <randomDataset>false</randomDataset>
                <text art="Questiontext" id="5761342" format="html">
-                                 <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+                                 <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -21456,7 +21504,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Man kennt&nbsp; nachfolgend angegebene Grenzkennlinie f&uuml;r den Dauerbetrieb mit maximaler Leistung. Um welche Kennlinie handelt es sich?</p>
 
-<p>[IMG0]</p>]]></inhalt>
+<p>[IMG0]</p>
+]]></inhalt>
 
                   <file filename="n_phi.png" id="157127574" md5="93486537ca76e8d9ead289ccfd91b2d" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/93/93486537ca76e8d9ead289ccfd91b2d.png]]></webPath>
@@ -21572,7 +21621,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -21586,7 +21635,7 @@ KL:(1-ua)*4+1]]></maxima>
                <info/>
                <randomDataset>false</randomDataset>
                <text art="Questiontext" id="5761376" format="html">
-                                 <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+                                 <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -21598,7 +21647,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Man kennt&nbsp; nachfolgend angegebene Grenzkennlinie f&uuml;r den Dauerbetrieb mit maximaler Leistung. Um welche Kennlinie handelt es sich?</p>
 
-<p>[IMG0]</p>]]></inhalt>
+<p>[IMG0]</p>
+]]></inhalt>
 
                   <file filename="n_m.png" id="157127583" md5="ac3fee27588cd415dbe0dfc375197f7" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/ac/ac3fee27588cd415dbe0dfc375197f7.png]]></webPath>
@@ -21714,7 +21764,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -21728,7 +21778,7 @@ KL:(1-ua)*4+1]]></maxima>
                <info/>
                <randomDataset>false</randomDataset>
                <text art="Questiontext" id="5761409" format="html">
-                                 <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+                                 <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -21740,7 +21790,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Man kennt&nbsp; nachfolgend angegebene Grenzkennlinie f&uuml;r den Dauerbetrieb mit maximaler Leistung. Um welche Kennlinie handelt es sich?</p>
 
-<p>[IMG0]</p>]]></inhalt>
+<p>[IMG0]</p>
+]]></inhalt>
 
                   <file filename="n_p.png" id="157127586" md5="54b73a09933fcf0dc4e838bd4168e38" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/54/54b73a09933fcf0dc4e838bd4168e38.png]]></webPath>
@@ -22020,7 +22071,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5761714" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5761714" format="html">               <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -22030,7 +22081,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Es gilt:&nbsp;$n_N &lt; n_K &lt; n_\max$</p>
 
-<p>Im <strong>Feldschw&auml;chbereich</strong> f&uuml;r $n_N \le n \le n_K$</p>]]></inhalt>
+<p>Im <strong>Feldschw&auml;chbereich</strong> f&uuml;r $n_N \le n \le n_K$</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5761715" format="html">               <inhalt/>
 </text>
@@ -22129,7 +22181,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -22142,7 +22194,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5761728" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5761728" format="html">               <inhalt><![CDATA[<p>Die&nbsp;Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -22152,7 +22204,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Es gilt:&nbsp;$n_N &lt; n_K &lt; n_\max$</p>
 
-<p>Im <strong>Feldschw&auml;chbereich</strong> f&uuml;r $n_N \le n \le n_K$</p>]]></inhalt>
+<p>Im <strong>Feldschw&auml;chbereich</strong> f&uuml;r $n_N \le n \le n_K$</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5761729" format="html">               <inhalt/>
 </text>
@@ -22251,7 +22304,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -22264,7 +22317,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5761772" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5761772" format="html">               <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -22274,7 +22327,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Es gilt:&nbsp;$n_N &lt; n_K &lt; n_\max$</p>
 
-<p>Im <strong>Feldschw&auml;chbereich</strong> f&uuml;r $n_N \le n \le n_K$</p>]]></inhalt>
+<p>Im <strong>Feldschw&auml;chbereich</strong> f&uuml;r $n_N \le n \le n_K$</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5761773" format="html">               <inhalt/>
 </text>
@@ -22336,7 +22390,7 @@ KL:(1-ua)*4+1]]></maxima>
                   </answer>
                   <answer>
                      <id>5761841</id>
-                     <fraction>0</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[steigt das Drehmoment mit $n$]]></text>
                      <feedback/>
@@ -22373,7 +22427,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -22386,7 +22440,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5761783" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5761783" format="html">               <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -22396,7 +22450,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Es gilt:&nbsp;$n_N &lt; n_K &lt; n_\max$</p>
 
-<p>Im <strong>Feldschw&auml;chbereich</strong> f&uuml;r $n_N \le n \le n_K$</p>]]></inhalt>
+<p>Im <strong>Feldschw&auml;chbereich</strong> f&uuml;r $n_N \le n \le n_K$</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5761784" format="html">               <inhalt/>
 </text>
@@ -22495,7 +22550,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -22508,7 +22563,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5761797" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5761797" format="html">               <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -22518,7 +22573,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Es gilt:&nbsp;$n_N &lt; n_K &lt; n_\max$</p>
 
-<p>Im <strong>Feldschw&auml;chbereich</strong> f&uuml;r $n_N \le n \le n_K$</p>]]></inhalt>
+<p>Im <strong>Feldschw&auml;chbereich</strong> f&uuml;r $n_N \le n \le n_K$</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5761798" format="html">               <inhalt/>
 </text>
@@ -22617,7 +22673,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -22630,7 +22686,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5761826" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5761826" format="html">               <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -22640,7 +22696,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Es gilt:&nbsp;$n_N &lt; n_K &lt; n_\max$</p>
 
-<p>Im <strong>Grunddrehzahlbereich</strong> f&uuml;r $0 \le n \le n_N$</p>]]></inhalt>
+<p>Im <strong>Grunddrehzahlbereich</strong> f&uuml;r $0 \le n \le n_N$</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5761827" format="html">               <inhalt/>
 </text>
@@ -22739,7 +22796,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -22752,7 +22809,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5761845" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5761845" format="html">               <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -22762,7 +22819,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Es gilt:&nbsp;$n_N &lt; n_K &lt; n_\max$</p>
 
-<p>Im <strong>Grunddrehzahlbereich</strong> f&uuml;r $0 \le n \le n_N$</p>]]></inhalt>
+<p>Im <strong>Grunddrehzahlbereich</strong> f&uuml;r $0 \le n \le n_N$</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5761846" format="html">               <inhalt/>
 </text>
@@ -22861,7 +22919,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -22874,7 +22932,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5761952" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5761952" format="html">               <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -22884,7 +22942,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Es gilt:&nbsp;$n_N &lt; n_K &lt; n_\max$</p>
 
-<p>Im <strong>Grunddrehzahlbereich</strong> f&uuml;r $0 \le n \le n_N$</p>]]></inhalt>
+<p>Im <strong>Grunddrehzahlbereich</strong> f&uuml;r $0 \le n \le n_N$</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5761953" format="html">               <inhalt/>
 </text>
@@ -22983,7 +23042,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -22996,7 +23055,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5761983" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5761983" format="html">               <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -23006,7 +23065,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Es gilt:&nbsp;$n_N &lt; n_K &lt; n_\max$</p>
 
-<p>Im <strong>Grunddrehzahlbereich</strong> f&uuml;r $0 \le n \le n_N$</p>]]></inhalt>
+<p>Im <strong>Grunddrehzahlbereich</strong> f&uuml;r $0 \le n \le n_N$</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5761984" format="html">               <inhalt/>
 </text>
@@ -23105,7 +23165,7 @@ KL:(1-ua)*4+1]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -23118,7 +23178,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5761939" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5761939" format="html">               <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -23128,7 +23188,8 @@ KL:(1-ua)*4+1]]></maxima>
 
 <p>Es gilt:&nbsp;$n_N &lt; n_K &lt; n_\max$</p>
 
-<p>Im <strong>Grunddrehzahlbereich</strong> f&uuml;r $0 \le n \le n_N$</p>]]></inhalt>
+<p>Im <strong>Grunddrehzahlbereich</strong> f&uuml;r $0 \le n \le n_N$</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5761940" format="html">               <inhalt/>
 </text>
@@ -23669,7 +23730,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5762014" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5762014" format="html">               <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -23677,7 +23738,8 @@ KL:(1-ua)*4+1]]></maxima>
 	<li>Maximal zul&auml;ssige&nbsp;Drehzahl $n_\max$</li>
 </ul>
 
-<p>Der Bereich $n_N \le n \le n_K$&nbsp;wird</p>]]></inhalt>
+<p>Der Bereich $n_N \le n \le n_K$&nbsp;wird</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5762015" format="html">               <inhalt/>
 </text>
@@ -23789,7 +23851,7 @@ KL:(1-ua)*4+1]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="5761999" format="html">               <inhalt><![CDATA[<p>DIe Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
+               <text art="Questiontext" id="5761999" format="html">               <inhalt><![CDATA[<p>Die Kenndrehzahlen einer&nbsp;Gleichstrommaschine sind:</p>
 
 <ul>
 	<li>Bemessungsdrehzahl $n_N$</li>
@@ -23797,7 +23859,8 @@ KL:(1-ua)*4+1]]></maxima>
 	<li>Maximal zul&auml;ssige&nbsp;Drehzahl $n_\max$</li>
 </ul>
 
-<p>Der Bereich ${=0&#39;1/s&#39;}&nbsp;\le n \le n_N$&nbsp;wird</p>]]></inhalt>
+<p>Der Bereich ${=0&#39;1/s&#39;}&nbsp;\le n \le n_N$&nbsp;wird</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="5762000" format="html">               <inhalt/>
 </text>
@@ -23846,7 +23909,7 @@ KL:(1-ua)*4+1]]></maxima>
                   </answer>
                   <answer>
                      <id>5762010</id>
-                     <fraction>-50</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[als Konstantstrombereich bezeichnet]]></text>
                      <feedback/>
@@ -23859,7 +23922,7 @@ KL:(1-ua)*4+1]]></maxima>
                   </answer>
                   <answer>
                      <id>5762011</id>
-                     <fraction>-50</fraction>
+                     <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[als Drehmomentbereich bezeichnet]]></text>
                      <feedback/>
@@ -24113,7 +24176,7 @@ MN : PN / OmegaN]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -24137,7 +24200,7 @@ MN : PN / OmegaN]]></maxima>
 	<li>Bemessungsdrehzahl $n_N = {nN}$</li>
 </ul>
 
-<hr/>
+<hr />
 <p>Eine alternative Ausf&uuml;hrungsform dieser Maschine mit</p>
 
 <ul>
@@ -24147,7 +24210,8 @@ MN : PN / OmegaN]]></maxima>
 
 <p>soll mit <strong>{k}-fachem Strom</strong> ausgef&uuml;hrt werden. Als Konsequenz davon betr&auml;gt&nbsp;das Bauvolumen (bezogen auf die Originalmasche) etwa</p>
 
-<p>[Q0]&nbsp;</p>]]></inhalt>
+<p>[Q0]&nbsp;</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="157755606" format="html">               <inhalt/>
 </text>
@@ -24324,7 +24388,7 @@ MN : PN / OmegaN]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -24348,7 +24412,7 @@ MN : PN / OmegaN]]></maxima>
 	<li>Bemessungsdrehzahl $n_N = {nN}$</li>
 </ul>
 
-<hr/>
+<hr />
 <p>Eine alternative Ausf&uuml;hrungsform dieser Maschine mit</p>
 
 <ul>
@@ -24358,7 +24422,8 @@ MN : PN / OmegaN]]></maxima>
 
 <p>soll mit <strong>{k}-facher Drehzahl</strong> ausgef&uuml;hrt werden. Als Konsequenz davon betr&auml;gt&nbsp;das Bauvolumen (bezogen auf die Originalmasche) etwa</p>
 
-<p>[Q0]&nbsp;</p>]]></inhalt>
+<p>[Q0]&nbsp;</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="157755627" format="html">               <inhalt/>
 </text>
@@ -24538,7 +24603,7 @@ gleich : vget(gleichvec, g)]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -24562,7 +24627,7 @@ gleich : vget(gleichvec, g)]]></maxima>
 	<li>Bemessungsdrehzahl $n_N = {nN}$</li>
 </ul>
 
-<hr/>
+<hr />
 <p>Eine alternative Ausf&uuml;hrungsform dieser Maschine mit</p>
 
 <ul>
@@ -24572,7 +24637,8 @@ gleich : vget(gleichvec, g)]]></maxima>
 
 <p>soll mit <strong>{k}-facher Leistung</strong> ausgef&uuml;hrt werden. Als Konsequenz davon betr&auml;gt&nbsp;das Bauvolumen (bezogen auf die Originalmasche) etwa</p>
 
-<p>[Q0]&nbsp;</p>]]></inhalt>
+<p>[Q0]&nbsp;</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="157755680" format="html">               <inhalt/>
 </text>
@@ -24915,7 +24981,7 @@ gleich : vget(gleichvec, g)]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -24935,9 +25001,10 @@ gleich : vget(gleichvec, g)]]></maxima>
 
 <p>[IMG0]</p>
 
-<p>Alle Antworten sind als "entweder oder" zu verstehen, nicht als Paket von gemeinsam durchzuf&uuml;hrenden Ma&szlig;nahmen.</p>
+<p>Alle Antworten sind als &quot;entweder oder&quot; zu verstehen, nicht als Paket von gemeinsam durchzuf&uuml;hrenden Ma&szlig;nahmen.</p>
 
-<p>&nbsp;</p>]]></inhalt>
+<p>&nbsp;</p>
+]]></inhalt>
 
                   <file filename="GMN_ESB.png" id="158656506" md5="47bdc616e0a2f16d222adae0cf71f241" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/47/47bdc616e0a2f16d222adae0cf71f241.png]]></webPath>
@@ -25055,7 +25122,8 @@ gleich : vget(gleichvec, g)]]></maxima>
                <randomDataset>false</randomDataset>
                <questionCommentMsg/>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="8123803" format="html">               <inhalt><![CDATA[<p>Typische Anwendungen von Gleichstromnebenschlussmaschinen sind</p>]]></inhalt>
+               <text art="Questiontext" id="8123803" format="html">               <inhalt><![CDATA[<p>Typische Anwendungen von Gleichstromnebenschlussmaschinen sind:</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="8123804" format="html">               <inhalt/>
 </text>
@@ -25311,9 +25379,10 @@ gleich : vget(gleichvec, g)]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157170193" format="html">               <inhalt><![CDATA[<p>Die Drehmoment-Drehzahlcharkteristik einer Reihenschlussmaschine ist</p>
+               <text art="Questiontext" id="157170193" format="html">               <inhalt><![CDATA[<p>Die Drehmoment-Drehzahlcharakteristik einer Reihenschlussmaschine ist</p>
 
-<p>[Q0]&nbsp;</p>]]></inhalt>
+<p>[Q0]&nbsp;</p>
+]]></inhalt>
 </text>
                <text art="general feedback" id="157170194" format="html">               <inhalt/>
 </text>
@@ -25502,7 +25571,7 @@ gleich : vget(gleichvec, g)]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -25522,7 +25591,8 @@ gleich : vget(gleichvec, g)]]></maxima>
 
 <p>Die vier Kennlinien 1-4&nbsp;zeigen die Drehmoment-Drehzahl-Kennlinie f&uuml;r unterschiedliche</p>
 
-<p>[Q0]&nbsp;</p>]]></inhalt>
+<p>[Q0]&nbsp;</p>
+]]></inhalt>
 
                   <file filename="Clipboard.png" id="157755276" md5="962de35672a6d3116981c7dd6372c33" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/96/962de35672a6d3116981c7dd6372c33.png]]></webPath>
