@@ -10,10 +10,9 @@
             <name><![CDATA[3.2.1 Baugröße]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157676646</id>
+               <id>157509948</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Baulänge]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -47,22 +46,22 @@
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676647" format="html">               <inhalt><![CDATA[<p>Die Baul&auml;ngen von Maschinen mit F&uuml;&szlig;en oder Flansch sind:</p>
+               <text art="Questiontext" id="157509949" format="html">               <inhalt><![CDATA[<p>Die Baul&auml;ngen von Maschinen mit F&uuml;&szlig;en oder Flansch sind:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676648" format="html">               <inhalt/>
+               <text art="general feedback" id="157509950" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676649" format="html">               <inhalt/>
+               <text art="correct feedback" id="157509951" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676650" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157509952" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676651" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157509953" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676652" format="html">               <inhalt/>
+               <text art="grader info" id="157509954" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676653</id>
+                  <id>157509996</id>
                   <grade>1</grade>
                   <mode>8</mode>
                   <name><![CDATA[Q0]]></name>
@@ -72,7 +71,7 @@
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676654</id>
+                     <id>157509997</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[S]]></text>
@@ -85,7 +84,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676655</id>
+                     <id>157509998</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[M]]></text>
@@ -98,7 +97,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676656</id>
+                     <id>157509999</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[L]]></text>
@@ -111,7 +110,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676657</id>
+                     <id>157510000</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[K]]></text>
@@ -124,7 +123,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676658</id>
+                     <id>157510001</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[D]]></text>
@@ -137,7 +136,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676659</id>
+                     <id>157510002</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text/>
@@ -152,10 +151,9 @@
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676660</id>
+               <id>157510003</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Füße]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -189,32 +187,33 @@
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676662" format="html">
-                                 <inhalt><![CDATA[<p>[IMG0]<br/>
+               <text art="Questiontext" id="157510004" format="html">
+                                 <inhalt><![CDATA[<p>[IMG0]<br />
 <strong>Bild:&nbsp;</strong>Asynchronmaschine (Foto: &copy; Siemens AG 2023, Alle Rechte vorbehalten)</p>
 
-<p>Eine Maschine der Baugr&auml;&szlig;e {BG} weist</p>
+<p>Eine Maschine der Baugr&ouml;&szlig;e {BG} weist</p>
 
 <p>[Q0]&nbsp;</p>
 
-<p>auf.</p>]]></inhalt>
+<p>auf.</p>
+]]></inhalt>
 
-                  <file filename="P_DALD_XX_00943P_hell.jpg" id="157676663" md5="8e19e4c565e34733e2c5091f4dea8b1" idUser="0" ext="jpg" width="50%" height="0" title="" alt="" style="">
+                  <file filename="P_DALD_XX_00943P_hell.jpg" id="157510284" md5="8e19e4c565e34733e2c5091f4dea8b1" idUser="0" ext="jpg" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/8e/8e19e4c565e34733e2c5091f4dea8b1.jpg]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="157676664" format="html">               <inhalt/>
+               <text art="general feedback" id="157510005" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676665" format="html">               <inhalt/>
+               <text art="correct feedback" id="157510006" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676666" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157510007" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676667" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157510008" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676668" format="html">               <inhalt/>
+               <text art="grader info" id="157510009" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676669</id>
+                  <id>157510285</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -224,7 +223,7 @@
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676670</id>
+                     <id>157510286</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[den Abstand {=BG*1mm;=mm} von der Unterkante der Füße bis zur Wellenmitte auf]]></text>
@@ -237,7 +236,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676671</id>
+                     <id>157510287</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[den Abstand {=BG*1cm;=cm} von der Unterkante der Füße bis zur Wellenmitte auf]]></text>
@@ -250,7 +249,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676672</id>
+                     <id>157510288</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[den Abstand {=BG*1mm;=mm} zwischen zwei Füßen auf]]></text>
@@ -263,7 +262,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676673</id>
+                     <id>157510289</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[den Abstand {=BG*1cm;=cm} zwischen zwei Füßen auf]]></text>
@@ -277,7 +276,7 @@
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157676661</id>
+                  <id>157510283</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[BG]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -297,10 +296,9 @@
             <name><![CDATA[3.2.2 International Mounting]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157676675</id>
+               <id>157509707</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Code I]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -334,22 +332,22 @@
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676676" format="html">               <inhalt><![CDATA[<p>Bei Code haben die angegebenen Buchstaben folgende Bedeutung:</p>
+               <text art="Questiontext" id="157509708" format="html">               <inhalt><![CDATA[<p>Bei Code haben die angegebenen Buchstaben folgende Bedeutung:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676677" format="html">               <inhalt/>
+               <text art="general feedback" id="157509709" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676678" format="html">               <inhalt/>
+               <text art="correct feedback" id="157509710" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676679" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157509711" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676680" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157509712" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676681" format="html">               <inhalt/>
+               <text art="grader info" id="157509713" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676682</id>
+                  <id>157509894</id>
                   <grade>1</grade>
                   <mode>8</mode>
                   <name><![CDATA[Q0]]></name>
@@ -359,7 +357,7 @@
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676683</id>
+                     <id>157509895</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[B]]></text>
@@ -372,7 +370,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676684</id>
+                     <id>157509896</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[V]]></text>
@@ -385,7 +383,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676685</id>
+                     <id>157509897</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[H]]></text>
@@ -398,7 +396,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676686</id>
+                     <id>157509898</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[X]]></text>
@@ -411,7 +409,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676687</id>
+                     <id>157509899</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text/>
@@ -430,10 +428,9 @@
             <name><![CDATA[3.2.3 Schutzart]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157676689</id>
+               <id>157509731</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Schutzarten]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -467,34 +464,35 @@
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676694" format="html">               <inhalt><![CDATA[<p>Sotieren Sie die angegebene Schutzarten nach links angegeben Schutzwirkung</p>
+               <text art="Questiontext" id="157509732" format="html">               <inhalt><![CDATA[<p>Sortieren Sie die angegebene Schutzarten nach links angegeben Schutzwirkung</p>
 
 <p>[Q0]&nbsp;</p>
 
-<p>&nbsp;</p>]]></inhalt>
+<p>&nbsp;</p>
+]]></inhalt>
 </text>
-               <text art="general feedback" id="157676695" format="html">               <inhalt/>
+               <text art="general feedback" id="157509733" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676696" format="html">               <inhalt/>
+               <text art="correct feedback" id="157509734" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676697" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157509735" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676698" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157509736" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676699" format="html">               <inhalt/>
+               <text art="grader info" id="157509737" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676700</id>
+                  <id>157509845</id>
                   <grade>1</grade>
                   <mode>8</mode>
                   <name><![CDATA[Q0]]></name>
                   <maxima/>
                   <plugininfo/>
                   <plugininputimage/>
-                  <shuffleAnswers>1</shuffleAnswers>
+                  <shuffleAnswers>3</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676701</id>
+                     <id>157509846</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Sehr hoch]]></text>
@@ -507,7 +505,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676702</id>
+                     <id>157509847</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Hoch]]></text>
@@ -520,7 +518,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676703</id>
+                     <id>157509848</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Gering]]></text>
@@ -533,7 +531,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676704</id>
+                     <id>157509849</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Sehr gering]]></text>
@@ -547,7 +545,7 @@
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157676690</id>
+                  <id>157512150</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[IP1]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -562,7 +560,7 @@
                   <items><![CDATA["IP12";"IP11";"IP11";"IP11";"IP11";"IP11";"IP12";"IP12";"IP11";"IP12";"IP11";"IP11";"IP12";"IP11";"IP12";"IP11";"IP11";"IP11";"IP11";"IP11";"IP11";"IP11";"IP11";"IP12";"IP11";"IP11";"IP12";"IP11";"IP12";"IP12";"IP11";"IP11";"IP12";"IP11";"IP11";"IP12";"IP11";"IP11";"IP11";"IP12"]]></items>
                </dataset>
                <dataset>
-                  <id>157676691</id>
+                  <id>157512151</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[IP2]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -577,7 +575,7 @@
                   <items><![CDATA["IP21";"IP21";"IP22";"IP21";"IP21";"IP23";"IP22";"IP23";"IP21";"IP22";"IP21";"IP22";"IP23";"IP21";"IP23";"IP21";"IP21";"IP22";"IP23";"IP21";"IP22";"IP21";"IP21";"IP21";"IP21";"IP21";"IP22";"IP23";"IP21";"IP22";"IP22";"IP23";"IP23";"IP23";"IP22";"IP23";"IP23";"IP23";"IP23";"IP21"]]></items>
                </dataset>
                <dataset>
-                  <id>157676692</id>
+                  <id>157512152</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[IP4]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -592,7 +590,7 @@
                   <items><![CDATA["IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44";"IP44"]]></items>
                </dataset>
                <dataset>
-                  <id>157676693</id>
+                  <id>157512153</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[IP5]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -616,10 +614,9 @@
             <name><![CDATA[3.3.1 Verluste in elektrischen Maschinen]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157676707</id>
+               <id>157508766</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Stromwärmeverluste]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -653,22 +650,22 @@
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676708" format="html">               <inhalt><![CDATA[<p>Die Stromw&auml;rmeverluste einer Wicklung sind abh&auml;ngig von</p>
+               <text art="Questiontext" id="157508767" format="html">               <inhalt><![CDATA[<p>Die Stromw&auml;rmeverluste einer Wicklung sind abh&auml;ngig von</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676709" format="html">               <inhalt/>
+               <text art="general feedback" id="157508768" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676710" format="html">               <inhalt/>
+               <text art="correct feedback" id="157508769" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676711" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157508770" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676712" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157508771" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676713" format="html">               <inhalt/>
+               <text art="grader info" id="157508772" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676714</id>
+                  <id>157509437</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -678,7 +675,7 @@
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676715</id>
+                     <id>157509438</id>
                      <fraction>50</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[vom ohmschen Widerstand der Wicklung]]></text>
@@ -691,7 +688,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676716</id>
+                     <id>157509439</id>
                      <fraction>50</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[vom Strom durch die Wicklung]]></text>
@@ -704,7 +701,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676717</id>
+                     <id>157509440</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[von der gesamten Spannung an der Wicklung]]></text>
@@ -719,10 +716,9 @@
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676718</id>
+               <id>157509441</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Eisenverluste 1]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -756,22 +752,22 @@
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676719" format="html">               <inhalt><![CDATA[<p>Die Eisenverluste in einer elektrischen Maschine setzen sich aus folgenden Anteilen zusammen:</p>
+               <text art="Questiontext" id="157509442" format="html">               <inhalt><![CDATA[<p>Die Eisenverluste in einer elektrischen Maschine setzen sich aus folgenden Anteilen zusammen:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676720" format="html">               <inhalt/>
+               <text art="general feedback" id="157509443" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676721" format="html">               <inhalt/>
+               <text art="correct feedback" id="157509444" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676722" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157509445" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676723" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157509446" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676724" format="html">               <inhalt/>
+               <text art="grader info" id="157509447" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676725</id>
+                  <id>157509455</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -781,7 +777,7 @@
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676726</id>
+                     <id>157509456</id>
                      <fraction>50</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Wirbelstromverluste]]></text>
@@ -794,7 +790,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676727</id>
+                     <id>157509457</id>
                      <fraction>50</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Hystereseverluste]]></text>
@@ -807,7 +803,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676728</id>
+                     <id>157509458</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Weicheisenverluste]]></text>
@@ -820,7 +816,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676729</id>
+                     <id>157509459</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Konstantfeldverluste]]></text>
@@ -835,10 +831,9 @@
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676730</id>
+               <id>157509460</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Eisenverluste 2]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -872,22 +867,22 @@
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676731" format="html">               <inhalt><![CDATA[<p>Die Eisenverluste sind in einer Maschine umso gr&ouml;&szlig;er, je</p>
+               <text art="Questiontext" id="157509461" format="html">               <inhalt><![CDATA[<p>Die Eisenverluste sind in einer Maschine umso gr&ouml;&szlig;er, je</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676732" format="html">               <inhalt/>
+               <text art="general feedback" id="157509462" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676733" format="html">               <inhalt/>
+               <text art="correct feedback" id="157509463" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676734" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157509464" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676735" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157509465" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676736" format="html">               <inhalt/>
+               <text art="grader info" id="157509466" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676737</id>
+                  <id>157509477</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -897,7 +892,7 @@
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676738</id>
+                     <id>157509478</id>
                      <fraction>34</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höher das Magnetfeld ist]]></text>
@@ -910,7 +905,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676739</id>
+                     <id>157509479</id>
                      <fraction>33</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höher die zeitliche Änderung des Magnetfelds]]></text>
@@ -923,7 +918,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676740</id>
+                     <id>157509480</id>
                      <fraction>33</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höher die elektrische Leitfähigkeit des Eises ist]]></text>
@@ -936,7 +931,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676741</id>
+                     <id>157509481</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höher die magnetische Leitfähigkeit des Eises ist]]></text>
@@ -951,10 +946,9 @@
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676742</id>
+               <id>157509482</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Reibungsverluste]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -988,22 +982,22 @@
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676743" format="html">               <inhalt><![CDATA[<p>Die Reibungsverluste setzten sich aus folgenden Verlustanteilen zusammen:</p>
+               <text art="Questiontext" id="157509483" format="html">               <inhalt><![CDATA[<p>Die Reibungsverluste setzten sich aus folgenden Verlustanteilen zusammen:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676744" format="html">               <inhalt/>
+               <text art="general feedback" id="157509484" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676745" format="html">               <inhalt/>
+               <text art="correct feedback" id="157509485" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676746" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157509486" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676747" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157509487" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676748" format="html">               <inhalt/>
+               <text art="grader info" id="157509488" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676749</id>
+                  <id>157509541</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -1013,7 +1007,7 @@
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676750</id>
+                     <id>157509542</id>
                      <fraction>50</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Lagerreibung]]></text>
@@ -1026,7 +1020,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676751</id>
+                     <id>157509543</id>
                      <fraction>50</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Luftreibung]]></text>
@@ -1039,7 +1033,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676752</id>
+                     <id>157509546</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Seilreibung]]></text>
@@ -1052,7 +1046,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676753</id>
+                     <id>157509547</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Bohrreibung]]></text>
@@ -1071,10 +1065,9 @@
             <name><![CDATA[3.3.2 Verluste in Leistungselektronik]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157676755</id>
+               <id>157509549</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Leitverluste]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -1108,22 +1101,22 @@
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676756" format="html">               <inhalt><![CDATA[<p>Die Leitverluste in leistungselektronischen Komponenten h&auml;ngen ab</p>
+               <text art="Questiontext" id="157509550" format="html">               <inhalt><![CDATA[<p>Die Leitverluste in leistungselektronischen Komponenten h&auml;ngen ab</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676757" format="html">               <inhalt/>
+               <text art="general feedback" id="157509551" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676758" format="html">               <inhalt/>
+               <text art="correct feedback" id="157509552" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676759" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157509553" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676760" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157509554" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676761" format="html">               <inhalt/>
+               <text art="grader info" id="157509555" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676762</id>
+                  <id>157509671</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -1133,7 +1126,7 @@
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676763</id>
+                     <id>157509672</id>
                      <fraction>50</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[vom Strom durch die Komponente]]></text>
@@ -1146,7 +1139,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676764</id>
+                     <id>157509673</id>
                      <fraction>50</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[vom ohmschen Widerstand der Komponente]]></text>
@@ -1159,7 +1152,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676765</id>
+                     <id>157509674</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[von der Spannung an der Komponente]]></text>
@@ -1172,7 +1165,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676766</id>
+                     <id>157509675</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[von der Schalfrequenz]]></text>
@@ -1187,10 +1180,9 @@
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676767</id>
+               <id>157509676</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Schaltverluste]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -1224,22 +1216,22 @@
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676768" format="html">               <inhalt><![CDATA[<p>Die Schaltverluste in leistungselektronischen Komponenten h&auml;ngen ab</p>
+               <text art="Questiontext" id="157509677" format="html">               <inhalt><![CDATA[<p>Die Schaltverluste in leistungselektronischen Komponenten h&auml;ngen ab</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676769" format="html">               <inhalt/>
+               <text art="general feedback" id="157509678" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676770" format="html">               <inhalt/>
+               <text art="correct feedback" id="157509679" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676771" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157509680" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676772" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157509681" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676773" format="html">               <inhalt/>
+               <text art="grader info" id="157509682" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676774</id>
+                  <id>157509683</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -1249,7 +1241,7 @@
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676775</id>
+                     <id>157509684</id>
                      <fraction>34</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[vom Strom durch die Komponente]]></text>
@@ -1262,7 +1254,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676776</id>
+                     <id>157509685</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[vom ohmschen Widerstand der Komponente]]></text>
@@ -1275,7 +1267,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676777</id>
+                     <id>157509686</id>
                      <fraction>33</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[von der Spannung an der Komponente]]></text>
@@ -1288,7 +1280,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676778</id>
+                     <id>157509687</id>
                      <fraction>33</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[von der Schalfrequenz]]></text>
@@ -1307,10 +1299,9 @@
             <name><![CDATA[3.3.3 Wirkungsgradklassen]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157676780</id>
+               <id>157505493</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Wirkungsgradklassen 1]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -1344,22 +1335,22 @@
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676781" format="html">               <inhalt><![CDATA[<p>Die Wirkungsgradklassen gem&auml;&szlig; der&nbsp;Norm EN 60034-30-1:214 sind:</p>
+               <text art="Questiontext" id="157505494" format="html">               <inhalt><![CDATA[<p>Die Wirkungsgradklassen gem&auml;&szlig; der&nbsp;Norm EN 60034-30-1:214 sind:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676782" format="html">               <inhalt/>
+               <text art="general feedback" id="157505495" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676783" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505496" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676784" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505497" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676785" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505498" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676786" format="html">               <inhalt/>
+               <text art="grader info" id="157505499" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676787</id>
+                  <id>157505507</id>
                   <grade>1</grade>
                   <mode>8</mode>
                   <name><![CDATA[Q0]]></name>
@@ -1369,7 +1360,7 @@
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676788</id>
+                     <id>157505508</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[IE1]]></text>
@@ -1382,7 +1373,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676789</id>
+                     <id>157505509</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[IE2]]></text>
@@ -1395,7 +1386,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676790</id>
+                     <id>157505510</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[IE3]]></text>
@@ -1408,7 +1399,7 @@
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676791</id>
+                     <id>157505511</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[IE4]]></text>
@@ -1423,10 +1414,9 @@
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676792</id>
+               <id>157505512</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Wirkungsgradklassen 2]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -1461,29 +1451,30 @@ IE : vget(IEvec, ie)]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676794" format="html">
+               <text art="Questiontext" id="157505513" format="html">
                                  <inhalt><![CDATA[<p>Die Wirkungsgradklassen IE1 bis IE4 sind in der Norm EN 60034-30-1:214 festgelegt.</p>
 
 <p>Kennzeichnen Sie den Bereich der Wirkunggradklasse {=IE}</p>
 
-<p>[Q0]&nbsp;</p>]]></inhalt>
+<p>[Q0]&nbsp;</p>
+]]></inhalt>
 
-                  <file filename="IE1234-nolabel.png" id="157676795" md5="20594d41dbc8e2778dff4eaa1686e5" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="IE1234-nolabel.png" id="157505531" md5="20594d41dbc8e2778dff4eaa1686e5" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/20/20594d41dbc8e2778dff4eaa1686e5.png]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="157676796" format="html">               <inhalt/>
+               <text art="general feedback" id="157505514" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676797" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505515" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676798" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505516" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676799" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505517" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676800" format="html">               <inhalt/>
+               <text art="grader info" id="157505518" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676801</id>
+                  <id>157505528</id>
                   <grade>1</grade>
                   <mode>6</mode>
                   <name><![CDATA[Q0]]></name>
@@ -1493,7 +1484,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676802</id>
+                     <id>157505529</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[0]]></text>
@@ -1507,7 +1498,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157676793</id>
+                  <id>157505526</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[ie]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -1527,10 +1518,9 @@ IE : vget(IEvec, ie)]]></maxima>
             <name><![CDATA[3.3.4 Wärmetransport und Wärmespeicherung]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157676804</id>
+               <id>157505533</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Wärmetransport]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -1566,22 +1556,22 @@ IE : vget(IEvec, ie)]]></maxima>
                <randomDataset>false</randomDataset>
                <questionCommentMsg/>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="157676806" format="html">               <inhalt><![CDATA[<p>Beim W&auml;rmetransport unterscheiden wir folgende Ph&auml;nomene:</p>
+               <text art="Questiontext" id="157505534" format="html">               <inhalt><![CDATA[<p>Beim W&auml;rmetransport unterscheiden wir folgende Ph&auml;nomene:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676807" format="html">               <inhalt/>
+               <text art="general feedback" id="157505535" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676808" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505536" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676809" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505537" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676810" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505538" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676811" format="html">               <inhalt/>
+               <text art="grader info" id="157505539" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676812</id>
+                  <id>157505563</id>
                   <grade>1</grade>
                   <mode>8</mode>
                   <name><![CDATA[Q0]]></name>
@@ -1591,7 +1581,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676813</id>
+                     <id>157505564</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Wärmeleitung]]></text>
@@ -1604,7 +1594,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676814</id>
+                     <id>157505565</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Konvektion]]></text>
@@ -1613,11 +1603,11 @@ IE : vget(IEvec, ie)]]></maxima>
                      <correctAnswerFormat>2</correctAnswerFormat>
                      <correctAnswerLength>5</correctAnswerLength>
                      <maxima/>
-                     <answer><![CDATA[erforder Materie]]></answer>
+                     <answer><![CDATA[erfordert Materie]]></answer>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676815</id>
+                     <id>157505566</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[Wärmestrahlung]]></text>
@@ -1630,7 +1620,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676816</id>
+                     <id>157505567</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text/>
@@ -1645,10 +1635,9 @@ IE : vget(IEvec, ie)]]></maxima>
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676817</id>
+               <id>157505568</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Wärmespeicherkapazität]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -1684,24 +1673,24 @@ IE : vget(IEvec, ie)]]></maxima>
                <randomDataset>false</randomDataset>
                <questionCommentMsg/>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="157676819" format="html">               <inhalt><![CDATA[<p>Je h&ouml;her</p>
+               <text art="Questiontext" id="157505569" format="html">               <inhalt><![CDATA[<p>Je h&ouml;her</p>
 
 <p>[Q0]&nbsp;</p>
 
 <p>desto h&ouml;her ist die W&auml;rmespeicherkapazit&auml;t.</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676820" format="html">               <inhalt/>
+               <text art="general feedback" id="157505570" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676821" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505571" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676822" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505572" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676823" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505573" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676824" format="html">               <inhalt/>
+               <text art="grader info" id="157505574" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676825</id>
+                  <id>157508553</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -1711,7 +1700,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676826</id>
+                     <id>157508554</id>
                      <fraction>50</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die spezifische Wärmespeicherkapazität]]></text>
@@ -1724,7 +1713,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676827</id>
+                     <id>157508555</id>
                      <fraction>50</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die Masse]]></text>
@@ -1737,7 +1726,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676828</id>
+                     <id>157508556</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die spezifische Wärmeleitfähigkeit]]></text>
@@ -1750,7 +1739,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676829</id>
+                     <id>157508557</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die Oberfläche]]></text>
@@ -1765,10 +1754,9 @@ IE : vget(IEvec, ie)]]></maxima>
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676830</id>
+               <id>157508558</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Wärmespeicherung]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -1804,24 +1792,24 @@ IE : vget(IEvec, ie)]]></maxima>
                <randomDataset>false</randomDataset>
                <questionCommentMsg/>
                <questionCommentIcon>REVIEWED</questionCommentIcon>
-               <text art="Questiontext" id="157676832" format="html">               <inhalt><![CDATA[<p>Bei der W&auml;rmespeicherung ist die Temperaturerh&ouml;hung umso gr&ouml;&szlig;er, je gr&ouml;&szlig;er</p>
+               <text art="Questiontext" id="157508559" format="html">               <inhalt><![CDATA[<p>Bei der W&auml;rmespeicherung ist die Temperaturerh&ouml;hung umso gr&ouml;&szlig;er, je gr&ouml;&szlig;er</p>
 
 <p>[Q0]&nbsp;</p>
 
 <p>ist.</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676833" format="html">               <inhalt/>
+               <text art="general feedback" id="157508560" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676834" format="html">               <inhalt/>
+               <text art="correct feedback" id="157508561" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676835" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157508562" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676836" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157508563" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676837" format="html">               <inhalt/>
+               <text art="grader info" id="157508564" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676838</id>
+                  <id>157508739</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -1831,7 +1819,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676839</id>
+                     <id>157508740</id>
                      <fraction>34</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die zugeführte Wärme]]></text>
@@ -1844,7 +1832,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676840</id>
+                     <id>157508741</id>
                      <fraction>33</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die Masse]]></text>
@@ -1857,7 +1845,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676841</id>
+                     <id>157508742</id>
                      <fraction>33</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die spezifische Wärmespeicherkapazität]]></text>
@@ -1870,7 +1858,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676842</id>
+                     <id>157508743</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die thermische Leitfähigkeit]]></text>
@@ -1889,10 +1877,9 @@ IE : vget(IEvec, ie)]]></maxima>
             <name><![CDATA[3.3.5 Wärmeklasse]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157676844</id>
+               <id>157505307</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Begriffe 1]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -1926,24 +1913,24 @@ IE : vget(IEvec, ie)]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676845" format="html">               <inhalt><![CDATA[<p>Die W&auml;rmeklassen elektrischer Maschine sind in der Norm EN 60085 geregelt.</p>
+               <text art="Questiontext" id="157505308" format="html">               <inhalt><![CDATA[<p>Die W&auml;rmeklassen elektrischer Maschine sind in der Norm EN 60085 geregelt.</p>
 
 <p>Die <strong>K&uuml;hlmitteltemperatur</strong> $T_K$ &nbsp;</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676846" format="html">               <inhalt/>
+               <text art="general feedback" id="157505309" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676847" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505310" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676848" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505311" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676849" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505312" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676850" format="html">               <inhalt/>
+               <text art="grader info" id="157505313" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676851</id>
+                  <id>157505333</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -1953,7 +1940,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676852</id>
+                     <id>157505334</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[ist einheitlich mit {=40°C} angenommen]]></text>
@@ -1966,7 +1953,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676853</id>
+                     <id>157505335</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[ist einheitlich mit {=20°C} angenommen]]></text>
@@ -1979,7 +1966,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676854</id>
+                     <id>157505336</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[ist einheitlich mit {=30°C} angenommen]]></text>
@@ -1992,7 +1979,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676855</id>
+                     <id>157505337</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[muss immer]]></text>
@@ -2005,7 +1992,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676856</id>
+                     <id>157505338</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[ist möglichst gering zu wählen]]></text>
@@ -2018,7 +2005,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676857</id>
+                     <id>157505339</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[ist möglcihst hoch zu wählen]]></text>
@@ -2033,10 +2020,9 @@ IE : vget(IEvec, ie)]]></maxima>
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676858</id>
+               <id>157505340</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Begriffe 2]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -2070,24 +2056,24 @@ IE : vget(IEvec, ie)]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676859" format="html">               <inhalt><![CDATA[<p>Die W&auml;rmeklassen elektrischer Maschine sind in der Norm EN 60085 geregelt.</p>
+               <text art="Questiontext" id="157505341" format="html">               <inhalt><![CDATA[<p>Die W&auml;rmeklassen elektrischer Maschine sind in der Norm EN 60085 geregelt.</p>
 
 <p>Die <strong>Grenz&uuml;bertemperatur</strong> $T_{\ddot uG}$ ist</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676860" format="html">               <inhalt/>
+               <text art="general feedback" id="157505342" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676861" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505343" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676862" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505344" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676863" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505345" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676864" format="html">               <inhalt/>
+               <text art="grader info" id="157505346" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676865</id>
+                  <id>157505359</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -2097,7 +2083,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676866</id>
+                     <id>157505360</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste mittlere Übertemperatur der Wicklung gegenüber dem Kühlmittel]]></text>
@@ -2110,7 +2096,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676867</id>
+                     <id>157505361</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste mittlere Temperatur der Wicklung]]></text>
@@ -2123,7 +2109,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676868</id>
+                     <id>157505362</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste Übertemperatur (heißester Punkt) der Wicklung gegenüber dem Kühlmittel]]></text>
@@ -2136,7 +2122,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676869</id>
+                     <id>157505363</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste Temperatur (heißester Punkt) der Wicklung]]></text>
@@ -2151,10 +2137,9 @@ IE : vget(IEvec, ie)]]></maxima>
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676870</id>
+               <id>157505379</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Begriffe 3]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -2188,24 +2173,24 @@ IE : vget(IEvec, ie)]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676871" format="html">               <inhalt><![CDATA[<p>Die W&auml;rmeklassen elektrischer Maschine sind in der Norm EN 60085 geregelt.</p>
+               <text art="Questiontext" id="157505380" format="html">               <inhalt><![CDATA[<p>Die W&auml;rmeklassen elektrischer Maschine sind in der Norm EN 60085 geregelt.</p>
 
 <p>Die <strong>Grenztemperatur</strong> $T_{WG}$ ist</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676872" format="html">               <inhalt/>
+               <text art="general feedback" id="157505381" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676873" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505382" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676874" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505383" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676875" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505384" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676876" format="html">               <inhalt/>
+               <text art="grader info" id="157505385" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676877</id>
+                  <id>157505386</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -2215,7 +2200,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676878</id>
+                     <id>157505387</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste mittlere Übertemperatur der Wicklung gegenüber dem Kühlmittel]]></text>
@@ -2228,7 +2213,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676879</id>
+                     <id>157505388</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste mittlere Temperatur der Wicklung]]></text>
@@ -2241,7 +2226,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676880</id>
+                     <id>157505389</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste Übertemperatur (heißester Punkt) der Wicklung gegenüber dem Kühlmittel]]></text>
@@ -2254,7 +2239,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676881</id>
+                     <id>157505390</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste Temperatur (heißester Punkt) der Wicklung]]></text>
@@ -2269,10 +2254,9 @@ IE : vget(IEvec, ie)]]></maxima>
                </subquestion>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676882</id>
+               <id>157505364</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Begriffe 4]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -2306,24 +2290,24 @@ IE : vget(IEvec, ie)]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676883" format="html">               <inhalt><![CDATA[<p>Die W&auml;rmeklassen elektrischer Maschine sind in der Norm EN 60085 geregelt.</p>
+               <text art="Questiontext" id="157505365" format="html">               <inhalt><![CDATA[<p>Die W&auml;rmeklassen elektrischer Maschine sind in der Norm EN 60085 geregelt.</p>
 
 <p>Die <strong>h&ouml;chste Temperatur der Wicklung</strong>&nbsp;$T_{WH}$ ist</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676884" format="html">               <inhalt/>
+               <text art="general feedback" id="157505366" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676885" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505367" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676886" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505368" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676887" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505369" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676888" format="html">               <inhalt/>
+               <text art="grader info" id="157505370" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676889</id>
+                  <id>157505371</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -2333,7 +2317,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676890</id>
+                     <id>157505372</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste mittlere Übertemperatur der Wicklung gegenüber dem Kühlmittel]]></text>
@@ -2346,7 +2330,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676891</id>
+                     <id>157505373</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste mittlere Temperatur der Wicklung]]></text>
@@ -2359,7 +2343,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676892</id>
+                     <id>157505374</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste Übertemperatur (heißester Punkt) der Wicklung gegenüber dem Kühlmittel]]></text>
@@ -2372,7 +2356,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676893</id>
+                     <id>157505375</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[höchste Temperatur (heißester Punkt) der Wicklung]]></text>
@@ -2391,10 +2375,9 @@ IE : vget(IEvec, ie)]]></maxima>
             <name><![CDATA[3.3.6 Betriebsarten]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157676895</id>
+               <id>157505396</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Betriebsarten]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -2428,22 +2411,22 @@ IE : vget(IEvec, ie)]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676898" format="html">               <inhalt><![CDATA[<p>Wir unterscheiden folgende Betriebsarten elektrischer Maschinen</p>
+               <text art="Questiontext" id="157505397" format="html">               <inhalt><![CDATA[<p>Wir unterscheiden folgende Betriebsarten elektrischer Maschinen</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676899" format="html">               <inhalt/>
+               <text art="general feedback" id="157505398" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676900" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505399" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676901" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505400" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676902" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505401" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676903" format="html">               <inhalt/>
+               <text art="grader info" id="157505402" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676904</id>
+                  <id>157505425</id>
                   <grade>1</grade>
                   <mode>8</mode>
                   <name><![CDATA[Q0]]></name>
@@ -2453,7 +2436,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676905</id>
+                     <id>157505426</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[S1]]></text>
@@ -2466,7 +2449,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676906</id>
+                     <id>157505427</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[S2]]></text>
@@ -2479,7 +2462,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676907</id>
+                     <id>157505428</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[{=S345}]]></text>
@@ -2492,7 +2475,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676908</id>
+                     <id>157505429</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[{=S678}]]></text>
@@ -2505,7 +2488,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676909</id>
+                     <id>157505430</id>
                      <fraction>0</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[S9]]></text>
@@ -2519,7 +2502,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157676896</id>
+                  <id>157505423</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[S345]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -2534,7 +2517,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <items><![CDATA["S4";"S3";"S3";"S3";"S3";"S5";"S4";"S3";"S5";"S5";"S5";"S4";"S4";"S4";"S4";"S5";"S4";"S4";"S4";"S3";"S3";"S4";"S4";"S3";"S5";"S3";"S5";"S4";"S4";"S5";"S3";"S3";"S4";"S3";"S5";"S3";"S3";"S4";"S5";"S5"]]></items>
                </dataset>
                <dataset>
-                  <id>157676897</id>
+                  <id>157505424</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[S678]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -2554,10 +2537,9 @@ IE : vget(IEvec, ie)]]></maxima>
             <name><![CDATA[3.3.7 Überlast]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157676911</id>
+               <id>157505438</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Überlast 1]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -2591,22 +2573,23 @@ IE : vget(IEvec, ie)]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676913" format="html">               <inhalt><![CDATA[<p>Elektrische Maschinen sind umso {sl} &uuml;berlastbar,</p>
+               <text art="Questiontext" id="157505439" format="html">               <inhalt><![CDATA[<p>Elektrische Maschinen sind umso {sl} &uuml;berlastbar,</p>
 
-<p>[Q0]&nbsp;</p>]]></inhalt>
+<p>[Q0]&nbsp;</p>
+]]></inhalt>
 </text>
-               <text art="general feedback" id="157676914" format="html">               <inhalt/>
+               <text art="general feedback" id="157505440" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676915" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505441" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676916" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505442" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676917" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505443" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676918" format="html">               <inhalt/>
+               <text art="grader info" id="157505444" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676919</id>
+                  <id>157505451</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -2616,7 +2599,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676920</id>
+                     <id>157505452</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[desto größer die Wärmespeicherkapazität ist]]></text>
@@ -2629,7 +2612,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676921</id>
+                     <id>157505453</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[desto geringer die Wärmespeicherkapazität ist]]></text>
@@ -2643,7 +2626,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157676912</id>
+                  <id>157505490</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[sl]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -2659,10 +2642,9 @@ IE : vget(IEvec, ie)]]></maxima>
                </dataset>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676922</id>
+               <id>157505455</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Überlast 2]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -2683,7 +2665,7 @@ IE : vget(IEvec, ie)]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -2696,22 +2678,22 @@ IE : vget(IEvec, ie)]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676924" format="html">               <inhalt><![CDATA[<p>Elektrische Maschinen sind umso {sl} &uuml;berlastbar,</p>
+               <text art="Questiontext" id="157505456" format="html">               <inhalt><![CDATA[<p>Elektrische Maschinen sind umso {sl} &uuml;berlastbar,</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676925" format="html">               <inhalt/>
+               <text art="general feedback" id="157505457" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676926" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505458" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676927" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505459" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676928" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505460" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676929" format="html">               <inhalt/>
+               <text art="grader info" id="157505461" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676930</id>
+                  <id>157505462</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -2721,7 +2703,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676931</id>
+                     <id>157505463</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[desto größer die Masse der Maschine ist]]></text>
@@ -2734,7 +2716,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676932</id>
+                     <id>157505464</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[desto geringer die Masse der Maschine  ist]]></text>
@@ -2748,7 +2730,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157676923</id>
+                  <id>157505487</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[sl]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -2760,14 +2742,13 @@ IE : vget(IEvec, ie)]]></maxima>
                   <zahlenbereich><![CDATA[S:"stärker","länger"]]></zahlenbereich>
                   <ziffern>12</ziffern>
                   <einheit/>
-                  <items><![CDATA["länger";"länger";"stärker";"stärker";"länger";"länger";"stärker";"stärker";"stärker";"stärker";"länger";"länger";"länger";"stärker";"länger";"stärker";"stärker";"stärker";"stärker";"länger";"stärker";"länger";"stärker";"länger";"länger";"länger";"länger";"länger";"länger";"stärker";"stärker";"stärker";"länger";"länger";"länger";"stärker";"stärker";"stärker";"länger";"länger"]]></items>
+                  <items><![CDATA["länger";"stärker";"stärker";"länger";"stärker";"stärker";"länger";"länger";"stärker";"länger";"stärker";"stärker";"stärker";"länger";"länger";"stärker";"stärker";"stärker";"stärker";"stärker";"stärker";"stärker";"länger";"länger";"stärker";"stärker";"stärker";"länger";"stärker";"länger";"stärker";"länger";"stärker";"länger";"länger";"stärker";"stärker";"stärker";"länger";"länger"]]></items>
                </dataset>
             </question>
             <question type="MoodleClozeCalc">
-               <id>157676933</id>
+               <id>157505469</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
-               <single>2</single>
                <name><![CDATA[Überlast 3]]></name>
                <punkte>1</punkte>
                <penalty/>
@@ -2788,7 +2769,7 @@ IE : vget(IEvec, ie)]]></maxima>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins/>
@@ -2801,22 +2782,22 @@ IE : vget(IEvec, ie)]]></maxima>
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676935" format="html">               <inhalt><![CDATA[<p>Elektrische Maschinen sind umso {sl} &uuml;berlastbar,</p>
+               <text art="Questiontext" id="157505470" format="html">               <inhalt><![CDATA[<p>Elektrische Maschinen sind umso {sl} &uuml;berlastbar,</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-               <text art="general feedback" id="157676936" format="html">               <inhalt/>
+               <text art="general feedback" id="157505471" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676937" format="html">               <inhalt/>
+               <text art="correct feedback" id="157505472" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676938" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157505473" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676939" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157505474" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676940" format="html">               <inhalt/>
+               <text art="grader info" id="157505475" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676941</id>
+                  <id>157505476</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -2826,7 +2807,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676942</id>
+                     <id>157505477</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[desto geringer die Ausgangstemperatur ist]]></text>
@@ -2839,7 +2820,7 @@ IE : vget(IEvec, ie)]]></maxima>
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676943</id>
+                     <id>157505478</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[desto höher die Ausgangstemperatur ist]]></text>
@@ -2853,7 +2834,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157676934</id>
+                  <id>157505484</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[sl]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -2865,7 +2846,7 @@ IE : vget(IEvec, ie)]]></maxima>
                   <zahlenbereich><![CDATA[S:"stärker","länger"]]></zahlenbereich>
                   <ziffern>12</ziffern>
                   <einheit/>
-                  <items><![CDATA["stärker";"länger";"stärker";"stärker";"länger";"stärker";"länger";"länger";"länger";"stärker";"länger";"länger";"stärker";"länger";"stärker";"stärker";"stärker";"länger";"länger";"stärker";"stärker";"länger";"stärker";"stärker";"länger";"stärker";"stärker";"länger";"länger";"stärker";"stärker";"länger";"stärker";"länger";"stärker";"länger";"länger";"stärker";"länger";"stärker"]]></items>
+                  <items><![CDATA["länger";"länger";"stärker";"länger";"länger";"länger";"stärker";"länger";"länger";"länger";"stärker";"stärker";"stärker";"stärker";"stärker";"stärker";"länger";"stärker";"stärker";"stärker";"stärker";"stärker";"länger";"stärker";"länger";"länger";"stärker";"länger";"stärker";"stärker";"länger";"länger";"stärker";"länger";"stärker";"länger";"stärker";"länger";"länger";"stärker"]]></items>
                </dataset>
             </question>
          </category>
@@ -2873,7 +2854,7 @@ IE : vget(IEvec, ie)]]></maxima>
             <name><![CDATA[3.3.8 Kühlung elektrischer Maschinen]]></name>
             <idSchule>0</idSchule>
             <question type="MoodleClozeCalc">
-               <id>157676945</id>
+               <id>157176647</id>
                <idUser>1836</idUser>
                <questionType>22</questionType>
                <single>2</single>
@@ -2915,7 +2896,7 @@ N14 : vget(Nr,13)
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
                <md5/>
-               <revNrServer>1</revNrServer>
+               <revNrServer>0</revNrServer>
                <revNrLocal>0</revNrLocal>
                <units/>
                <plugins><![CDATA[[PI Plugin1 Plot "baseimage(0);cursor = off;all = off;;circle(120.9,316.6,20,text=N1,textsize=1,color=orange,fillcolor=orange);circle(230,187.6,20,text=N2,textsize=1,color=orange,fillcolor=orange);circle(321.2,255.1,20,text=N3,textsize=1,color=orange,fillcolor=orange);circle(402.6,201.5,20,text=N4,textsize=1,color=orange,fillcolor=orange);circle(606.9,235.2,20,text=N5,textsize=1,color=orange,fillcolor=orange);circle(535.4,352.3,20,text=N6,textsize=1,color=orange,fillcolor=orange);circle(535.4,294.7,20,text=N7,textsize=1,color=orange,fillcolor=orange);circle(668.3,328.5,20,text=N8,textsize=1,color=orange,fillcolor=orange);circle(499.7,501,20,text=N9,textsize=1,color=orange,fillcolor=orange);circle(755.6,46.8,20,text=N10,textsize=1,color=orange,fillcolor=orange);circle(840.9,179.7,20,text=N11,textsize=1,color=orange,fillcolor=orange);circle(912.3,314.6,20,text=N12,textsize=1,color=orange,fillcolor=orange);circle(606.9,745,20,text=N13,textsize=1,color=orange,fillcolor=orange);circle(1021,495.1,20,text=N14,textsize=1,color=orange,fillcolor=orange);;"]]]></plugins>
@@ -2928,8 +2909,8 @@ N14 : vget(Nr,13)
                <addDocumentsPossible>false</addDocumentsPossible>
                <info/>
                <randomDataset>false</randomDataset>
-               <text art="Questiontext" id="157676949" format="html">
-                                 <inhalt><![CDATA[<p>[IMG0]<br/>
+               <text art="Questiontext" id="157176651" format="html">
+                                 <inhalt><![CDATA[<p>[IMG0]<br />
 <strong>Bild:&nbsp;</strong>Asynchronmotor, gek&uuml;hlt nach IC411&nbsp;(Fotos: &copy; Siemens AG 2023, Alle Rechte vorbehalten)</p>
 
 <p>Die meisten Asynchronmaschinen in der Industrie sind eigengek&uuml;hlt nach IC411 (TEFC = totally enclosed fan cooled) ausgef&uuml;hrt.</p>
@@ -2938,24 +2919,25 @@ N14 : vget(Nr,13)
 
 <p>[Q0]&nbsp;</p>
 
-<p>&nbsp;</p>]]></inhalt>
+<p>&nbsp;</p>
+]]></inhalt>
 
-                  <file filename="Clipboard.png" id="157676950" md5="26a48242c5e9c14b913dfd49cb7f2b1c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Clipboard.png" id="158291767" md5="26a48242c5e9c14b913dfd49cb7f2b1c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/26/26a48242c5e9c14b913dfd49cb7f2b1c.png]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="157676951" format="html">               <inhalt/>
+               <text art="general feedback" id="157176653" format="html">               <inhalt/>
 </text>
-               <text art="correct feedback" id="157676952" format="html">               <inhalt/>
+               <text art="correct feedback" id="157176654" format="html">               <inhalt/>
 </text>
-               <text art="partially correct feedback" id="157676953" format="html">               <inhalt/>
+               <text art="partially correct feedback" id="157176655" format="html">               <inhalt/>
 </text>
-               <text art="incorrect feedback" id="157676954" format="html">               <inhalt/>
+               <text art="incorrect feedback" id="157176656" format="html">               <inhalt/>
 </text>
-               <text art="grader info" id="157676955" format="html">               <inhalt/>
+               <text art="grader info" id="157176657" format="html">               <inhalt/>
 </text>
                <subquestion>
-                  <id>157676956</id>
+                  <id>157176658</id>
                   <grade>1</grade>
                   <mode>3</mode>
                   <name><![CDATA[Q0]]></name>
@@ -2965,7 +2947,7 @@ N14 : vget(Nr,13)
                   <shuffleAnswers>1</shuffleAnswers>
                   <schwierigkeit>0</schwierigkeit>
                   <answer>
-                     <id>157676957</id>
+                     <id>157176659</id>
                      <fraction>34</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[der Innenbereich der Maschine vollständig (staubdicht) gekapselt ist]]></text>
@@ -2978,7 +2960,7 @@ N14 : vget(Nr,13)
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676958</id>
+                     <id>157176660</id>
                      <fraction>33</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die Kühlluft über die Kühlrippen der Maschine strömt]]></text>
@@ -2991,7 +2973,7 @@ N14 : vget(Nr,13)
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676959</id>
+                     <id>157176661</id>
                      <fraction>33</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die Kühlluft über einen Ventilator in Bewegung gesetzt wird]]></text>
@@ -3004,7 +2986,7 @@ N14 : vget(Nr,13)
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676960</id>
+                     <id>157176662</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die Kühlluft durch den Innenbereich der Maschine strömt]]></text>
@@ -3017,7 +2999,7 @@ N14 : vget(Nr,13)
                      <einheit/>
                   </answer>
                   <answer>
-                     <id>157676961</id>
+                     <id>157176663</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
                      <text><![CDATA[die Kühlluft um die Wicklungen der Maschine strömt]]></text>
@@ -3031,7 +3013,7 @@ N14 : vget(Nr,13)
                   </answer>
                </subquestion>
                <dataset>
-                  <id>157676946</id>
+                  <id>157176648</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[N]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -3046,7 +3028,7 @@ N14 : vget(Nr,13)
                   <items><![CDATA[14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14;14]]></items>
                </dataset>
                <dataset>
-                  <id>157676947</id>
+                  <id>157176649</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[prim]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -3061,7 +3043,7 @@ N14 : vget(Nr,13)
                   <items><![CDATA[3;31;13;5;23;11;23;23;7;5;7;37;17;7;19;3;17;23;11;5;11;7;17;5;3;3;37;3;31;37;31;37;11;37;17;37;31;19;17;7]]></items>
                </dataset>
                <dataset>
-                  <id>157676948</id>
+                  <id>157176650</id>
                   <status><![CDATA[shared]]></status>
                   <name><![CDATA[plus]]></name>
                   <type><![CDATA[calculated]]></type>
@@ -3079,13 +3061,16 @@ N14 : vget(Nr,13)
          </category>
       </category>
       <category>
+         <name><![CDATA[3.4 Typenschild]]></name>
+         <idSchule>0</idSchule>
+      </category>
+      <category>
          <name><![CDATA[3.5 Normen]]></name>
          <idSchule>0</idSchule>
          <question type="MoodleClozeCalc">
-            <id>157676963</id>
+            <id>157665498</id>
             <idUser>1836</idUser>
             <questionType>22</questionType>
-            <single>2</single>
             <name><![CDATA[Norm 1]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -3119,24 +3104,24 @@ N14 : vget(Nr,13)
             <addDocumentsPossible>false</addDocumentsPossible>
             <info/>
             <randomDataset>false</randomDataset>
-            <text art="Questiontext" id="157676964" format="html">            <inhalt><![CDATA[<p>Bei der Norm&nbsp;DIN <strong>EN</strong> IEC 60076-22-1:2019&ndash;11 bezeichnet <strong>EN</strong>, dass es sich um eine</p>
+            <text art="Questiontext" id="157665499" format="html">            <inhalt><![CDATA[<p>Bei der Norm&nbsp;DIN <strong>EN</strong> IEC 60076-22-1:2019&ndash;11 bezeichnet <strong>EN</strong>, dass es sich um eine</p>
 
 <p>[Q0]&nbsp;</p>
 
 <p>handelt.</p>]]></inhalt>
 </text>
-            <text art="general feedback" id="157676965" format="html">            <inhalt/>
+            <text art="general feedback" id="157665500" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157676966" format="html">            <inhalt/>
+            <text art="correct feedback" id="157665501" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157676967" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="157665502" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157676968" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="157665503" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157676969" format="html">            <inhalt/>
+            <text art="grader info" id="157665504" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157676970</id>
+               <id>157665510</id>
                <grade>1</grade>
                <mode>3</mode>
                <name><![CDATA[Q0]]></name>
@@ -3146,7 +3131,7 @@ N14 : vget(Nr,13)
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157676971</id>
+                  <id>157665511</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[europäische Norm]]></text>
@@ -3159,7 +3144,7 @@ N14 : vget(Nr,13)
                   <einheit/>
                </answer>
                <answer>
-                  <id>157676972</id>
+                  <id>157665512</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[elektrotechnische Norm]]></text>
@@ -3172,7 +3157,7 @@ N14 : vget(Nr,13)
                   <einheit/>
                </answer>
                <answer>
-                  <id>157676973</id>
+                  <id>157665513</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[englischsprachige Norm]]></text>
@@ -3187,10 +3172,9 @@ N14 : vget(Nr,13)
             </subquestion>
          </question>
          <question type="MoodleClozeCalc">
-            <id>157676974</id>
+            <id>157665514</id>
             <idUser>1836</idUser>
             <questionType>22</questionType>
-            <single>2</single>
             <name><![CDATA[Norm 2]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -3224,22 +3208,22 @@ N14 : vget(Nr,13)
             <addDocumentsPossible>false</addDocumentsPossible>
             <info/>
             <randomDataset>false</randomDataset>
-            <text art="Questiontext" id="157676975" format="html">            <inhalt><![CDATA[<p>Bei der Norm&nbsp;DIN EN IEC <strong>60076</strong>-22-1:2019&ndash;11 bezeichnet <strong>60076</strong></p>
+            <text art="Questiontext" id="157665515" format="html">            <inhalt><![CDATA[<p>Bei der Norm&nbsp;DIN EN IEC <strong>60076</strong>-22-1:2019&ndash;11 bezeichnet <strong>60076</strong></p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-            <text art="general feedback" id="157676976" format="html">            <inhalt/>
+            <text art="general feedback" id="157665516" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157676977" format="html">            <inhalt/>
+            <text art="correct feedback" id="157665517" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157676978" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="157665518" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157676979" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="157665519" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157676980" format="html">            <inhalt/>
+            <text art="grader info" id="157665520" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157676981</id>
+               <id>157665521</id>
                <grade>1</grade>
                <mode>3</mode>
                <name><![CDATA[Q0]]></name>
@@ -3249,7 +3233,7 @@ N14 : vget(Nr,13)
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157676982</id>
+                  <id>157665522</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[die eindeutige Nummer der Norm]]></text>
@@ -3262,7 +3246,7 @@ N14 : vget(Nr,13)
                   <einheit/>
                </answer>
                <answer>
-                  <id>157676983</id>
+                  <id>157665523</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[die fortlaufende Ausgabenummer]]></text>
@@ -3277,10 +3261,9 @@ N14 : vget(Nr,13)
             </subquestion>
          </question>
          <question type="MoodleClozeCalc">
-            <id>157676984</id>
+            <id>157665527</id>
             <idUser>1836</idUser>
             <questionType>22</questionType>
-            <single>2</single>
             <name><![CDATA[Norm 3]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -3314,24 +3297,24 @@ N14 : vget(Nr,13)
             <addDocumentsPossible>false</addDocumentsPossible>
             <info/>
             <randomDataset>false</randomDataset>
-            <text art="Questiontext" id="157676985" format="html">            <inhalt><![CDATA[<p>Bei der Norm&nbsp;<strong>DIN</strong> EN IEC 60076-22-1:2019&ndash;11 bezeichnet <strong>DIN</strong>, dass es sich um</p>
+            <text art="Questiontext" id="157665528" format="html">            <inhalt><![CDATA[<p>Bei der Norm&nbsp;<strong>DIN</strong> EN IEC 60076-22-1:2019&ndash;11 bezeichnet <strong>DIN</strong>, dass es sich um</p>
 
 <p>[Q0]&nbsp;</p>
 
 <p>handelt.</p>]]></inhalt>
 </text>
-            <text art="general feedback" id="157676986" format="html">            <inhalt/>
+            <text art="general feedback" id="157665529" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157676987" format="html">            <inhalt/>
+            <text art="correct feedback" id="157665530" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157676988" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="157665531" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157676989" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="157665532" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157676990" format="html">            <inhalt/>
+            <text art="grader info" id="157665533" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157676991</id>
+               <id>157665534</id>
                <grade>1</grade>
                <mode>3</mode>
                <name><![CDATA[Q0]]></name>
@@ -3341,10 +3324,10 @@ N14 : vget(Nr,13)
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157676992</id>
+                  <id>157665535</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
-                  <text><![CDATA[eine Normdes Deutschen Instituts für Normung e. V.]]></text>
+                  <text><![CDATA[eine Norm des Deutschen Instituts für Normung e. V.]]></text>
                   <feedback/>
                   <tolerance><![CDATA[1%]]></tolerance>
                   <correctAnswerFormat>2</correctAnswerFormat>
@@ -3354,7 +3337,7 @@ N14 : vget(Nr,13)
                   <einheit/>
                </answer>
                <answer>
-                  <id>157676993</id>
+                  <id>157665536</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[eine Deutsche Industrie-Norm]]></text>
@@ -3367,7 +3350,7 @@ N14 : vget(Nr,13)
                   <einheit/>
                </answer>
                <answer>
-                  <id>157676994</id>
+                  <id>157665537</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[eine deutschsprachige Norm mit Informationscharakter]]></text>
@@ -3382,10 +3365,9 @@ N14 : vget(Nr,13)
             </subquestion>
          </question>
          <question type="MoodleClozeCalc">
-            <id>157676995</id>
+            <id>157665542</id>
             <idUser>1836</idUser>
             <questionType>22</questionType>
-            <single>2</single>
             <name><![CDATA[Norm 4]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -3419,24 +3401,24 @@ N14 : vget(Nr,13)
             <addDocumentsPossible>false</addDocumentsPossible>
             <info/>
             <randomDataset>false</randomDataset>
-            <text art="Questiontext" id="157676996" format="html">            <inhalt><![CDATA[<p>Bei der Norm&nbsp;DIN EN IEC 60076-<strong>22-1</strong>:2019&ndash;11 bezeichnet <strong>22-1</strong></p>
+            <text art="Questiontext" id="157665543" format="html">            <inhalt><![CDATA[<p>Bei der Norm&nbsp;DIN EN IEC 60076-<strong>22-1</strong>:2019&ndash;11 bezeichnet <strong>22-1</strong></p>
 
 <p>[Q0]&nbsp;</p>
 
 <p>der Norm.</p>]]></inhalt>
 </text>
-            <text art="general feedback" id="157676997" format="html">            <inhalt/>
+            <text art="general feedback" id="157665544" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157676998" format="html">            <inhalt/>
+            <text art="correct feedback" id="157665545" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157676999" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="157665546" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157677000" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="157665547" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157677001" format="html">            <inhalt/>
+            <text art="grader info" id="157665548" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157677002</id>
+               <id>157665549</id>
                <grade>1</grade>
                <mode>3</mode>
                <name><![CDATA[Q0]]></name>
@@ -3446,7 +3428,7 @@ N14 : vget(Nr,13)
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157677003</id>
+                  <id>157665550</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[den Teil 22-1]]></text>
@@ -3459,7 +3441,7 @@ N14 : vget(Nr,13)
                   <einheit/>
                </answer>
                <answer>
-                  <id>157677004</id>
+                  <id>157665551</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[die Seitennummer 22 im Teil 1 in]]></text>
@@ -3472,7 +3454,7 @@ N14 : vget(Nr,13)
                   <einheit/>
                </answer>
                <answer>
-                  <id>157677005</id>
+                  <id>157665552</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[den Teil 22 und die Seite 1 in]]></text>
@@ -3485,7 +3467,7 @@ N14 : vget(Nr,13)
                   <einheit/>
                </answer>
                <answer>
-                  <id>157677006</id>
+                  <id>157665556</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[den Teil 22 und die Kapitel 1 in]]></text>
@@ -3500,10 +3482,9 @@ N14 : vget(Nr,13)
             </subquestion>
          </question>
          <question type="MoodleClozeCalc">
-            <id>157677007</id>
+            <id>157665558</id>
             <idUser>1836</idUser>
             <questionType>22</questionType>
-            <single>2</single>
             <name><![CDATA[Norm 5]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -3537,24 +3518,24 @@ N14 : vget(Nr,13)
             <addDocumentsPossible>false</addDocumentsPossible>
             <info/>
             <randomDataset>false</randomDataset>
-            <text art="Questiontext" id="157677008" format="html">            <inhalt><![CDATA[<p>Bei der Norm&nbsp;DIN EN IEC 60076-22-1:<strong>2019&ndash;11</strong> bezeichnet <strong>2019&ndash;11</strong></p>
+            <text art="Questiontext" id="157665559" format="html">            <inhalt><![CDATA[<p>Bei der Norm&nbsp;DIN EN IEC 60076-22-1:<strong>2019&ndash;11</strong> bezeichnet <strong>2019&ndash;11</strong></p>
 
 <p>[Q0]&nbsp;</p>
 
 <p>der Norm.</p>]]></inhalt>
 </text>
-            <text art="general feedback" id="157677009" format="html">            <inhalt/>
+            <text art="general feedback" id="157665560" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157677010" format="html">            <inhalt/>
+            <text art="correct feedback" id="157665561" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157677011" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="157665562" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157677012" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="157665563" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157677013" format="html">            <inhalt/>
+            <text art="grader info" id="157665564" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157677014</id>
+               <id>157665565</id>
                <grade>1</grade>
                <mode>3</mode>
                <name><![CDATA[Q0]]></name>
@@ -3564,7 +3545,7 @@ N14 : vget(Nr,13)
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157677015</id>
+                  <id>157665566</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[das Ausgabedatum]]></text>
@@ -3577,7 +3558,7 @@ N14 : vget(Nr,13)
                   <einheit/>
                </answer>
                <answer>
-                  <id>157677016</id>
+                  <id>157665567</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[das Ablaufdatum]]></text>
@@ -3590,7 +3571,7 @@ N14 : vget(Nr,13)
                   <einheit/>
                </answer>
                <answer>
-                  <id>157677017</id>
+                  <id>157665569</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[die Nummer der Nachfolgenorm]]></text>
@@ -3603,7 +3584,7 @@ N14 : vget(Nr,13)
                   <einheit/>
                </answer>
                <answer>
-                  <id>157677018</id>
+                  <id>157665573</id>
                   <fraction>-100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[die Nummer der Vorgängernorm]]></text>

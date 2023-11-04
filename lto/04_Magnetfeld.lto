@@ -4,10 +4,9 @@
       <name><![CDATA[4 Magnetfeld]]></name>
       <idSchule>0</idSchule>
       <question type="MoodleClozeCalc">
-         <id>157677020</id>
+         <id>157665575</id>
          <idUser>1836</idUser>
          <questionType>22</questionType>
-         <single>2</single>
          <name><![CDATA[Einheiten]]></name>
          <punkte>1</punkte>
          <penalty/>
@@ -41,22 +40,22 @@
          <addDocumentsPossible>false</addDocumentsPossible>
          <info/>
          <randomDataset>false</randomDataset>
-         <text art="Questiontext" id="157677021" format="html">         <inhalt><![CDATA[<p>Weisen Sie den angegebenen physikalischen Gr&ouml;&szlig;en die korrekte SI-Einheit zu:</p>
+         <text art="Questiontext" id="157665576" format="html">         <inhalt><![CDATA[<p>Weisen Sie den angegebenen physikalischen Gr&ouml;&szlig;en die korrekte SI-Einheit zu:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-         <text art="general feedback" id="157677022" format="html">         <inhalt/>
+         <text art="general feedback" id="157665577" format="html">         <inhalt/>
 </text>
-         <text art="correct feedback" id="157677023" format="html">         <inhalt/>
+         <text art="correct feedback" id="157665578" format="html">         <inhalt/>
 </text>
-         <text art="partially correct feedback" id="157677024" format="html">         <inhalt/>
+         <text art="partially correct feedback" id="157665579" format="html">         <inhalt/>
 </text>
-         <text art="incorrect feedback" id="157677025" format="html">         <inhalt/>
+         <text art="incorrect feedback" id="157665580" format="html">         <inhalt/>
 </text>
-         <text art="grader info" id="157677026" format="html">         <inhalt/>
+         <text art="grader info" id="157665581" format="html">         <inhalt/>
 </text>
          <subquestion>
-            <id>157677027</id>
+            <id>157665688</id>
             <grade>1</grade>
             <mode>8</mode>
             <name><![CDATA[Q0]]></name>
@@ -66,7 +65,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157677028</id>
+               <id>157665689</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetischer Fluss]]></text>
@@ -79,7 +78,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677029</id>
+               <id>157665690</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetische Flussdichte]]></text>
@@ -92,7 +91,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677030</id>
+               <id>157665691</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetischer Widerstand]]></text>
@@ -105,7 +104,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677031</id>
+               <id>157665692</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetischer Leitwert]]></text>
@@ -118,7 +117,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677032</id>
+               <id>157665693</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Absolute Permeabilität]]></text>
@@ -131,7 +130,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677033</id>
+               <id>157665694</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Relative Permeabilität]]></text>
@@ -144,7 +143,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677034</id>
+               <id>157665695</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Durchflutung]]></text>
@@ -157,7 +156,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677035</id>
+               <id>157665696</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetische Spannung]]></text>
@@ -170,7 +169,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677036</id>
+               <id>157665697</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetische Feldstärke]]></text>
@@ -183,7 +182,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677037</id>
+               <id>157665698</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text/>
@@ -196,7 +195,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677038</id>
+               <id>157665699</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text/>
@@ -209,7 +208,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677039</id>
+               <id>157665700</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text/>
@@ -222,7 +221,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677040</id>
+               <id>157665701</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text/>
@@ -235,7 +234,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677041</id>
+               <id>157665702</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text/>
@@ -248,7 +247,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677042</id>
+               <id>157665703</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text/>
@@ -261,7 +260,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677043</id>
+               <id>157665704</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text/>
@@ -274,7 +273,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677044</id>
+               <id>157665705</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text/>
@@ -289,10 +288,9 @@
          </subquestion>
       </question>
       <question type="MoodleClozeCalc">
-         <id>157677045</id>
+         <id>157665706</id>
          <idUser>1836</idUser>
          <questionType>22</questionType>
-         <single>2</single>
          <name><![CDATA[Formelzeichen]]></name>
          <punkte>1</punkte>
          <penalty/>
@@ -326,22 +324,22 @@
          <addDocumentsPossible>false</addDocumentsPossible>
          <info/>
          <randomDataset>false</randomDataset>
-         <text art="Questiontext" id="157677046" format="html">         <inhalt><![CDATA[<p>Weisen Sie den angegebenen physikalischen Gr&ouml;&szlig;en die korrekten Formelzeichen zu:</p>
+         <text art="Questiontext" id="157665707" format="html">         <inhalt><![CDATA[<p>Weisen Sie den angegebenen physikalischen Gr&ouml;&szlig;en die korrekten Formelzeichen zu:</p>
 
 <p>[Q0]&nbsp;</p>]]></inhalt>
 </text>
-         <text art="general feedback" id="157677047" format="html">         <inhalt/>
+         <text art="general feedback" id="157665708" format="html">         <inhalt/>
 </text>
-         <text art="correct feedback" id="157677048" format="html">         <inhalt/>
+         <text art="correct feedback" id="157665709" format="html">         <inhalt/>
 </text>
-         <text art="partially correct feedback" id="157677049" format="html">         <inhalt/>
+         <text art="partially correct feedback" id="157665710" format="html">         <inhalt/>
 </text>
-         <text art="incorrect feedback" id="157677050" format="html">         <inhalt/>
+         <text art="incorrect feedback" id="157665711" format="html">         <inhalt/>
 </text>
-         <text art="grader info" id="157677051" format="html">         <inhalt/>
+         <text art="grader info" id="157665712" format="html">         <inhalt/>
 </text>
          <subquestion>
-            <id>157677052</id>
+            <id>157665713</id>
             <grade>1</grade>
             <mode>8</mode>
             <name><![CDATA[Q0]]></name>
@@ -351,7 +349,7 @@
             <shuffleAnswers>1</shuffleAnswers>
             <schwierigkeit>0</schwierigkeit>
             <answer>
-               <id>157677053</id>
+               <id>157665714</id>
                <fraction>100</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetischer Fluss]]></text>
@@ -364,7 +362,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677054</id>
+               <id>157665715</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetische Flussdichte]]></text>
@@ -377,7 +375,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677055</id>
+               <id>157665716</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetischer Widerstand]]></text>
@@ -390,7 +388,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677056</id>
+               <id>157665717</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetischer Leitwert]]></text>
@@ -403,7 +401,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677057</id>
+               <id>157665718</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Absolute Permeabilität]]></text>
@@ -416,7 +414,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677058</id>
+               <id>157665719</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Relative Permeabilität]]></text>
@@ -429,7 +427,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677059</id>
+               <id>157665720</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Durchflutung]]></text>
@@ -442,7 +440,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677060</id>
+               <id>157665721</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetische Spannung]]></text>
@@ -455,7 +453,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677061</id>
+               <id>157665722</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetische Feldstärke]]></text>
@@ -468,7 +466,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677062</id>
+               <id>157665723</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text><![CDATA[Magnetischer Verkettungsfluss]]></text>
@@ -481,7 +479,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677063</id>
+               <id>157665724</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text/>
@@ -494,7 +492,7 @@
                <einheit/>
             </answer>
             <answer>
-               <id>157677064</id>
+               <id>157665725</id>
                <fraction>0</fraction>
                <format><![CDATA[html]]></format>
                <text/>
