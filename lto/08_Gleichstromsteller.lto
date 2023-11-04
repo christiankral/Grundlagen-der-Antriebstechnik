@@ -7,10 +7,9 @@
          <name><![CDATA[8.1 Tiefsetzsteller]]></name>
          <idSchule>0</idSchule>
          <question type="MoodleMatching">
-            <id>157689941</id>
+            <id>27702436</id>
             <idUser>6873173</idUser>
             <questionType>18</questionType>
-            <single>2</single>
             <name><![CDATA[Tiefsetzsteller 1]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -46,7 +45,7 @@
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157689944" format="html">
+            <text art="Questiontext" id="27702437" format="html">
                            <inhalt><![CDATA[<h3>Tiefsetzsteller 1</h3>
 
 <p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine.</p>
@@ -56,40 +55,40 @@
 
 <p>Ordnen Sie den nachfolgenden Spannungen die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
 
-               <file filename="Tiefsetzsteller_solo.png" id="157689945" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+               <file filename="Tiefsetzsteller_solo.png" id="158656538" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
                </file>
-               <file filename="020_U1_Udc_OK_p0.png" id="157689946" md5="2e75168d49adae490d3e3c1ca1db292" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                  <webPath><![CDATA[https://letto.tgm.ac.at/images/2e/2e75168d49adae490d3e3c1ca1db292.png]]></webPath>
+               <file filename="020_U1_Udc_OK_p0.png" id="158656539" md5="fab45e379d353451abdd12c1b35172d8" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/fa/fab45e379d353451abdd12c1b35172d8.png]]></webPath>
                </file>
-               <file filename="020_U2_Ud_OK_n0.png" id="157689947" md5="d76fc3b9aaca1cb9711270512176dc" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                  <webPath><![CDATA[https://letto.tgm.ac.at/images/d7/d76fc3b9aaca1cb9711270512176dc.png]]></webPath>
+               <file filename="020_U2_Ud_OK_n0.png" id="158656540" md5="4bdfeb99736e15ccf2d168affb43bba9" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/4b/4bdfeb99736e15ccf2d168affb43bba9.png]]></webPath>
                </file>
-               <file filename="020_U3_Uv_0p.png" id="157689948" md5="aaa65434fc3d97ecd1ec36d7e643f57" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                  <webPath><![CDATA[https://letto.tgm.ac.at/images/aa/aaa65434fc3d97ecd1ec36d7e643f57.png]]></webPath>
+               <file filename="020_U3_Uv_0p.png" id="158656541" md5="a41130c46c1334812b02df8765e319" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/a4/a41130c46c1334812b02df8765e319.png]]></webPath>
                </file>
-               <file filename="020_U4_np.png" id="157689949" md5="47a9da96716f2dd5bfb6d39965f35e" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                  <webPath><![CDATA[https://letto.tgm.ac.at/images/47/47a9da96716f2dd5bfb6d39965f35e.png]]></webPath>
+               <file filename="020_U4_np.png" id="158656542" md5="c0f3a8fb278e4a0274b8112f081bfac" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/c0/c0f3a8fb278e4a0274b8112f081bfac.png]]></webPath>
                </file>
-               <file filename="020_U5_0n.png" id="157689950" md5="ab961e2d9c2ae34bf311941e491747" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                  <webPath><![CDATA[https://letto.tgm.ac.at/images/ab/ab961e2d9c2ae34bf311941e491747.png]]></webPath>
+               <file filename="020_U5_0n.png" id="158656543" md5="463a4b35f6ff17374d29361ab2b42c" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/46/463a4b35f6ff17374d29361ab2b42c.png]]></webPath>
                </file>
-               <file filename="020_U6_pn.png" id="157689951" md5="39a42b21e8408f6de0feffd222a1bb0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                  <webPath><![CDATA[https://letto.tgm.ac.at/images/39/39a42b21e8408f6de0feffd222a1bb0.png]]></webPath>
+               <file filename="020_U6_pn.png" id="158656544" md5="46bab2efa3755bf6411495be10eec0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                  <webPath><![CDATA[https://letto.tgm.ac.at/images/46/46bab2efa3755bf6411495be10eec0.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157689952" format="html">            <inhalt/>
+            <text art="general feedback" id="27702438" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157689953" format="html">            <inhalt/>
+            <text art="correct feedback" id="27702439" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157689954" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="27702440" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157689955" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="27702441" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157689956" format="html">            <inhalt/>
+            <text art="grader info" id="27702442" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157689957</id>
+               <id>27702443</id>
                <grade>1</grade>
                <mode>8</mode>
                <name/>
@@ -99,7 +98,7 @@
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>2</schwierigkeit>
                <answer>
-                  <id>157689958</id>
+                  <id>27704853</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$u_d$]]></text>
@@ -112,7 +111,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157689959</id>
+                  <id>27704854</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -125,7 +124,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157689960</id>
+                  <id>27704855</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$u_{T}$]]></text>
@@ -138,7 +137,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157689961</id>
+                  <id>27705014</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -151,7 +150,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157689962</id>
+                  <id>27705015</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -164,7 +163,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157689963</id>
+                  <id>27705016</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -178,7 +177,7 @@
                </answer>
             </subquestion>
             <dataset>
-               <id>157689943</id>
+               <id>27705166</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -194,10 +193,9 @@
             </dataset>
          </question>
          <question type="MoodleMatching">
-            <id>157689964</id>
+            <id>12903716</id>
             <idUser>6873173</idUser>
             <questionType>18</questionType>
-            <single>2</single>
             <name><![CDATA[Tiefsetzsteller 2]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -233,7 +231,7 @@
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157689967" format="html">
+            <text art="Questiontext" id="12903718" format="html">
                            <inhalt><![CDATA[<h3>Grundlegende Aufgabe</h3>
 
 <p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine, die n&auml;herungsweise &uuml;ber eine Stromquelle idealisiert wird. Das bedeutet, dass der Strom $I_\mathrm{dc}$ durch die Gleichstrommaschine konstant ist.&nbsp;</p>
@@ -243,40 +241,40 @@
 
 <p>Ordnen Sie den nachfolgenden Spannungen die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
 
-               <file filename="Tiefsetzsteller_solo.png" id="157689968" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+               <file filename="Tiefsetzsteller_solo.png" id="157485305" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
                </file>
-               <file filename="040_U1_Udc_OK_p0.png" id="157689969" md5="4fbefe2596dd1421ba13a266e03348" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_U1_Udc_OK_p0.png" id="157485306" md5="4fbefe2596dd1421ba13a266e03348" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/4f/4fbefe2596dd1421ba13a266e03348.png]]></webPath>
                </file>
-               <file filename="040_U2_Ud_OK_n0.png" id="157689970" md5="f5869984447233689b37ea951933d7b" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_U2_Ud_OK_n0.png" id="157485307" md5="f5869984447233689b37ea951933d7b" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/f5/f5869984447233689b37ea951933d7b.png]]></webPath>
                </file>
-               <file filename="040_U3_Uv_0p.png" id="157689971" md5="e1e989a84565e7a96c1d8b803e5e1c" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_U3_Uv_0p.png" id="157485308" md5="e1e989a84565e7a96c1d8b803e5e1c" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/e1/e1e989a84565e7a96c1d8b803e5e1c.png]]></webPath>
                </file>
-               <file filename="040_U4_np.png" id="157689972" md5="aab81bc671f3cb21b577951fb1e880bc" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_U4_np.png" id="157485309" md5="aab81bc671f3cb21b577951fb1e880bc" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/aa/aab81bc671f3cb21b577951fb1e880bc.png]]></webPath>
                </file>
-               <file filename="040_U5_0n.png" id="157689973" md5="b958f12996c224a14dd2f2f561f4e7" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_U5_0n.png" id="157485310" md5="b958f12996c224a14dd2f2f561f4e7" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/b9/b958f12996c224a14dd2f2f561f4e7.png]]></webPath>
                </file>
-               <file filename="040_U6_pn.png" id="157689974" md5="17a23619b8dc02ea25ee5ae4b0dd70" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_U6_pn.png" id="157485311" md5="17a23619b8dc02ea25ee5ae4b0dd70" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/17/17a23619b8dc02ea25ee5ae4b0dd70.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157689975" format="html">            <inhalt/>
+            <text art="general feedback" id="12903728" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157689976" format="html">            <inhalt/>
+            <text art="correct feedback" id="12903729" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157689977" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="12903730" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157689978" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="12903731" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157689979" format="html">            <inhalt/>
+            <text art="grader info" id="12903732" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157689980</id>
+               <id>12903733</id>
                <grade>1</grade>
                <mode>8</mode>
                <name/>
@@ -286,7 +284,7 @@
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>2</schwierigkeit>
                <answer>
-                  <id>157689981</id>
+                  <id>12903734</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$u_d$]]></text>
@@ -299,7 +297,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157689982</id>
+                  <id>12903735</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -312,7 +310,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157689983</id>
+                  <id>12903736</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$u_T$]]></text>
@@ -325,7 +323,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157689984</id>
+                  <id>12903737</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -338,7 +336,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157689985</id>
+                  <id>12903738</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -351,7 +349,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157689986</id>
+                  <id>12903739</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -365,7 +363,7 @@
                </answer>
             </subquestion>
             <dataset>
-               <id>157689966</id>
+               <id>12903717</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -381,10 +379,9 @@
             </dataset>
          </question>
          <question type="MoodleMatching">
-            <id>157689987</id>
+            <id>12905394</id>
             <idUser>6873173</idUser>
             <questionType>18</questionType>
-            <single>2</single>
             <name><![CDATA[Tiefsetzsteller 3]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -420,7 +417,7 @@
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157689990" format="html">
+            <text art="Questiontext" id="12905396" format="html">
                            <inhalt><![CDATA[<h3>Grundlegende Aufgabe</h3>
 
 <p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine, die n&auml;herungsweise &uuml;ber eine Stromquelle idealisiert wird. Das bedeutet, dass der Strom $I_\mathrm{dc}$ durch die Gleichstrommaschine konstant ist.&nbsp;</p>
@@ -430,40 +427,40 @@
 
 <p>Ordnen Sie den nachfolgenden Spannungen die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
 
-               <file filename="Tiefsetzsteller_solo.png" id="157689991" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+               <file filename="Tiefsetzsteller_solo.png" id="157485322" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
                </file>
-               <file filename="060_U1_Udc_OK_p0.png" id="157689992" md5="9499d8748b887fec45d3c517ffd4b" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_U1_Udc_OK_p0.png" id="157485323" md5="9499d8748b887fec45d3c517ffd4b" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/94/9499d8748b887fec45d3c517ffd4b.png]]></webPath>
                </file>
-               <file filename="060_U2_Ud_OK_n0.png" id="157689993" md5="3a6c3524b62d30d1f9c81434295672d7" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_U2_Ud_OK_n0.png" id="157485324" md5="3a6c3524b62d30d1f9c81434295672d7" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/3a/3a6c3524b62d30d1f9c81434295672d7.png]]></webPath>
                </file>
-               <file filename="060_U3_Uv_0p.png" id="157689994" md5="14d1837b3cb824132aa427d75d6c224" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_U3_Uv_0p.png" id="157485325" md5="14d1837b3cb824132aa427d75d6c224" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/14/14d1837b3cb824132aa427d75d6c224.png]]></webPath>
                </file>
-               <file filename="060_U4_np.png" id="157689995" md5="5353182788619815576da8bd4091903d" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_U4_np.png" id="157485326" md5="5353182788619815576da8bd4091903d" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/53/5353182788619815576da8bd4091903d.png]]></webPath>
                </file>
-               <file filename="060_U5_0n.png" id="157689996" md5="5f384f9829893369fdc129b418bc9df" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_U5_0n.png" id="157485327" md5="5f384f9829893369fdc129b418bc9df" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/5f/5f384f9829893369fdc129b418bc9df.png]]></webPath>
                </file>
-               <file filename="060_U6_pn.png" id="157689997" md5="d1dbc142f8bc6d2b8f6c4c7eee55a9" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_U6_pn.png" id="157485328" md5="d1dbc142f8bc6d2b8f6c4c7eee55a9" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/d1/d1dbc142f8bc6d2b8f6c4c7eee55a9.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157689998" format="html">            <inhalt/>
+            <text art="general feedback" id="12905404" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157689999" format="html">            <inhalt/>
+            <text art="correct feedback" id="12905405" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157690000" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="12905406" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157690001" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="12905407" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157690002" format="html">            <inhalt/>
+            <text art="grader info" id="12905408" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157690003</id>
+               <id>12905409</id>
                <grade>1</grade>
                <mode>8</mode>
                <name/>
@@ -473,7 +470,7 @@
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>2</schwierigkeit>
                <answer>
-                  <id>157690004</id>
+                  <id>12905410</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$u_d$]]></text>
@@ -486,7 +483,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690005</id>
+                  <id>12905411</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -499,7 +496,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690006</id>
+                  <id>12905412</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$u_T$]]></text>
@@ -512,7 +509,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690007</id>
+                  <id>12905413</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -525,7 +522,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690008</id>
+                  <id>12905414</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -538,7 +535,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690009</id>
+                  <id>12905415</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -552,7 +549,7 @@
                </answer>
             </subquestion>
             <dataset>
-               <id>157689989</id>
+               <id>12905395</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -568,10 +565,9 @@
             </dataset>
          </question>
          <question type="MoodleMatching">
-            <id>157690010</id>
+            <id>12941911</id>
             <idUser>6873173</idUser>
             <questionType>18</questionType>
-            <single>2</single>
             <name><![CDATA[Tiefsetzsteller 4]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -607,7 +603,7 @@
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157690013" format="html">
+            <text art="Questiontext" id="12941913" format="html">
                            <inhalt><![CDATA[<h3>Grundlegende Aufgabe</h3>
 
 <p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine, die n&auml;herungsweise &uuml;ber eine Stromquelle idealisiert wird. Das bedeutet, dass der Strom $I_\mathrm{dc}$ durch die Gleichstrommaschine konstant ist.&nbsp;</p>
@@ -617,40 +613,40 @@
 
 <p>Ordnen Sie den nachfolgenden Spannungen die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
 
-               <file filename="Tiefsetzsteller_solo.png" id="157690014" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+               <file filename="Tiefsetzsteller_solo.png" id="157485345" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
                </file>
-               <file filename="080_U1_Udc_OK_p0.png" id="157690015" md5="34c5a14e41442cc89645c1a18ccd3de" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_U1_Udc_OK_p0.png" id="157485346" md5="34c5a14e41442cc89645c1a18ccd3de" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/34/34c5a14e41442cc89645c1a18ccd3de.png]]></webPath>
                </file>
-               <file filename="080_U2_Ud_OK_n0.png" id="157690016" md5="256d23bfe0c4a8da4ececcb351f711e1" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_U2_Ud_OK_n0.png" id="157485347" md5="256d23bfe0c4a8da4ececcb351f711e1" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/25/256d23bfe0c4a8da4ececcb351f711e1.png]]></webPath>
                </file>
-               <file filename="080_U3_Uv_0p.png" id="157690017" md5="3fc57356abb3482dbc5caeae96b213" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_U3_Uv_0p.png" id="157485348" md5="3fc57356abb3482dbc5caeae96b213" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/3f/3fc57356abb3482dbc5caeae96b213.png]]></webPath>
                </file>
-               <file filename="080_U4_np.png" id="157690018" md5="1a18aa82b1e09d616ea51b5620f0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_U4_np.png" id="157485349" md5="1a18aa82b1e09d616ea51b5620f0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/1a/1a18aa82b1e09d616ea51b5620f0.png]]></webPath>
                </file>
-               <file filename="080_U5_0n.png" id="157690019" md5="a5a61b994ec6759eca64d657605957e5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_U5_0n.png" id="157485350" md5="a5a61b994ec6759eca64d657605957e5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/a5/a5a61b994ec6759eca64d657605957e5.png]]></webPath>
                </file>
-               <file filename="080_U6_pn.png" id="157690020" md5="3f105ee26f484eec131ac815fce6593" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_U6_pn.png" id="157485351" md5="3f105ee26f484eec131ac815fce6593" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/3f/3f105ee26f484eec131ac815fce6593.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157690021" format="html">            <inhalt/>
+            <text art="general feedback" id="12941921" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157690022" format="html">            <inhalt/>
+            <text art="correct feedback" id="12941922" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157690023" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="12941923" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157690024" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="12941924" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157690025" format="html">            <inhalt/>
+            <text art="grader info" id="12941925" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157690026</id>
+               <id>12941926</id>
                <grade>1</grade>
                <mode>8</mode>
                <name/>
@@ -660,7 +656,7 @@
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>2</schwierigkeit>
                <answer>
-                  <id>157690027</id>
+                  <id>12941927</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$u_d$]]></text>
@@ -673,7 +669,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690028</id>
+                  <id>12941928</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -686,7 +682,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690029</id>
+                  <id>12941929</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$u_T$]]></text>
@@ -699,7 +695,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690030</id>
+                  <id>12941930</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -712,7 +708,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690031</id>
+                  <id>12941931</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -725,7 +721,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690032</id>
+                  <id>12941932</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -739,7 +735,7 @@
                </answer>
             </subquestion>
             <dataset>
-               <id>157690012</id>
+               <id>12941912</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -755,10 +751,9 @@
             </dataset>
          </question>
          <question type="MoodleMatching">
-            <id>157690033</id>
+            <id>12942106</id>
             <idUser>6873173</idUser>
             <questionType>18</questionType>
-            <single>2</single>
             <name><![CDATA[Tiefsetzsteller 5]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -794,7 +789,7 @@
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157690036" format="html">
+            <text art="Questiontext" id="12942108" format="html">
                            <inhalt><![CDATA[<h2>Tiefsetzsteller</h2>
 
 <p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine. Der Strom $i_a$ kann&nbsp;n&auml;herungsweise als konstanter Gleichstrom mit $i_a = I_\mathrm{dc}$ angesehen werden.&nbsp;</p>
@@ -804,40 +799,40 @@
 
 <p>Ordnen Sie den nachfolgenden Str&ouml;men die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
 
-               <file filename="Tiefsetzsteller_solo.png" id="157690037" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+               <file filename="Tiefsetzsteller_solo.png" id="157485362" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
                </file>
-               <file filename="020_I1_Iv_OK_p0.png" id="157690038" md5="5c4f1effc6c67bf8713b7366c3d94d70" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="020_I1_Iv_OK_p0.png" id="157485363" md5="5c4f1effc6c67bf8713b7366c3d94d70" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/5c/5c4f1effc6c67bf8713b7366c3d94d70.png]]></webPath>
                </file>
-               <file filename="020_I2_Id_OK_0p.png" id="157690039" md5="d8ca3c489584e8aa878a26a863965a" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="020_I2_Id_OK_0p.png" id="157485364" md5="d8ca3c489584e8aa878a26a863965a" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/d8/d8ca3c489584e8aa878a26a863965a.png]]></webPath>
                </file>
-               <file filename="020_I3_pn.png" id="157690040" md5="cb9f65bfe71e7fb4228ff5ea6250a2" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="020_I3_pn.png" id="157485365" md5="cb9f65bfe71e7fb4228ff5ea6250a2" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/cb/cb9f65bfe71e7fb4228ff5ea6250a2.png]]></webPath>
                </file>
-               <file filename="020_I4_np.png" id="157690041" md5="e527a17151531c25886809be7f3d429" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="020_I4_np.png" id="157485366" md5="e527a17151531c25886809be7f3d429" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/e5/e527a17151531c25886809be7f3d429.png]]></webPath>
                </file>
-               <file filename="020_I5_n0.png" id="157690042" md5="1671e6856eb5bf09e645aabc7459d5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="020_I5_n0.png" id="157485367" md5="1671e6856eb5bf09e645aabc7459d5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/16/1671e6856eb5bf09e645aabc7459d5.png]]></webPath>
                </file>
-               <file filename="020_I6_0n.png" id="157690043" md5="e512cc15ea413139c12666d111f5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="020_I6_0n.png" id="157485368" md5="e512cc15ea413139c12666d111f5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/e5/e512cc15ea413139c12666d111f5.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157690044" format="html">            <inhalt/>
+            <text art="general feedback" id="12942116" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157690045" format="html">            <inhalt/>
+            <text art="correct feedback" id="12942117" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157690046" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="12942118" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157690047" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="12942119" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157690048" format="html">            <inhalt/>
+            <text art="grader info" id="12942120" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157690049</id>
+               <id>12942121</id>
                <grade>1</grade>
                <mode>8</mode>
                <name/>
@@ -847,7 +842,7 @@
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>2</schwierigkeit>
                <answer>
-                  <id>157690050</id>
+                  <id>12942122</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_T$]]></text>
@@ -860,7 +855,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690051</id>
+                  <id>12942123</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_D$]]></text>
@@ -873,7 +868,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690052</id>
+                  <id>12942124</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -886,7 +881,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690053</id>
+                  <id>12942125</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -899,7 +894,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690054</id>
+                  <id>12942126</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -912,7 +907,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690055</id>
+                  <id>12942127</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -926,7 +921,7 @@
                </answer>
             </subquestion>
             <dataset>
-               <id>157690035</id>
+               <id>12942107</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -942,10 +937,9 @@
             </dataset>
          </question>
          <question type="MoodleMatching">
-            <id>157690056</id>
+            <id>12942373</id>
             <idUser>6873173</idUser>
             <questionType>18</questionType>
-            <single>2</single>
             <name><![CDATA[Tiefsetzsteller 6]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -981,7 +975,7 @@
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157690059" format="html">
+            <text art="Questiontext" id="12942375" format="html">
                            <inhalt><![CDATA[<h2>Tiefsetzsteller</h2>
 
 <p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine. Der Strom $i_a$ kann&nbsp;n&auml;herungsweise als konstanter Gleichstrom mit $i_a = I_\mathrm{dc}$ angesehen werden.&nbsp;</p>
@@ -991,40 +985,40 @@
 
 <p>Ordnen Sie den nachfolgenden Str&ouml;men die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
 
-               <file filename="Tiefsetzsteller_solo.png" id="157690060" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+               <file filename="Tiefsetzsteller_solo.png" id="157485379" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
                </file>
-               <file filename="040_I1_Iv_OK_p0.png" id="157690061" md5="506637c9ab4d1a297ca533a5e95d62f0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_I1_Iv_OK_p0.png" id="157485380" md5="506637c9ab4d1a297ca533a5e95d62f0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/50/506637c9ab4d1a297ca533a5e95d62f0.png]]></webPath>
                </file>
-               <file filename="040_I2_Id_OK_0p.png" id="157690062" md5="734e94a7ad5eb51e162e3ab794a8d465" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_I2_Id_OK_0p.png" id="157485381" md5="734e94a7ad5eb51e162e3ab794a8d465" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/73/734e94a7ad5eb51e162e3ab794a8d465.png]]></webPath>
                </file>
-               <file filename="040_I3_pn.png" id="157690063" md5="6e7b665a631447abb3a90afcbfa506b" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_I3_pn.png" id="157485382" md5="6e7b665a631447abb3a90afcbfa506b" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/6e/6e7b665a631447abb3a90afcbfa506b.png]]></webPath>
                </file>
-               <file filename="040_I4_np.png" id="157690064" md5="3da93832e817922548a7cc46702d8d45" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_I4_np.png" id="157485383" md5="3da93832e817922548a7cc46702d8d45" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/3d/3da93832e817922548a7cc46702d8d45.png]]></webPath>
                </file>
-               <file filename="040_I5_n0.png" id="157690065" md5="181a361e117ebae6c86cfe63b37c19" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_I5_n0.png" id="157485384" md5="181a361e117ebae6c86cfe63b37c19" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/18/181a361e117ebae6c86cfe63b37c19.png]]></webPath>
                </file>
-               <file filename="040_I6_0n.png" id="157690066" md5="3d51e1e9ca87a46c15312e401277d1ce" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="040_I6_0n.png" id="157485385" md5="3d51e1e9ca87a46c15312e401277d1ce" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/3d/3d51e1e9ca87a46c15312e401277d1ce.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157690067" format="html">            <inhalt/>
+            <text art="general feedback" id="12942383" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157690068" format="html">            <inhalt/>
+            <text art="correct feedback" id="12942384" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157690069" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="12942385" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157690070" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="12942386" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157690071" format="html">            <inhalt/>
+            <text art="grader info" id="12942387" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157690072</id>
+               <id>12942388</id>
                <grade>1</grade>
                <mode>8</mode>
                <name/>
@@ -1034,7 +1028,7 @@
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>2</schwierigkeit>
                <answer>
-                  <id>157690073</id>
+                  <id>12942389</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_T$]]></text>
@@ -1047,7 +1041,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690074</id>
+                  <id>12942390</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_D$]]></text>
@@ -1060,7 +1054,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690075</id>
+                  <id>12942391</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1073,7 +1067,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690076</id>
+                  <id>12942392</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1086,7 +1080,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690077</id>
+                  <id>12942393</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1099,7 +1093,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690078</id>
+                  <id>12942394</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1113,7 +1107,7 @@
                </answer>
             </subquestion>
             <dataset>
-               <id>157690058</id>
+               <id>12942374</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1129,10 +1123,9 @@
             </dataset>
          </question>
          <question type="MoodleMatching">
-            <id>157690079</id>
+            <id>12942446</id>
             <idUser>6873173</idUser>
             <questionType>18</questionType>
-            <single>2</single>
             <name><![CDATA[Tiefsetzsteller 7]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -1168,7 +1161,7 @@
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157690082" format="html">
+            <text art="Questiontext" id="12942448" format="html">
                            <inhalt><![CDATA[<h2>Tiefsetzsteller</h2>
 
 <p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine. Der Strom $i_a$ kann&nbsp;n&auml;herungsweise als konstanter Gleichstrom mit $i_a = I_\mathrm{dc}$ angesehen werden.&nbsp;</p>
@@ -1178,40 +1171,40 @@
 
 <p>Ordnen Sie den nachfolgenden Str&ouml;men die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
 
-               <file filename="Tiefsetzsteller_solo.png" id="157690083" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+               <file filename="Tiefsetzsteller_solo.png" id="157485396" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
                </file>
-               <file filename="060_I1_Iv_OK_p0.png" id="157690084" md5="63a652a67ecbeda3bb94dba86dd37bf" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_I1_Iv_OK_p0.png" id="157485397" md5="63a652a67ecbeda3bb94dba86dd37bf" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/63/63a652a67ecbeda3bb94dba86dd37bf.png]]></webPath>
                </file>
-               <file filename="060_I2_Id_OK_0p.png" id="157690085" md5="f8423d369b8b419d609d9e84d928040" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_I2_Id_OK_0p.png" id="157485398" md5="f8423d369b8b419d609d9e84d928040" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/f8/f8423d369b8b419d609d9e84d928040.png]]></webPath>
                </file>
-               <file filename="060_I3_pn.png" id="157690086" md5="9c67247b41b20842d5ee38bb77b4e8" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_I3_pn.png" id="157485399" md5="9c67247b41b20842d5ee38bb77b4e8" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/9c/9c67247b41b20842d5ee38bb77b4e8.png]]></webPath>
                </file>
-               <file filename="060_I4_np.png" id="157690087" md5="81341b858e47a856642aede9362e2c" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_I4_np.png" id="157485400" md5="81341b858e47a856642aede9362e2c" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/81/81341b858e47a856642aede9362e2c.png]]></webPath>
                </file>
-               <file filename="060_I5_n0.png" id="157690088" md5="6738fe63edbeb258682ce1bb8854d25" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_I5_n0.png" id="157485401" md5="6738fe63edbeb258682ce1bb8854d25" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/67/6738fe63edbeb258682ce1bb8854d25.png]]></webPath>
                </file>
-               <file filename="060_I6_0n.png" id="157690089" md5="2838e6450f6e0b782a8d62d78635d5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="060_I6_0n.png" id="157485402" md5="2838e6450f6e0b782a8d62d78635d5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/28/2838e6450f6e0b782a8d62d78635d5.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157690090" format="html">            <inhalt/>
+            <text art="general feedback" id="12942456" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157690091" format="html">            <inhalt/>
+            <text art="correct feedback" id="12942457" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157690092" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="12942458" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157690093" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="12942459" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157690094" format="html">            <inhalt/>
+            <text art="grader info" id="12942460" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157690095</id>
+               <id>12942461</id>
                <grade>1</grade>
                <mode>8</mode>
                <name/>
@@ -1221,7 +1214,7 @@
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>2</schwierigkeit>
                <answer>
-                  <id>157690096</id>
+                  <id>12942462</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_T$]]></text>
@@ -1234,7 +1227,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690097</id>
+                  <id>12942463</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_D$]]></text>
@@ -1247,7 +1240,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690098</id>
+                  <id>12942464</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1260,7 +1253,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690099</id>
+                  <id>12942465</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1273,7 +1266,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690100</id>
+                  <id>12942466</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1286,7 +1279,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690101</id>
+                  <id>12942467</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1300,7 +1293,7 @@
                </answer>
             </subquestion>
             <dataset>
-               <id>157690081</id>
+               <id>12942447</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1316,10 +1309,9 @@
             </dataset>
          </question>
          <question type="MoodleMatching">
-            <id>157690102</id>
+            <id>12942786</id>
             <idUser>6873173</idUser>
             <questionType>18</questionType>
-            <single>2</single>
             <name><![CDATA[Tiefsetzsteller 8]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -1355,7 +1347,7 @@
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157690105" format="html">
+            <text art="Questiontext" id="12942788" format="html">
                            <inhalt><![CDATA[<h2>Tiefsetzsteller</h2>
 
 <p>Gegeben ist ein Tiefsetzsteller der mit der&nbsp;konstanten Spannung $U$ betrieben wird. Der Tiefsetzsteller betreibt eine Gleichstrommaschine. Der Strom $i_a$ kann&nbsp;n&auml;herungsweise als konstanter Gleichstrom mit $i_a = I_\mathrm{dc}$ angesehen werden.&nbsp;</p>
@@ -1365,40 +1357,40 @@
 
 <p>Ordnen Sie den nachfolgenden Str&ouml;men die korrekten Kurvenverl&auml;ufe zu, wobei $t$ die Zeit und&nbsp; $T$ die Periodendauer des Schaltmusters ist. Der Duty-Cycle betr&auml;gt {d,%}.</p>]]></inhalt>
 
-               <file filename="Tiefsetzsteller_solo.png" id="157690106" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+               <file filename="Tiefsetzsteller_solo.png" id="157485419" md5="3628d044bbc6e6126688d85bc6bef92d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3628d044bbc6e6126688d85bc6bef92d.png]]></webPath>
                </file>
-               <file filename="080_I1_Iv_OK_p0.png" id="157690107" md5="eec454787108172f638bd14bac9b3" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_I1_Iv_OK_p0.png" id="157485420" md5="eec454787108172f638bd14bac9b3" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/ee/eec454787108172f638bd14bac9b3.png]]></webPath>
                </file>
-               <file filename="080_I2_Id_OK_0p.png" id="157690108" md5="b26fad86e1b96fb978fb94ed4062178e" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_I2_Id_OK_0p.png" id="157485421" md5="b26fad86e1b96fb978fb94ed4062178e" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/b2/b26fad86e1b96fb978fb94ed4062178e.png]]></webPath>
                </file>
-               <file filename="080_I3_pn.png" id="157690109" md5="e2ff8bc83434bfad2421bc508a51653c" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_I3_pn.png" id="157485422" md5="e2ff8bc83434bfad2421bc508a51653c" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/e2/e2ff8bc83434bfad2421bc508a51653c.png]]></webPath>
                </file>
-               <file filename="080_I4_np.png" id="157690110" md5="25c8ecb9fc881227d881bca3daad6c9" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_I4_np.png" id="157485423" md5="25c8ecb9fc881227d881bca3daad6c9" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/25/25c8ecb9fc881227d881bca3daad6c9.png]]></webPath>
                </file>
-               <file filename="080_I5_n0.png" id="157690111" md5="a1a88b20c130861fede8dfc5b6b6f1bd" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_I5_n0.png" id="157485424" md5="a1a88b20c130861fede8dfc5b6b6f1bd" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/a1/a1a88b20c130861fede8dfc5b6b6f1bd.png]]></webPath>
                </file>
-               <file filename="080_I6_0n.png" id="157690112" md5="1db38c75ee1aa9f10effac1a8cf756" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+               <file filename="080_I6_0n.png" id="157485425" md5="1db38c75ee1aa9f10effac1a8cf756" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/1d/1db38c75ee1aa9f10effac1a8cf756.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157690113" format="html">            <inhalt/>
+            <text art="general feedback" id="12942796" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157690114" format="html">            <inhalt/>
+            <text art="correct feedback" id="12942797" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157690115" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="12942798" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157690116" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="12942799" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157690117" format="html">            <inhalt/>
+            <text art="grader info" id="12942800" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157690118</id>
+               <id>12942801</id>
                <grade>1</grade>
                <mode>8</mode>
                <name/>
@@ -1408,7 +1400,7 @@
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>2</schwierigkeit>
                <answer>
-                  <id>157690119</id>
+                  <id>12942802</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_T$]]></text>
@@ -1421,7 +1413,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690120</id>
+                  <id>12942803</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[$i_D$]]></text>
@@ -1434,7 +1426,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690121</id>
+                  <id>12942804</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1447,7 +1439,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690122</id>
+                  <id>12942805</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1460,7 +1452,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690123</id>
+                  <id>12942806</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1473,7 +1465,7 @@
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690124</id>
+                  <id>12942807</id>
                   <fraction>0</fraction>
                   <format><![CDATA[html]]></format>
                   <text/>
@@ -1487,7 +1479,7 @@
                </answer>
             </subquestion>
             <dataset>
-               <id>157690104</id>
+               <id>12942787</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1507,10 +1499,9 @@
          <name><![CDATA[8.2 H-Brücke]]></name>
          <idSchule>0</idSchule>
          <question type="MoodleClozeCalc">
-            <id>157690215</id>
+            <id>22377639</id>
             <idUser>1836</idUser>
             <questionType>22</questionType>
-            <single>2</single>
             <name><![CDATA[Duty cycle 1]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -1548,34 +1539,34 @@ Uavg : Umax * (2 * d - 1) ]]></maxima>
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157690219" format="html">
+            <text art="Questiontext" id="22377642" format="html">
                            <inhalt><![CDATA[<h2>Tastverh&auml;ltnis</h2>
 
 <p>[IMG0]<br/>
 <strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
 
-<p>Gegeben ist der Verlauf des Mittelwerts der Ausgansspannung $\overline {u_{12}}$ als Funktion des Tastverh&auml;ltnisses $d$, wobei die Ausgangsspannung den Bereich ${=-Umax} \le u_\mathrm{avg} \le {=Umax}$ umfasst:</p>
+<p>Gegeben ist der Verlauf des Mittelwerts der Ausgangsspannung $\overline {u_{12}}$ als Funktion des Tastverh&auml;ltnisses $d$, wobei die Ausgangsspannung den Bereich ${=-Umax} \le u_\mathrm{avg} \le {=Umax}$ umfasst:</p>
 
 <p>[PIG Plugin1 "w100"/]</p>
 
 <p>Bestimmen Sie f&uuml;r das Tastverh&auml;ltnis&nbsp;$d = {=d,4}$ den Mittelwert der Ausgangsspannung&nbsp;$\overline {u_{12}} = $ [Q0]&nbsp;mit 1% Genauigkeit</p>]]></inhalt>
 
-               <file filename="HBruecke.png" id="157690220" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+               <file filename="HBruecke.png" id="158656549" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/57/57aaecc7cd8789e5a26c3ce01a71fa4c.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157690221" format="html">            <inhalt/>
+            <text art="general feedback" id="22377643" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157690222" format="html">            <inhalt/>
+            <text art="correct feedback" id="22377644" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157690223" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="22377645" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157690224" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="22377646" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157690225" format="html">            <inhalt/>
+            <text art="grader info" id="22377647" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157690226</id>
+               <id>22377648</id>
                <grade>1</grade>
                <mode>4</mode>
                <name><![CDATA[Q0]]></name>
@@ -1585,7 +1576,7 @@ Uavg : Umax * (2 * d - 1) ]]></maxima>
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157690227</id>
+                  <id>22377649</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[Umax*(2*d-1)]]></text>
@@ -1599,7 +1590,7 @@ Uavg : Umax * (2 * d - 1) ]]></maxima>
                </answer>
             </subquestion>
             <dataset>
-               <id>157690217</id>
+               <id>22377640</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[Umax]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1614,7 +1605,7 @@ Uavg : Umax * (2 * d - 1) ]]></maxima>
                <items><![CDATA[135;135;135;165;48;135;225;165;235;165;135;135;48;165;135;165;48;135;135;165;165;225;165;225;48;48;235;48;165;135;165;165;165;135;225;135;225;235;235;165]]></items>
             </dataset>
             <dataset>
-               <id>157690218</id>
+               <id>22377641</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1630,10 +1621,9 @@ Uavg : Umax * (2 * d - 1) ]]></maxima>
             </dataset>
          </question>
          <question type="MoodleClozeCalc">
-            <id>157690228</id>
+            <id>22377628</id>
             <idUser>1836</idUser>
             <questionType>22</questionType>
-            <single>2</single>
             <name><![CDATA[Duty cycle 2]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -1671,34 +1661,34 @@ Uavg : Umax * (2 * d - 1)]]></maxima>
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157690232" format="html">
+            <text art="Questiontext" id="22377631" format="html">
                            <inhalt><![CDATA[<h2>Tastverh&auml;ltnis</h2>
 
 <p>[IMG0]<br/>
 <strong>Bild:</strong>&nbsp;&copy; Christian Kral (aus "Grundlagen der Antriebstechnik", Carl Hanser Verlag 2023)</p>
 
-<p>Gegeben ist der Verlauf des Mittelwerts der Ausgansspannung $\overline {u_{12}}$ als Funktion des Tastverh&auml;ltnisses $d$, wobei die Ausgangsspannung den Bereich ${=-Umax} \le \overline {u_{12}} \le {=Umax}$ umfasst:</p>
+<p>Gegeben ist der Verlauf des Mittelwerts der Ausgangsspannung $\overline {u_{12}}$ als Funktion des Tastverh&auml;ltnisses $d$, wobei die Ausgangsspannung den Bereich ${=-Umax} \le \overline {u_{12}} \le {=Umax}$ umfasst:</p>
 
 <p>[PIG Plugin1 "w100"/]</p>
 
 <p>Bestimmen Sie f&uuml;r&nbsp;den Mittelwert der Ausgangsspannung $\overline {u_{12}} = {=Uavg,4}$ das Tastverh&auml;ltnis&nbsp;$d=$ [Q0]&nbsp;mit 1% Genauigkeit</p>]]></inhalt>
 
-               <file filename="HBruecke.png" id="157690233" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+               <file filename="HBruecke.png" id="158656554" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/57/57aaecc7cd8789e5a26c3ce01a71fa4c.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157690234" format="html">            <inhalt/>
+            <text art="general feedback" id="22377632" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157690235" format="html">            <inhalt/>
+            <text art="correct feedback" id="22377633" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157690236" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="22377634" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157690237" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="22377635" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157690238" format="html">            <inhalt/>
+            <text art="grader info" id="22377636" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157690239</id>
+               <id>22377637</id>
                <grade>1</grade>
                <mode>4</mode>
                <name><![CDATA[Q0]]></name>
@@ -1708,7 +1698,7 @@ Uavg : Umax * (2 * d - 1)]]></maxima>
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157690240</id>
+                  <id>22377638</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[d]]></text>
@@ -1722,7 +1712,7 @@ Uavg : Umax * (2 * d - 1)]]></maxima>
                </answer>
             </subquestion>
             <dataset>
-               <id>157690230</id>
+               <id>22377629</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[Umax]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1737,7 +1727,7 @@ Uavg : Umax * (2 * d - 1)]]></maxima>
                <items><![CDATA[135;165;235;235;165;135;135;235;165;235;235;225;135;48;135;135;165;165;235;225;235;225;135;235;235;165;165;48;165;135;225;48;225;235;135;48;135;235;48;225]]></items>
             </dataset>
             <dataset>
-               <id>157690231</id>
+               <id>22377630</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1753,10 +1743,9 @@ Uavg : Umax * (2 * d - 1)]]></maxima>
             </dataset>
          </question>
          <question type="MoodleClozeCalc">
-            <id>157690241</id>
+            <id>22377650</id>
             <idUser>1836</idUser>
             <questionType>22</questionType>
-            <single>2</single>
             <name><![CDATA[Mittelwert ua]]></name>
             <punkte>1</punkte>
             <penalty/>
@@ -1805,7 +1794,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157690248" format="html">
+            <text art="Questiontext" id="22377656" format="html">
                            <inhalt><![CDATA[<h2>Spannungsmittelwert</h2>
 
 <p>[IMG0]<br/>
@@ -1817,22 +1806,22 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
 
 <p>Bestimmen Sie den arithmetischen Mittelwert der Spannung, $\overline {u_{12}} = $ [Q0]&nbsp;</p>]]></inhalt>
 
-               <file filename="HBruecke.png" id="157690249" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+               <file filename="HBruecke.png" id="158656559" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/57/57aaecc7cd8789e5a26c3ce01a71fa4c.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157690250" format="html">            <inhalt/>
+            <text art="general feedback" id="22377657" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157690251" format="html">            <inhalt/>
+            <text art="correct feedback" id="22377658" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157690252" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="22377659" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157690253" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="22377660" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157690254" format="html">            <inhalt/>
+            <text art="grader info" id="22377661" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157690255</id>
+               <id>22377662</id>
                <grade>1</grade>
                <mode>4</mode>
                <name><![CDATA[Q0]]></name>
@@ -1842,7 +1831,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157690256</id>
+                  <id>22377663</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[Ue*(1-2*d)]]></text>
@@ -1856,7 +1845,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                </answer>
             </subquestion>
             <dataset>
-               <id>157690243</id>
+               <id>22377651</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[T]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1871,7 +1860,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <items><![CDATA[0.01;0.05;0.01;0.05;0.01;0.005;0.005;0.01;0.05;0.01;0.005;0.02;0.01;0.05;0.02;0.01;0.005;0.005;0.05;0.05;0.01;0.005;0.05;0.005;0.005;0.05;0.05;0.02;0.01;0.05;0.005;0.05;0.01;0.01;0.05;0.05;0.05;0.005;0.05;0.02]]></items>
             </dataset>
             <dataset>
-               <id>157690244</id>
+               <id>22377652</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1886,7 +1875,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <items><![CDATA[0.4;0.6;0.6;0.6;0.2;0.6;0.6;0.5;0.6;0.8;0.5;0.8;0.2;0.4;0.4;0.2;0.8;0.5;0.8;0.4;0.6;0.4;0.4;0.6;0.4;0.4;0.6;0.2;0.4;0.2;0.6;0.8;0.2;0.4;0.4;0.2;0.8;0.8;0.6;0.6]]></items>
             </dataset>
             <dataset>
-               <id>157690245</id>
+               <id>22377653</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[Ue]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1901,7 +1890,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <items><![CDATA[200;100;200;300;400;100;200;200;200;300;200;200;200;200;200;200;300;300;200;100;200;300;300;300;300;400;200;200;200;300;100;400;200;400;100;200;400;300;200;100]]></items>
             </dataset>
             <dataset>
-               <id>157690246</id>
+               <id>22377654</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[R]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1916,7 +1905,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <items><![CDATA[10;10;10;20;10;20;10;10;10;20;20;20;10;20;20;10;20;20;20;10;20;20;20;20;20;10;10;10;10;10;10;10;20;20;10;10;10;10;20;10]]></items>
             </dataset>
             <dataset>
-               <id>157690247</id>
+               <id>22377655</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[L]]></name>
                <type><![CDATA[calculated]]></type>
@@ -1932,10 +1921,9 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
             </dataset>
          </question>
          <question type="MoodleClozeCalc">
-            <id>157690257</id>
+            <id>22377664</id>
             <idUser>1836</idUser>
             <questionType>22</questionType>
-            <single>2</single>
             <name><![CDATA[Mittelwert ia]]></name>
             <punkte>3</punkte>
             <penalty/>
@@ -1984,7 +1972,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
             <randomDataset>false</randomDataset>
             <questionCommentMsg/>
             <questionCommentIcon>REVIEWED</questionCommentIcon>
-            <text art="Questiontext" id="157690264" format="html">
+            <text art="Questiontext" id="22377670" format="html">
                            <inhalt><![CDATA[<h2>Strommittelwert</h2>
 
 <p>[IMG0]<br/>
@@ -2000,22 +1988,22 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
 
 <p>(c) Bestimmen Sie den arithmetischen Mittelwert des Stroms $\overline {i_a}=$ [Q2]</p>]]></inhalt>
 
-               <file filename="HBruecke.png" id="157690265" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+               <file filename="HBruecke.png" id="158656564" md5="57aaecc7cd8789e5a26c3ce01a71fa4c" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                   <webPath><![CDATA[https://letto.tgm.ac.at/images/57/57aaecc7cd8789e5a26c3ce01a71fa4c.png]]></webPath>
                </file>
             </text>
-            <text art="general feedback" id="157690266" format="html">            <inhalt/>
+            <text art="general feedback" id="22377671" format="html">            <inhalt/>
 </text>
-            <text art="correct feedback" id="157690267" format="html">            <inhalt/>
+            <text art="correct feedback" id="22377672" format="html">            <inhalt/>
 </text>
-            <text art="partially correct feedback" id="157690268" format="html">            <inhalt/>
+            <text art="partially correct feedback" id="22377673" format="html">            <inhalt/>
 </text>
-            <text art="incorrect feedback" id="157690269" format="html">            <inhalt/>
+            <text art="incorrect feedback" id="22377674" format="html">            <inhalt/>
 </text>
-            <text art="grader info" id="157690270" format="html">            <inhalt/>
+            <text art="grader info" id="22377675" format="html">            <inhalt/>
 </text>
             <subquestion>
-               <id>157690271</id>
+               <id>22377676</id>
                <grade>1</grade>
                <mode>4</mode>
                <name><![CDATA[Q0]]></name>
@@ -2025,7 +2013,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157690272</id>
+                  <id>22377677</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[wenn(abs((T*Ue*(1-d))/L+(Ue*(1-2*d))/R)<1mA,0A,(T*Ue*(1-d))/L+(Ue*(1-2*d))/R)]]></text>
@@ -2039,7 +2027,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                </answer>
             </subquestion>
             <subquestion>
-               <id>157690273</id>
+               <id>22377678</id>
                <grade>1</grade>
                <mode>4</mode>
                <name><![CDATA[Q1]]></name>
@@ -2049,7 +2037,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157690274</id>
+                  <id>22377679</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[wenn(abs((T*Ue*d)/L+(-Ue*(1-2*d))/R)<1mA,0A,(Ue*(1-2*d))/R+(-T*Ue*d)/L)]]></text>
@@ -2063,7 +2051,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                </answer>
             </subquestion>
             <subquestion>
-               <id>157690275</id>
+               <id>22377680</id>
                <grade>1</grade>
                <mode>4</mode>
                <name><![CDATA[Q2]]></name>
@@ -2073,7 +2061,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <shuffleAnswers>1</shuffleAnswers>
                <schwierigkeit>0</schwierigkeit>
                <answer>
-                  <id>157690276</id>
+                  <id>22377681</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[1/2*((2*Ue*(1-2*d))/R+(T*Ue*(1-d))/L+(-T*Ue*d)/L)]]></text>
@@ -2086,7 +2074,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                   <einheit/>
                </answer>
                <answer>
-                  <id>157690277</id>
+                  <id>22377682</id>
                   <fraction>100</fraction>
                   <format><![CDATA[html]]></format>
                   <text><![CDATA[1/2*(Q0+Q1)]]></text>
@@ -2100,7 +2088,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                </answer>
             </subquestion>
             <dataset>
-               <id>157690259</id>
+               <id>22377665</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[T]]></name>
                <type><![CDATA[calculated]]></type>
@@ -2115,7 +2103,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <items><![CDATA[0.01;0.05;0.01;0.05;0.01;0.005;0.005;0.01;0.05;0.01;0.005;0.02;0.01;0.05;0.02;0.01;0.005;0.005;0.05;0.05;0.01;0.005;0.05;0.005;0.005;0.05;0.05;0.02;0.01;0.05;0.005;0.05;0.01;0.01;0.05;0.05;0.05;0.005;0.05;0.02]]></items>
             </dataset>
             <dataset>
-               <id>157690260</id>
+               <id>22377666</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[d]]></name>
                <type><![CDATA[calculated]]></type>
@@ -2130,7 +2118,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <items><![CDATA[0.4;0.6;0.6;0.6;0.2;0.6;0.6;0.5;0.6;0.8;0.5;0.8;0.2;0.4;0.4;0.2;0.8;0.5;0.8;0.4;0.6;0.4;0.4;0.6;0.4;0.4;0.6;0.2;0.4;0.2;0.6;0.8;0.2;0.4;0.4;0.2;0.8;0.8;0.6;0.6]]></items>
             </dataset>
             <dataset>
-               <id>157690261</id>
+               <id>22377667</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[Ue]]></name>
                <type><![CDATA[calculated]]></type>
@@ -2145,7 +2133,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <items><![CDATA[200;200;200;200;200;200;200;200;200;300;300;200;100;300;100;200;200;300;200;100;300;300;200;300;300;300;300;200;200;200;300;200;300;200;200;200;200;100;200;200]]></items>
             </dataset>
             <dataset>
-               <id>157690262</id>
+               <id>22377668</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[R]]></name>
                <type><![CDATA[calculated]]></type>
@@ -2160,7 +2148,7 @@ tua : [[0s, Ue],[0s,-Ue],[t1,-Ue],[t1,Ue],[T,Ue],[T,-Ue],[T+t1,-Ue],[T+t1,Ue],[2
                <items><![CDATA[10;10;10;20;10;20;10;10;10;20;20;20;10;20;20;10;20;20;20;10;20;20;20;20;20;10;10;10;10;10;10;10;20;20;10;10;10;10;20;10]]></items>
             </dataset>
             <dataset>
-               <id>157690263</id>
+               <id>22377669</id>
                <status><![CDATA[shared]]></status>
                <name><![CDATA[L]]></name>
                <type><![CDATA[calculated]]></type>
