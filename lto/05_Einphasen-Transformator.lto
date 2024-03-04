@@ -1278,7 +1278,7 @@
                      <id>156947856</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[so erhöht das die Herstellungskosten]]></text>
+                     <text><![CDATA[erhöht das die Herstellungskosten]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -1304,7 +1304,7 @@
                      <id>156947858</id>
                      <fraction>-100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[so verringert das die Herstellungskosten]]></text>
+                     <text><![CDATA[verringert das die Herstellungskosten]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -1393,7 +1393,7 @@ I1:-I2/n12
 S1:U1*conjugate(I1)
 S2:U2*conjugate(-I2)
 ]]></maxima>
-               <maximaAngabe><![CDATA[;::;I1:U1/(n12^2*Z2);I2:-U1/(n12*Z2);S1:U1*conjugate(U1)/(n12^2*Z2);S2:U1*conjugate(U1)/(n12^2*Z2);U2:U1/n12;]]></maximaAngabe>
+               <maximaAngabe><![CDATA[;::;I1:U1/(Z2*n12^2);I2:-(U1/(Z2*n12));S1:(U1*conjugate(U1))/(Z2*n12^2);S2:(U1*conjugate(U1))/(Z2*n12^2);U2:U1/n12;]]></maximaAngabe>
                <responseFormat><![CDATA[editor]]></responseFormat>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
@@ -1432,11 +1432,21 @@ S2:U2*conjugate(-I2)
 
 <p>(f) Bestimmen Sie die &auml;quivalente, auf die Seite 1 transformierte Impedanz $R_2^\prime = $ [Q5]&nbsp;</p>]]></inhalt>
 
-                  <file filename="TrafoIdeal_R2.png" id="156795007" md5="4db73f5233639cd6cb22ac7ee83a7666" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
+                  <file filename="TrafoIdeal_R2.png" id="158663776" md5="4db73f5233639cd6cb22ac7ee83a7666" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/4d/4db73f5233639cd6cb22ac7ee83a7666.png]]></webPath>
                   </file>
                </text>
-               <text art="general feedback" id="12257653" format="html">               <inhalt/>
+               <text art="general feedback" id="12257653" format="html">               <inhalt><![CDATA[<p>(b) Bei der Anwendung des Ohmschen Gesetzes f&uuml;r den Lastwiderstand muss ein negatives Vorzeichen ber&uuml;cksichtigt werden, da der Strom $\underline I_2$ und die Spannung $\underline U_2$ nicht die selbe Richtung aufweisen:</p>
+
+<p>$\underline I_2 = - \dfrac{\underline U_2}{R_2} = 1 \angle {=180°} \cdot \dfrac{ {=U2;poldeg}}{ {=Z2;poldeg}}$</p>
+
+<p>Dadurch unterscheiden sich der Winkel von $\underline{U}_2$ und $\underline I_2$ um {=180°}, da $-1=1\angle{=180°}$.</p>
+
+<p>(c) Das Gesetz der Stromtransformation liefert:</p>
+
+<p>$\underline I_1 = -\dfrac{\underline I_1}{n_{12}}$</p>
+
+<p>Das negative Vorzeichen f&uuml;hrt infolge von&nbsp;$-1=1\angle{=180°}$ beim Strom $\underline I_1$ zum selben Winkel wie bei den Spannungen $\underline U_1$ und $\underline U_2$.</p>]]></inhalt>
 </text>
                <text art="correct feedback" id="12257654" format="html">               <inhalt/>
 </text>
@@ -1482,7 +1492,7 @@ S2:U2*conjugate(-I2)
                      <id>12257661</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[-U1/(n12*Z2)]]></text>
+                     <text><![CDATA[-(U1/(Z2*n12))]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -1505,7 +1515,7 @@ S2:U2*conjugate(-I2)
                      <id>12257663</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[U1/(n12^2*Z2)]]></text>
+                     <text><![CDATA[U1/(Z2*n12^2)]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -1528,7 +1538,7 @@ S2:U2*conjugate(-I2)
                      <id>12257665</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[U1*conjugate(U1)/(n12^2*Z2)]]></text>
+                     <text><![CDATA[(U1*conjugate(U1))/(Z2*n12^2)]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -1551,13 +1561,13 @@ S2:U2*conjugate(-I2)
                      <id>12257667</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[U1*conjugate(U1)/(n12^2*Z2)]]></text>
+                     <text><![CDATA[(U1*conjugate(U1))/(Z2*n12^2)]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
                      <correctAnswerLength>5</correctAnswerLength>
                      <maxima><![CDATA[S2]]></maxima>
-                     <answer><![CDATA[154.09var]]></answer>
+                     <answer><![CDATA[154.09VA]]></answer>
                      <einheit/>
                   </answer>
                </subquestion>
@@ -1574,7 +1584,7 @@ S2:U2*conjugate(-I2)
                      <id>12257669</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[n12^2*Z2]]></text>
+                     <text><![CDATA[Z2*n12^2]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -2027,7 +2037,7 @@ Q0:imagpart(S0)
 
 <p>direkt aus der Serienschaltung aller Impedanzen bestimmen.</p>
 
-<hr />
+<hr/>
 <p>(b) Bestimmen Sie den Strom $\underline I_\ell$</p>
 
 <p>Der&nbsp;Laststrom der Seite 2&nbsp;kann nun direkt &uuml;ber die Transformationsbeziehung</p>
@@ -2036,14 +2046,14 @@ Q0:imagpart(S0)
 
 <p>ermittelt werden.</p>
 
-<hr />
+<hr/>
 <p>(c) Bestimmen Sie die Spannung $\underline U_1$</p>
 
 <p>Die Spannung $\underline U_1$ folgt nun direkt aus der Maschenregel:</p>
 
-<p>$\underline U_1 = \underline U_0 - R_1 \cdot \underline I_1 =$ [Q2]</p>
+<p>$\underline U_1 = \underline U_0 - R_0 \cdot \underline I_1 =$ [Q2]</p>
 
-<hr />
+<hr/>
 <p>(d) Bestimmen Sie die Spannung $\underline U_2$</p>
 
 <p>Die Spannung $\underline U_2$ ist der gemeinsame Spannungsabfall den $R_z$ und $\underline Z_\ell$:</p>
@@ -2056,7 +2066,7 @@ Q0:imagpart(S0)
 
 <p>bestimmt werden.</p>
 
-<hr />
+<hr/>
 <p>(e) Bestimmen Sie die Spannung $\underline U_\ell$</p>
 
 <p>Die Spannung $\underline U_\ell$ kann nun direkt aus</p>
@@ -2069,7 +2079,7 @@ Q0:imagpart(S0)
 
 <p>bestimmt werden.</p>
 
-<hr />
+<hr/>
 <p>(f) Bestimmen Sie die Verluste $P_z$ im Widerstand $R_z$</p>
 
 <p>Die Verluste im Widerstand $R_z$ werden &uuml;ber</p>
@@ -2082,7 +2092,7 @@ Q0:imagpart(S0)
 
 <p>berechnet.</p>
 
-<hr />
+<hr/>
 <p>(g) Bestimmen Sie die Blindleistung $Q_\ell$ der Last</p>
 
 <h3>L&ouml;sung</h3>
@@ -2097,23 +2107,22 @@ Q0:imagpart(S0)
 
 <p>bestimmt werden</p>
 
-<hr />
+<hr/>
 <p>(h) Bestimmen Sie die vom Netz aufgenommene Wirkleistung $P_0$ und Blindleistung $Q_0$</p>
 
 <h3>L&ouml;sung</h3>
 
 <p>Die vom Netz aufgenommen Wirk- und Blindleistung wird aus der komplexen Scheinleistung ermittelt:</p>
 
-<p>$\underline S_0 = \underline U_0 \cdot \underline I_1^* =$ [Q6] $+\mathrm j \cdot$ [Q8]</p>
-]]></inhalt>
+<p>$\underline S_0 = \underline U_0 \cdot \underline I_1^* =$ [Q6] $+\mathrm j \cdot$ [Q8]</p>]]></inhalt>
 
-                  <file filename="TrafoIdealZuleitung.png" id="156797207" md5="cb88e631d4f26a6156ed5c8e53220e5" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="TrafoIdealZuleitung.png" id="158663772" md5="cb88e631d4f26a6156ed5c8e53220e5" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/cb/cb88e631d4f26a6156ed5c8e53220e5.png]]></webPath>
                   </file>
-                  <file filename="Musterbeispiel_IdealerTransformator.pdf" id="156797208" md5="b7f72d40feda118f8def995d2027773e" idUser="0" ext="pdf" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Musterbeispiel_IdealerTransformator.pdf" id="158663773" md5="b7f72d40feda118f8def995d2027773e" idUser="0" ext="pdf" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/b7/b7f72d40feda118f8def995d2027773e.pdf]]></webPath>
                   </file>
-                  <file filename="TrafoIdealZuleitung2.png" id="156797209" md5="0262471d026b1cdb7a6b740bbc2d335" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="TrafoIdealZuleitung2.png" id="158663774" md5="0262471d026b1cdb7a6b740bbc2d335" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/02/0262471d026b1cdb7a6b740bbc2d335.png]]></webPath>
                   </file>
                </text>
@@ -5915,7 +5924,7 @@ S1V : U1 * conjugate(I1V)
 PfeV : cabs(U1)^2 / Rfe
 PcuV : Rk * cabs(I2Lprime)^2  
 etaV : realpart(SL) / realpart(S1V)]]></maxima>
-               <maximaAngabe><![CDATA[;::;I10:(U1N*((-%i)*Rfe+Xh))/(Rfe*Xh);I1L:(SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2);I1N:SN/U1N;I1V:(U1N*((-2.05*%i)*R1*Rfe*SN*exp(%i*phi1)+2.05*R1*SN*Xh*exp(%i*phi1)+1.95*Rfe*SN*X1sigma*exp(%i*phi1)+Rfe*SN*Xh*exp(%i*phi1)+(-%i)*Rfe*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)+(1.95*%i)*SN*X1sigma*Xh*exp(%i*phi1)+Xh*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)))/(Rfe*Xh*(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2));I1k:(SN*kk*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2,2))/(U1N*(2.05*R1+(1.95*%i)*X1sigma));I2L:(-SN*U1N^2*exp(%i*phi1))/(U2N*(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2));I2Lprime:(-SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2);I2N:SN/U2N;I2k:(-SN*kk*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2,2))/(U2N*(2.05*R1+(1.95*%i)*X1sigma));Ife0:U1N/Rfe;IfeL:(U1N*exp(%i*phi1))/Rfe;Ih0:((-%i)*U1N)/Xh;IhL:((-%i)*U1N*exp(%i*phi1))/Xh;Lh:(0.1591549430919*Xh)/f;Lk:(0.3103521390292*X1sigma)/f;PcuV:2.05*R1*cabs((-SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))^2;PfeV:cabs(U1N*exp(%i*phi1))^2/Rfe;R2:(1.05*R1)/(U1N/U2N)^2;Rk:2.05*R1;S0:U1N*conjugate((U1N*((-%i)*Rfe+Xh))/(Rfe*Xh));S0k:(SN*kk*conjugate((SN*kk*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2,2))/(U1N*(2.05*R1+(1.95*%i)*X1sigma)))*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2,2))/U1N;S1L:U1N*conjugate((SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))*exp(%i*phi1);S1V:U1N*conjugate((U1N*((-2.05*%i)*R1*Rfe*SN*exp(%i*phi1)+2.05*R1*SN*Xh*exp(%i*phi1)+1.95*Rfe*SN*X1sigma*exp(%i*phi1)+Rfe*SN*Xh*exp(%i*phi1)+(-%i)*Rfe*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)+(1.95*%i)*SN*X1sigma*Xh*exp(%i*phi1)+Xh*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)))/(Rfe*Xh*(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2)))*exp(%i*phi1);SL:(U1N*kL*(U1N/U2N)^2*U2N^2*conjugate((SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2);U1:U1N*exp(%i*phi1);U10:U1N;U1k:(SN*kk*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2,2))/U1N;U2L:(kL*(U1N/U2N)^2*U2N^3*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2);U2Lprime:(U1N*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2);Ue:U1N;UkL:(SN*U1N*(2.05*R1+(1.95*%i)*X1sigma)*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2);X2sigma:(0.95*X1sigma)/(U1N/U2N)^2;Xk:1.95*X1sigma;Z2bez:U2N^2/SN;ZL:(kL*U2N^2)/SN;Zk:sqrt(4.2025*R1^2+3.8025*X1sigma^2,2);etaV:realpart((U1N*kL*(U1N/U2N)^2*U2N^2*conjugate((SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))/realpart(U1N*conjugate((U1N*((-2.05*%i)*R1*Rfe*SN*exp(%i*phi1)+2.05*R1*SN*Xh*exp(%i*phi1)+1.95*Rfe*SN*X1sigma*exp(%i*phi1)+Rfe*SN*Xh*exp(%i*phi1)+(-%i)*Rfe*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)+(1.95*%i)*SN*X1sigma*Xh*exp(%i*phi1)+Xh*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)))/(Rfe*Xh*(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2)))*exp(%i*phi1));n12:U1N/U2N;pL:realpart((U1N*kL*(U1N/U2N)^2*U2N^2*conjugate((SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))/SN;uk:(SN*sqrt(4.2025*R1^2+3.8025*X1sigma^2,2))/U1N^2;w:6.28318530718*f;]]></maximaAngabe>
+               <maximaAngabe><![CDATA[;::;I10:(690.538269186arg-84.6232945719°)mA;I1L:37.5472577694arg7.36764372665°A;I1N:45.4545454545A;I1V:37.6496804804arg6.32696641697°A;I1k:(38.6363636364arg-10.485895153°)A;I2L:(573.638660366arg-172.632356273°)A;I2Lprime:(37.5472577694arg-172.632356273°)A;I2N:694.444444444A;I2k:590.277777778arg169.514104847°A;Ife0:64.7058823529mA;IfeL:64.7058823529arg10°mA;Ih0:(-687.5*%i)mA;IhL:(687.5arg-80°)mA;Lh:424.413181578H;Lk:356.904959884mH;PcuV:31.7909125633kW;PfeV:7.11764705882kW;R1:11Ohm;R2:49.4836363636mOhm;Rfe:1.7MOhm;Rk:22.55Ohm;S0:75.9592096105arg84.6232945719°kW;S0k:203.653277331arg80.485895153°kW;S1L:4.13019835463arg2.63235627335°MW;S1V:4.14146485285arg3.67303358303°MW;SL:4.09404922766MW;SN:5MVA;U1:110arg10°kV;U10:110kV;U1N:110kV;U1k:5.2710260015arg70°kV;U2L:7.1369827568arg7.36764372665°kV;U2Lprime:109.037236562arg7.36764372665°kV;U2N:7.2kV;UQ2:6.79V;Ue:110kV;UkL:5.12244303967arg87.8535388797°kV;X1sigma:69Ohm;X1sigma/w:5.6mH;X2sigma:280.835702479mOhm;Xh:160kOhm;Xk:134.55Ohm;Z2bez:10.368Ohm;ZL:12.4416Ohm;Zk:136.426555333Ohm;dcUe:9.566V;etaV:0.990585783445;f:60Hz;kL:1.2;kk:0.85;kvar:0.84;n12:15.2777777778;pL:0.818809845533;phi1:10°;phiU1k:70°;uk:0.0563746096417;w:376.991118431Hz;]]></maximaAngabe>
                <responseFormat><![CDATA[editor]]></responseFormat>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
@@ -6068,22 +6077,21 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
 
 <p>(g) Bestimmen Sie die Kupferverluste des Transformators $P_\mathrm{Cu}=$&nbsp;[Q34]&nbsp;</p>
 
-<p>(f) Bestimmen Sie den Wirkungsgrad des Transformators&nbsp;[Q35]&nbsp;</p>
-]]></inhalt>
+<p>(f) Bestimmen Sie den Wirkungsgrad des Transformators&nbsp;[Q35]&nbsp;</p>]]></inhalt>
 
-                  <file filename="TrafoVereinfacht.png" id="157756001" md5="7c167eceeab82c2da929878192159d7" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="TrafoVereinfacht.png" id="158664428" md5="7c167eceeab82c2da929878192159d7" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/7c/7c167eceeab82c2da929878192159d7.png]]></webPath>
                   </file>
-                  <file filename="TrafoVereinfacht_LL2.png" id="157756002" md5="b58ecbf372bb2acbeabdf65f5d72d61" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
+                  <file filename="TrafoVereinfacht_LL2.png" id="158664432" md5="b58ecbf372bb2acbeabdf65f5d72d61" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/b5/b58ecbf372bb2acbeabdf65f5d72d61.png]]></webPath>
                   </file>
-                  <file filename="TrafoVereinfacht_Last_Zk.png" id="157756003" md5="9585e7c0d8277f7f397d745539e0a2" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/95/9585e7c0d8277f7f397d745539e0a2.png]]></webPath>
+                  <file filename="TrafoVereinfacht_Last_Zk.png" id="158664431" md5="9dc98698fb2b5ba099bebba29a16b38" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/9d/9dc98698fb2b5ba099bebba29a16b38.png]]></webPath>
                   </file>
-                  <file filename="TrafoVereinfacht_KS2.png" id="157756004" md5="8f2aa3182f8ca65016b2747c8d9b3eed" idUser="0" ext="png" width="35%" height="0" title="" alt="" style="">
+                  <file filename="TrafoVereinfacht_KS2.png" id="158664429" md5="8f2aa3182f8ca65016b2747c8d9b3eed" idUser="0" ext="png" width="35%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/8f/8f2aa3182f8ca65016b2747c8d9b3eed.png]]></webPath>
                   </file>
-                  <file filename="TrafoVereinfacht_Last.png" id="157756005" md5="18cafedf3af496017ba4362eda1c2e8" idUser="0" ext="png" width="60%" height="0" title="" alt="" style="">
+                  <file filename="TrafoVereinfacht_Last.png" id="158664430" md5="18cafedf3af496017ba4362eda1c2e8" idUser="0" ext="png" width="60%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/18/18cafedf3af496017ba4362eda1c2e8.png]]></webPath>
                   </file>
                </text>
@@ -6110,7 +6118,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861380</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[((-%i)*U1N)/Xh]]></text>
+                     <text><![CDATA[-687.5*%i*1mA]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6133,7 +6141,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861382</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[U1N/Rfe]]></text>
+                     <text><![CDATA[64.706mA]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6156,7 +6164,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861384</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(U1N*((-%i)*Rfe+Xh))/(Rfe*Xh)]]></text>
+                     <text><![CDATA[690.54arg-84.623°mA]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6179,7 +6187,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861386</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[realpart(U1N*conjugate((U1N*((-%i)*Rfe+Xh))/(Rfe*Xh)))]]></text>
+                     <text><![CDATA[7.1176kW]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6202,7 +6210,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861388</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[imagpart(U1N*conjugate((U1N*((-%i)*Rfe+Xh))/(Rfe*Xh)))]]></text>
+                     <text><![CDATA[75.625kvar]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6225,7 +6233,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861390</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(SN*kk*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2))/(U1N*(2.05*R1+(1.95*%i)*X1sigma))]]></text>
+                     <text><![CDATA[38.636arg-10.486°A]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6248,7 +6256,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861392</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(-SN*kk*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2))/(U2N*(2.05*R1+(1.95*%i)*X1sigma))]]></text>
+                     <text><![CDATA[590.28arg169.51°A]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6271,7 +6279,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861398</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[realpart((SN*kk*conjugate((SN*kk*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2))/(U1N*(2.05*R1+(1.95*%i)*X1sigma)))*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2))/U1N)]]></text>
+                     <text><![CDATA[33.662kW]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6294,7 +6302,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861400</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[imagpart((SN*kk*conjugate((SN*kk*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2))/(U1N*(2.05*R1+(1.95*%i)*X1sigma)))*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2))/U1N)]]></text>
+                     <text><![CDATA[200.85kvar]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6317,7 +6325,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861402</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(-SN*kk*exp(%i*phiU1k)*sqrt(4.2025*R1^2+3.8025*X1sigma^2))/(U1N*(2.05*R1+(1.95*%i)*X1sigma))]]></text>
+                     <text><![CDATA[38.636arg169.51°A]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6340,7 +6348,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861404</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[2.05*R1]]></text>
+                     <text><![CDATA[22.55Ohm]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6363,7 +6371,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861406</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[1.95*X1sigma]]></text>
+                     <text><![CDATA[134.55Ohm]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6386,7 +6394,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861408</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2)]]></text>
+                     <text><![CDATA[37.547arg7.3676°A]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6409,7 +6417,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861410</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(-SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2)]]></text>
+                     <text><![CDATA[37.547arg-172.63°A]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6432,7 +6440,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861412</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(-SN*U1N^2*exp(%i*phi1))/(U2N*(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))]]></text>
+                     <text><![CDATA[573.64arg-172.63°A]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6455,7 +6463,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861414</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(U1N*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2)]]></text>
+                     <text><![CDATA[109.04arg7.3676°kV]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6478,7 +6486,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861416</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(SN*U1N*(2.05*R1+(1.95*%i)*X1sigma)*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2)]]></text>
+                     <text><![CDATA[5.1224arg87.854°kV]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6501,7 +6509,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861418</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[realpart(U1N*conjugate((SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))*exp(%i*phi1))]]></text>
+                     <text><![CDATA[4.1258MW]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6524,7 +6532,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861420</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[imagpart(U1N*conjugate((SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))*exp(%i*phi1))]]></text>
+                     <text><![CDATA[189.69kvar]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6547,7 +6555,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861422</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[realpart((U1N*kL*(U1N/U2N)^2*U2N^2*conjugate((SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))]]></text>
+                     <text><![CDATA[4.094MW]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6570,7 +6578,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861424</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[realpart((U1N*kL*(U1N/U2N)^2*U2N^2*conjugate((SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))/realpart(U1N*conjugate((SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))*exp(%i*phi1))]]></text>
+                     <text><![CDATA[99.229'%']]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6593,7 +6601,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>1861426</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(kL*(U1N/U2N)^2*U2N^2)/SN]]></text>
+                     <text><![CDATA[2.904kOhm]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6617,7 +6625,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>16390070</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[U2N]]></text>
+                     <text><![CDATA[7.2kV]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6641,7 +6649,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>16501240</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[realpart((U1N*kL*(U1N/U2N)^2*U2N^2*conjugate((SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))/SN]]></text>
+                     <text><![CDATA[81.881'%']]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6665,7 +6673,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>16512717</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(U1N*exp(%i*phi1))/Rfe]]></text>
+                     <text><![CDATA[64.706arg10°mA]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6689,7 +6697,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>16512719</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[((-%i)*U1N*exp(%i*phi1))/Xh]]></text>
+                     <text><![CDATA[687.5arg-80°mA]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6713,7 +6721,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>16512721</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(U1N*((-2.05*%i)*R1*Rfe*SN*exp(%i*phi1)+2.05*R1*SN*Xh*exp(%i*phi1)+1.95*Rfe*SN*X1sigma*exp(%i*phi1)+Rfe*SN*Xh*exp(%i*phi1)+(-%i)*Rfe*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)+(1.95*%i)*SN*X1sigma*Xh*exp(%i*phi1)+Xh*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)))/(Rfe*Xh*(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))]]></text>
+                     <text><![CDATA[37.65arg6.327°A]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6737,7 +6745,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>16512723</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[realpart(U1N*conjugate((U1N*((-2.05*%i)*R1*Rfe*SN*exp(%i*phi1)+2.05*R1*SN*Xh*exp(%i*phi1)+1.95*Rfe*SN*X1sigma*exp(%i*phi1)+Rfe*SN*Xh*exp(%i*phi1)+(-%i)*Rfe*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)+(1.95*%i)*SN*X1sigma*Xh*exp(%i*phi1)+Xh*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)))/(Rfe*Xh*(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2)))*exp(%i*phi1))]]></text>
+                     <text><![CDATA[4.133MW]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6761,7 +6769,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>16512725</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[imagpart(U1N*conjugate((U1N*((-2.05*%i)*R1*Rfe*SN*exp(%i*phi1)+2.05*R1*SN*Xh*exp(%i*phi1)+1.95*Rfe*SN*X1sigma*exp(%i*phi1)+Rfe*SN*Xh*exp(%i*phi1)+(-%i)*Rfe*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)+(1.95*%i)*SN*X1sigma*Xh*exp(%i*phi1)+Xh*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)))/(Rfe*Xh*(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2)))*exp(%i*phi1))]]></text>
+                     <text><![CDATA[265.31kvar]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6785,7 +6793,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>16512727</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[cabs(U1N*exp(%i*phi1))^2/Rfe]]></text>
+                     <text><![CDATA[7.1176kW]]></text>
                      <feedback/>
                      <tolerance><![CDATA[3%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6809,7 +6817,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>16512729</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[2.05*R1*cabs((-SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))^2]]></text>
+                     <text><![CDATA[31.791kW]]></text>
                      <feedback/>
                      <tolerance><![CDATA[3%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6833,7 +6841,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>16512731</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[realpart((U1N*kL*(U1N/U2N)^2*U2N^2*conjugate((SN*U1N*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2))/realpart(U1N*conjugate((U1N*((-2.05*%i)*R1*Rfe*SN*exp(%i*phi1)+2.05*R1*SN*Xh*exp(%i*phi1)+1.95*Rfe*SN*X1sigma*exp(%i*phi1)+Rfe*SN*Xh*exp(%i*phi1)+(-%i)*Rfe*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)+(1.95*%i)*SN*X1sigma*Xh*exp(%i*phi1)+Xh*kL*(U1N/U2N)^2*U2N^2*exp(%i*phi1)))/(Rfe*Xh*(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2)))*exp(%i*phi1))]]></text>
+                     <text><![CDATA[99.059'%']]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -6857,7 +6865,7 @@ etaV : realpart(SL) / realpart(S1V)]]></maxima>
                      <id>16549347</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[(kL*(U1N/U2N)^2*U2N^3*exp(%i*phi1))/(2.05*R1*SN+(1.95*%i)*SN*X1sigma+kL*(U1N/U2N)^2*U2N^2)]]></text>
+                     <text><![CDATA[7.137arg7.3676°kV]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -10574,29 +10582,28 @@ $L_{2\sigma}$={=X2sigmap/w/n12^2,4}</p>
 <p>Farblegende</p>
 
 <ul>
-	<li>rot/braun =Strom $\underline I_1$</li>
+	<li>rot&nbsp;=Strom $\underline I_1$</li>
 	<li>schwarz = Spannung $\underline{U}_1$</li>
 	<li>orange = Spannung $\underline U_2^\prime$</li>
 	<li>blau = Kappsches Dreieck sowie dessen Spannungskomponenten</li>
 </ul>
 
-<p>[IMG4]</p>
-]]></inhalt>
+<p>[IMG4]</p>]]></inhalt>
 
-                  <file filename="ind45_ref.png" id="156953496" md5="df4f6a4dc10f49da1cfa3aa769f8d" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/df/df4f6a4dc10f49da1cfa3aa769f8d.png]]></webPath>
+                  <file filename="Kapp-RL-OK.png" id="158665362" md5="b880d9e133db7ad882c2a066cdfcb1fa" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/b8/b880d9e133db7ad882c2a066cdfcb1fa.png]]></webPath>
                   </file>
-                  <file filename="ind45_1.png" id="156953497" md5="32ded46ac628472eb2e93e99cb696fe" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/32/32ded46ac628472eb2e93e99cb696fe.png]]></webPath>
+                  <file filename="Kapp-RL-1.png" id="158665361" md5="e5172d83a798533709e9744b65b854b" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/e5/e5172d83a798533709e9744b65b854b.png]]></webPath>
                   </file>
-                  <file filename="ind45_2.png" id="156953498" md5="efaaabc15f3e86827e5e23f1e1131" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/ef/efaaabc15f3e86827e5e23f1e1131.png]]></webPath>
+                  <file filename="Kapp-RL-2.png" id="158665363" md5="8ddcbc75455344db894e2d5e4e0fc5" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/8d/8ddcbc75455344db894e2d5e4e0fc5.png]]></webPath>
                   </file>
-                  <file filename="ind45_3.png" id="156953499" md5="8efc13262720b8bdac169c713273b30" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/8e/8efc13262720b8bdac169c713273b30.png]]></webPath>
+                  <file filename="Kapp-RL-3.png" id="158665365" md5="ea53c87c0d7b5c67f062fc43bd8d0" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/ea/ea53c87c0d7b5c67f062fc43bd8d0.png]]></webPath>
                   </file>
-                  <file filename="KappschesDreieck_RL.png" id="156953500" md5="e7ef35684194e2d1af287993af3598c0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/e7/e7ef35684194e2d1af287993af3598c0.png]]></webPath>
+                  <file filename="Kapp-RL.png" id="158665364" md5="65966aa1b405c91e4d19955c43985e1" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/65/65966aa1b405c91e4d19955c43985e1.png]]></webPath>
                   </file>
                </text>
                <text art="general feedback" id="1217326" format="html">               <inhalt/>
@@ -10728,20 +10735,20 @@ $L_{2\sigma}$={=X2sigmap/w/n12^2,4}</p>
 <p>[IMG4]</p>
 ]]></inhalt>
 
-                  <file filename="ohm0_ref.png" id="156953342" md5="39d3d3db27974c37971444a8b98c91ec" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/39/39d3d3db27974c37971444a8b98c91ec.png]]></webPath>
+                  <file filename="Kapp-R-OK.png" id="158665271" md5="3118c5ebe8634665fb51e84b2dd5d543" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/31/3118c5ebe8634665fb51e84b2dd5d543.png]]></webPath>
                   </file>
-                  <file filename="ohm0_1.png" id="156953343" md5="2343e1ff2bf7ef61f13845b8a82bce5" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/23/2343e1ff2bf7ef61f13845b8a82bce5.png]]></webPath>
+                  <file filename="Kapp-R-1.png" id="158665273" md5="653cb8a1dbcddd5e787698864bdf3f3" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/65/653cb8a1dbcddd5e787698864bdf3f3.png]]></webPath>
                   </file>
-                  <file filename="ohm0_2.png" id="156953344" md5="bad438167b4130ab98bf6284524fd170" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/ba/bad438167b4130ab98bf6284524fd170.png]]></webPath>
+                  <file filename="Kapp-R-2.png" id="158665272" md5="9814ecdf131c38d75ca8f7a8266967d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/98/9814ecdf131c38d75ca8f7a8266967d.png]]></webPath>
                   </file>
-                  <file filename="ohm0_3.png" id="156953345" md5="ea4b413cfe7159b8f0ca336a54277cd" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/ea/ea4b413cfe7159b8f0ca336a54277cd.png]]></webPath>
+                  <file filename="Kapp-R-3.png" id="158665274" md5="9fe2ac97a510725e6184efd5172313" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/9f/9fe2ac97a510725e6184efd5172313.png]]></webPath>
                   </file>
-                  <file filename="KappschesDreieck_R.png" id="156953346" md5="abd1745e419ca9cd5bbe812bf55cb" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/ab/abd1745e419ca9cd5bbe812bf55cb.png]]></webPath>
+                  <file filename="Kapp-R.png" id="158665275" md5="dadd362e78ff4a21a41af84fcaa1d76" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/da/dadd362e78ff4a21a41af84fcaa1d76.png]]></webPath>
                   </file>
                </text>
                <text art="general feedback" id="1217359" format="html">               <inhalt/>
@@ -10864,29 +10871,28 @@ $L_{2\sigma}$={=X2sigmap/w/n12^2,4}</p>
 <p>Farblegende</p>
 
 <ul>
-	<li>rot/braun =Strom $\underline I_1$</li>
+	<li>rot&nbsp;=Strom $\underline I_1$</li>
 	<li>schwarz = Spannung $\underline{U}_1$</li>
 	<li>orange = Spannung $\underline U_2^\prime$</li>
 	<li>blau = Kappsches Dreieck sowie dessen Spannungskomponenten</li>
 </ul>
 
-<p>[IMG4]</p>
-]]></inhalt>
+<p>[IMG4]</p>]]></inhalt>
 
-                  <file filename="kap45_ref.png" id="156953161" md5="46dc64d56d9fcb444b0af4c377de320" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/46/46dc64d56d9fcb444b0af4c377de320.png]]></webPath>
+                  <file filename="Kapp-RC-OK.png" id="158665351" md5="7e89c5212a8242934373eb6fafaf96" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/7e/7e89c5212a8242934373eb6fafaf96.png]]></webPath>
                   </file>
-                  <file filename="kap45_1.png" id="156953162" md5="7c408740547d62c75a6b824940945c2" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/7c/7c408740547d62c75a6b824940945c2.png]]></webPath>
+                  <file filename="Kapp-RC-1.png" id="158665352" md5="766698b7171ab12b21dab51e258ed2bd" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/76/766698b7171ab12b21dab51e258ed2bd.png]]></webPath>
                   </file>
-                  <file filename="kap45_2.png" id="156953163" md5="2ce4883d0c7203759a3f06638b6d59" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/2c/2ce4883d0c7203759a3f06638b6d59.png]]></webPath>
+                  <file filename="Kapp-RC-2.png" id="158665355" md5="63df1fd3ef11ce8af7a8a92e7e40519" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/63/63df1fd3ef11ce8af7a8a92e7e40519.png]]></webPath>
                   </file>
-                  <file filename="kap45_3.png" id="156953164" md5="36459e19ae71c9ff994f49b68f8c7851" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/36/36459e19ae71c9ff994f49b68f8c7851.png]]></webPath>
+                  <file filename="Kapp-RC-3.png" id="158665354" md5="557b7f1e54d69e5838e53ccaedd97bb" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/55/557b7f1e54d69e5838e53ccaedd97bb.png]]></webPath>
                   </file>
-                  <file filename="KappschesDreieck_RC.png" id="156953165" md5="124d2b468f1c3aa13a732ab158c6b7" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/12/124d2b468f1c3aa13a732ab158c6b7.png]]></webPath>
+                  <file filename="Kapp-RC.png" id="158665353" md5="3a496d2542d7b5784a3f7cadab3826b6" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/3a/3a496d2542d7b5784a3f7cadab3826b6.png]]></webPath>
                   </file>
                </text>
                <text art="general feedback" id="1217454" format="html">               <inhalt/>
@@ -11009,28 +11015,28 @@ $L_{2\sigma}$={=X2sigmap/w/n12^2,4}</p>
 <p>Farblegende</p>
 
 <ul>
-	<li>rot/braun =Strom $\underline I_1$</li>
+	<li>rot&nbsp;=Strom $\underline I_1$</li>
 	<li>schwarz = Spannung $\underline{U}_1$</li>
 	<li>orange = Spannung $\underline U_2^\prime$</li>
-	<li>blau = Kappsches Dreieck sowie dessen Spannungskomponenten</li>
+	<li>blau = Kappsches Dreieck sowie dessen Spannungskomponenten&nbsp;</li>
 </ul>
 
 <p>[IMG4]</p>]]></inhalt>
 
-                  <file filename="ind90_ref.png" id="156952916" md5="79256faa4c13ef3b7214aeb0a97950da" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/79/79256faa4c13ef3b7214aeb0a97950da.png]]></webPath>
+                  <file filename="Kapp-L-OK.png" id="158665342" md5="72d597a83bdd5af34fc588286ef6d93" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/72/72d597a83bdd5af34fc588286ef6d93.png]]></webPath>
                   </file>
-                  <file filename="ind90_1.png" id="156952917" md5="33f04ac9cb26df161a7fe4037abeee7" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/33/33f04ac9cb26df161a7fe4037abeee7.png]]></webPath>
+                  <file filename="Kapp-L-1.png" id="158665345" md5="e6d489df84b0b6a98aac977fbf477a" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/e6/e6d489df84b0b6a98aac977fbf477a.png]]></webPath>
                   </file>
-                  <file filename="ind90_2.png" id="156952918" md5="9a291eb59773f7d99e3b2694daeb84" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/9a/9a291eb59773f7d99e3b2694daeb84.png]]></webPath>
+                  <file filename="Kapp-L-2.png" id="158665343" md5="0c94d8e9a9e3654a2b513f21d57d11d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/0c/0c94d8e9a9e3654a2b513f21d57d11d.png]]></webPath>
                   </file>
-                  <file filename="ind90_3.png" id="156952919" md5="9b25aebf17114ef4a0d917703ed5a0f9" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/9b/9b25aebf17114ef4a0d917703ed5a0f9.png]]></webPath>
+                  <file filename="Kapp-L-3.png" id="158665341" md5="3c8e7f6ab694b277adc171346c869fb" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/3c/3c8e7f6ab694b277adc171346c869fb.png]]></webPath>
                   </file>
-                  <file filename="KappschesDreieck_L.png" id="156952920" md5="e0c267dce29d3d9f9b42a3dbdb2afa5" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/e0/e0c267dce29d3d9f9b42a3dbdb2afa5.png]]></webPath>
+                  <file filename="Kapp-L.png" id="158665344" md5="89473668117c3287896a124630be5832" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/89/89473668117c3287896a124630be5832.png]]></webPath>
                   </file>
                </text>
                <text art="general feedback" id="1217502" format="html">               <inhalt/>
@@ -11153,7 +11159,7 @@ $L_{2\sigma}$={=X2sigmap/w/n12^2,4}</p>
 <p>Farblegende</p>
 
 <ul>
-	<li>rot/braun = Strom $\underline I_1$</li>
+	<li>rot&nbsp;= Strom $\underline I_1$</li>
 	<li>schwarz = Spannung $\underline{U}_1$</li>
 	<li>orange = Spannung $\underline U_2^\prime$</li>
 	<li>blau = Kappsches Dreieck sowie dessen Spannungskomponenten</li>
@@ -11161,20 +11167,20 @@ $L_{2\sigma}$={=X2sigmap/w/n12^2,4}</p>
 
 <p>[IMG4]</p>]]></inhalt>
 
-                  <file filename="kap90_ref.png" id="156952903" md5="b3ca3c2963285b757673ec6df857d2" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/b3/b3ca3c2963285b757673ec6df857d2.png]]></webPath>
+                  <file filename="Kapp-C-OK.png" id="158665384" md5="20dde29e33c5c78f47e66f6b95a399" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/20/20dde29e33c5c78f47e66f6b95a399.png]]></webPath>
                   </file>
-                  <file filename="kap90_1.png" id="156952904" md5="bcc4dbbf1742ab0183d2b798f957060" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/bc/bcc4dbbf1742ab0183d2b798f957060.png]]></webPath>
+                  <file filename="Kapp-C-1.png" id="158665385" md5="b2adae6cccffdda93463e3c85076d5" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/b2/b2adae6cccffdda93463e3c85076d5.png]]></webPath>
                   </file>
-                  <file filename="kap90_2.png" id="156952905" md5="c7f7aac2cb8833388677870314d3a52" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/c7/c7f7aac2cb8833388677870314d3a52.png]]></webPath>
+                  <file filename="Kapp-C-2.png" id="158665382" md5="9b36d44bfd8e86bab716fe830ed46c0" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/9b/9b36d44bfd8e86bab716fe830ed46c0.png]]></webPath>
                   </file>
-                  <file filename="kap90_3.png" id="156952906" md5="d33c95957dbb7d147b2298c87c8ab89d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/d3/d33c95957dbb7d147b2298c87c8ab89d.png]]></webPath>
+                  <file filename="Kapp-C-3.png" id="158665383" md5="3df75662c4eade2cdbbf522147556a" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/3d/3df75662c4eade2cdbbf522147556a.png]]></webPath>
                   </file>
-                  <file filename="KappschesDreieck_C.png" id="156952907" md5="6d84cfb3c2cf877d037cd53bfae7b2d" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/6d/6d84cfb3c2cf877d037cd53bfae7b2d.png]]></webPath>
+                  <file filename="Kapp-C.png" id="158665381" md5="5f88beff1123eb2eb5fed4ff1e45c8f" idUser="0" ext="png" width="40%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/5f/5f88beff1123eb2eb5fed4ff1e45c8f.png]]></webPath>
                   </file>
                </text>
                <text art="general feedback" id="1217573" format="html">               <inhalt/>
@@ -11304,35 +11310,35 @@ $L_{2\sigma}$={=X2sigmap/w/n12^2,4}</p>
 </ul>
 ]]></inhalt>
 
-                  <file filename="KappschesDreieck_L.png" id="157462973" md5="e0c267dce29d3d9f9b42a3dbdb2afa5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/e0/e0c267dce29d3d9f9b42a3dbdb2afa5.png]]></webPath>
+                  <file filename="Kapp-L.png" id="158665419" md5="89473668117c3287896a124630be5832" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/89/89473668117c3287896a124630be5832.png]]></webPath>
                   </file>
-                  <file filename="KappschesDreieck_RL.png" id="157462974" md5="e7ef35684194e2d1af287993af3598c0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/e7/e7ef35684194e2d1af287993af3598c0.png]]></webPath>
+                  <file filename="Kapp-RL.png" id="158665424" md5="65966aa1b405c91e4d19955c43985e1" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/65/65966aa1b405c91e4d19955c43985e1.png]]></webPath>
                   </file>
-                  <file filename="KappschesDreieck_R.png" id="157462975" md5="abd1745e419ca9cd5bbe812bf55cb" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/ab/abd1745e419ca9cd5bbe812bf55cb.png]]></webPath>
+                  <file filename="Kapp-R.png" id="158665417" md5="dadd362e78ff4a21a41af84fcaa1d76" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/da/dadd362e78ff4a21a41af84fcaa1d76.png]]></webPath>
                   </file>
-                  <file filename="KappschesDreieck_RC.png" id="157462976" md5="124d2b468f1c3aa13a732ab158c6b7" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/12/124d2b468f1c3aa13a732ab158c6b7.png]]></webPath>
+                  <file filename="Kapp-RC.png" id="158665421" md5="3a496d2542d7b5784a3f7cadab3826b6" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/3a/3a496d2542d7b5784a3f7cadab3826b6.png]]></webPath>
                   </file>
-                  <file filename="KappschesDreieck_C.png" id="157462977" md5="6d84cfb3c2cf877d037cd53bfae7b2d" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/6d/6d84cfb3c2cf877d037cd53bfae7b2d.png]]></webPath>
+                  <file filename="Kapp-C.png" id="158665418" md5="5f88beff1123eb2eb5fed4ff1e45c8f" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/5f/5f88beff1123eb2eb5fed4ff1e45c8f.png]]></webPath>
                   </file>
-                  <file filename="ind90_ref_korr.png" id="157462978" md5="3674a746264897133923a7353a9bd1c" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/36/3674a746264897133923a7353a9bd1c.png]]></webPath>
+                  <file filename="Kapp-L-OK.png" id="158665420" md5="72d597a83bdd5af34fc588286ef6d93" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/72/72d597a83bdd5af34fc588286ef6d93.png]]></webPath>
                   </file>
-                  <file filename="ind45_ref_korr.png" id="157462979" md5="4d3119c1acb6ced83c3c17f7356dc2c2" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/4d/4d3119c1acb6ced83c3c17f7356dc2c2.png]]></webPath>
+                  <file filename="Kapp-RL-OK.png" id="158665423" md5="b880d9e133db7ad882c2a066cdfcb1fa" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/b8/b880d9e133db7ad882c2a066cdfcb1fa.png]]></webPath>
                   </file>
-                  <file filename="ohm0_ref_korr.png" id="157462980" md5="c7ffb5458dbf63dec9a48dba06a28a1" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/c7/c7ffb5458dbf63dec9a48dba06a28a1.png]]></webPath>
+                  <file filename="Kapp-R-OK.png" id="158665422" md5="3118c5ebe8634665fb51e84b2dd5d543" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/31/3118c5ebe8634665fb51e84b2dd5d543.png]]></webPath>
                   </file>
-                  <file filename="kap45_ref_korr.png" id="157462981" md5="218b3caefa41979f7ecec60c077764" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/21/218b3caefa41979f7ecec60c077764.png]]></webPath>
+                  <file filename="Kapp-RC-OK.png" id="158665416" md5="7e89c5212a8242934373eb6fafaf96" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/7e/7e89c5212a8242934373eb6fafaf96.png]]></webPath>
                   </file>
-                  <file filename="kap90_ref_korr.png" id="157462982" md5="a046a489c9c3ee5293a44d2e6fc48fc4" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/a0/a046a489c9c3ee5293a44d2e6fc48fc4.png]]></webPath>
+                  <file filename="Kapp-C-OK.png" id="158665425" md5="20dde29e33c5c78f47e66f6b95a399" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/20/20dde29e33c5c78f47e66f6b95a399.png]]></webPath>
                   </file>
                </text>
                <text art="general feedback" id="1217741" format="html">               <inhalt/>
@@ -11468,36 +11474,35 @@ $L_{2\sigma}$={=X2sigmap/w/n12^2,4}</p>
 <p>Farblegende</p>
 
 <ul>
-	<li>rot/braun =Strom $\underline I_1$</li>
+	<li>rot&nbsp;=Strom $\underline I_1$</li>
 	<li>schwarz = Spannung $\underline{U}_1$</li>
 	<li>orange = Spannung $\underline U_2^\prime$</li>
 	<li>blau = Kappsches Dreieck sowie dessen Spannungskomponenten</li>
-</ul>
-]]></inhalt>
+</ul>]]></inhalt>
 
-                  <file filename="KappschesDreieck_RL.png" id="156952855" md5="e7ef35684194e2d1af287993af3598c0" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/e7/e7ef35684194e2d1af287993af3598c0.png]]></webPath>
+                  <file filename="Kapp-RL.png" id="158665504" md5="65966aa1b405c91e4d19955c43985e1" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/65/65966aa1b405c91e4d19955c43985e1.png]]></webPath>
                   </file>
-                  <file filename="KappschesDreieck_RC.png" id="156952856" md5="124d2b468f1c3aa13a732ab158c6b7" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/12/124d2b468f1c3aa13a732ab158c6b7.png]]></webPath>
+                  <file filename="Kapp-RC.png" id="158665505" md5="3a496d2542d7b5784a3f7cadab3826b6" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/3a/3a496d2542d7b5784a3f7cadab3826b6.png]]></webPath>
                   </file>
-                  <file filename="ind45_ref.png" id="156952857" md5="67f84a2b4fefcb9bfbc73264e377cf1" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/67/67f84a2b4fefcb9bfbc73264e377cf1.png]]></webPath>
+                  <file filename="Kapp-RL-OK.png" id="158665503" md5="b880d9e133db7ad882c2a066cdfcb1fa" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/b8/b880d9e133db7ad882c2a066cdfcb1fa.png]]></webPath>
                   </file>
-                  <file filename="kap45_ref.png" id="156952858" md5="b1761fe29166aab1c7b73580482ed" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/b1/b1761fe29166aab1c7b73580482ed.png]]></webPath>
+                  <file filename="Kapp-RC-OK.png" id="158665499" md5="7e89c5212a8242934373eb6fafaf96" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/7e/7e89c5212a8242934373eb6fafaf96.png]]></webPath>
                   </file>
-                  <file filename="kap45_2.png" id="156952859" md5="2ce4883d0c7203759a3f06638b6d59" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/2c/2ce4883d0c7203759a3f06638b6d59.png]]></webPath>
+                  <file filename="Kapp-RC-6.png" id="158665498" md5="29a78ec8e7c993c76eba6be5cdea5f3c" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/29/29a78ec8e7c993c76eba6be5cdea5f3c.png]]></webPath>
                   </file>
-                  <file filename="kap45_2.png" id="156952860" md5="2ce4883d0c7203759a3f06638b6d59" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/2c/2ce4883d0c7203759a3f06638b6d59.png]]></webPath>
+                  <file filename="Kapp-RC-3.png" id="158665501" md5="557b7f1e54d69e5838e53ccaedd97bb" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/55/557b7f1e54d69e5838e53ccaedd97bb.png]]></webPath>
                   </file>
-                  <file filename="kap45_3.png" id="156952861" md5="36459e19ae71c9ff994f49b68f8c7851" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/36/36459e19ae71c9ff994f49b68f8c7851.png]]></webPath>
+                  <file filename="Kapp-RL-1.png" id="158665500" md5="e5172d83a798533709e9744b65b854b" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/e5/e5172d83a798533709e9744b65b854b.png]]></webPath>
                   </file>
-                  <file filename="ind45_3.png" id="156952862" md5="8efc13262720b8bdac169c713273b30" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/8e/8efc13262720b8bdac169c713273b30.png]]></webPath>
+                  <file filename="Kapp-RL-7.png" id="158665502" md5="5440d05f37e4d5579c8b49a71ca848bb" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/54/5440d05f37e4d5579c8b49a71ca848bb.png]]></webPath>
                   </file>
                </text>
                <text art="general feedback" id="1217797" format="html">               <inhalt/>
@@ -11646,36 +11651,35 @@ $L_{2\sigma}$={=X2sigmap/w/n12^2,4}</p>
 <p>Farblegende</p>
 
 <ul>
-	<li>rot/braun =Strom $\underline I_1$</li>
+	<li>rot&nbsp;=Strom $\underline I_1$</li>
 	<li>schwarz = Spannung $\underline{U}_1$</li>
 	<li>orange = Spannung $\underline U_2^\prime$</li>
 	<li>blau = Kappsches Dreieck sowie dessen Spannungskomponenten</li>
-</ul>
-]]></inhalt>
+</ul>]]></inhalt>
 
-                  <file filename="KappschesDreieck_L.png" id="156952777" md5="e0c267dce29d3d9f9b42a3dbdb2afa5" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/e0/e0c267dce29d3d9f9b42a3dbdb2afa5.png]]></webPath>
+                  <file filename="Kapp-L.png" id="158665537" md5="89473668117c3287896a124630be5832" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/89/89473668117c3287896a124630be5832.png]]></webPath>
                   </file>
-                  <file filename="KappschesDreieck_C.png" id="156952778" md5="6d84cfb3c2cf877d037cd53bfae7b2d" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/6d/6d84cfb3c2cf877d037cd53bfae7b2d.png]]></webPath>
+                  <file filename="Kapp-C.png" id="158665536" md5="5f88beff1123eb2eb5fed4ff1e45c8f" idUser="0" ext="png" width="100%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/5f/5f88beff1123eb2eb5fed4ff1e45c8f.png]]></webPath>
                   </file>
-                  <file filename="ind90_ref.png" id="156952779" md5="79256faa4c13ef3b7214aeb0a97950da" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/79/79256faa4c13ef3b7214aeb0a97950da.png]]></webPath>
+                  <file filename="Kapp-L-OK.png" id="158665531" md5="72d597a83bdd5af34fc588286ef6d93" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/72/72d597a83bdd5af34fc588286ef6d93.png]]></webPath>
                   </file>
-                  <file filename="kap90_ref.png" id="156952780" md5="f935805e832b4a1f88ca32a388c0a0e7" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/f9/f935805e832b4a1f88ca32a388c0a0e7.png]]></webPath>
+                  <file filename="Kapp-C-OK.png" id="158665534" md5="20dde29e33c5c78f47e66f6b95a399" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/20/20dde29e33c5c78f47e66f6b95a399.png]]></webPath>
                   </file>
-                  <file filename="ind90_1.png" id="156952781" md5="33f04ac9cb26df161a7fe4037abeee7" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/33/33f04ac9cb26df161a7fe4037abeee7.png]]></webPath>
+                  <file filename="Kapp-C-2.png" id="158665533" md5="9b36d44bfd8e86bab716fe830ed46c0" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/9b/9b36d44bfd8e86bab716fe830ed46c0.png]]></webPath>
                   </file>
-                  <file filename="ind90_2.png" id="156952782" md5="9a291eb59773f7d99e3b2694daeb84" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/9a/9a291eb59773f7d99e3b2694daeb84.png]]></webPath>
+                  <file filename="Kapp-C-4.png" id="158665535" md5="add26375d82dfb49622fbcf61e12645" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/ad/add26375d82dfb49622fbcf61e12645.png]]></webPath>
                   </file>
-                  <file filename="kap90_1.png" id="156952783" md5="bcc4dbbf1742ab0183d2b798f957060" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/bc/bcc4dbbf1742ab0183d2b798f957060.png]]></webPath>
+                  <file filename="Kapp-L-6.png" id="158665530" md5="ab01cb557f4d9303d12cf943e5d4898" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/ab/ab01cb557f4d9303d12cf943e5d4898.png]]></webPath>
                   </file>
-                  <file filename="kap90_3.png" id="156952784" md5="d33c95957dbb7d147b2298c87c8ab89d" idUser="0" ext="png" width="30%" height="0" title="" alt="" style="">
-                     <webPath><![CDATA[https://letto.tgm.ac.at/images/d3/d33c95957dbb7d147b2298c87c8ab89d.png]]></webPath>
+                  <file filename="Kapp-L-3.png" id="158665532" md5="3c8e7f6ab694b277adc171346c869fb" idUser="0" ext="png" width="80%" height="0" title="" alt="" style="">
+                     <webPath><![CDATA[https://letto.tgm.ac.at/images/3c/3c8e7f6ab694b277adc171346c869fb.png]]></webPath>
                   </file>
                </text>
                <text art="general feedback" id="1217844" format="html">               <inhalt/>
@@ -12906,7 +12910,7 @@ PRz:Rz*cabs(IL)^2
 
 <p><strong>Hinweis. </strong>Beachten Sie bei der Analyse, dass der ideale Transformator die Spannungen $\underline U_2^\prime$ (und nicht $\underline U_1$) mit $\underline U_2$ &uuml;ber $n_{12}$ in Beziehung setzt.</p>
 
-<hr />
+<hr/>
 <p>(a) Bestimmen Sie den Strom $\underline I_1$</p>
 
 <p>Von der Induktivit&auml;t $L$ bestimmt man zun&auml;chst die komplexe Impedanz $\underline Z_L$, weil damit die nachfolgenden Gleichungen einfacher formulierbar sind. Diese Vorgehensweise sollte man immer auf alle Kondensatoren und Induktivit&auml;ten anwenden. Hier gilt</p>
@@ -12931,7 +12935,7 @@ PRz:Rz*cabs(IL)^2
 
 <p>$\underline I_1 = \underline I_L&#39; =\dfrac{\underline U_0}{R_0+\underline{Z}_{k}+R_z^\prime+\underline&nbsp;Z_L^\prime} =$ [Q4]</p>
 
-<hr />
+<hr/>
 <p>(b) Bestimmen Sie den Strom $\underline I_L$</p>
 
 <p>Der Strom $\underline I_L$&nbsp;kann nun direkt aus dem Ersatzschaltbild &uuml;ber das Transformationsverh&auml;ltnis des idealen Transformators bestimmt werden.</p>
@@ -12940,28 +12944,28 @@ PRz:Rz*cabs(IL)^2
 
 <p>Dass bei dieser Transformation kein negative Vorzeichen auftritt, resultiert daraus, dass der Strom $\underline I_L$ aus dem Transformator heraus gerichtet ist.</p>
 
-<hr />
+<hr/>
 <p>(c) Bestimmen Sie die Spannung $\underline U_1$</p>
 
 <p>Die Spannung $\underline U_1$&nbsp;folgt nun aus der Maschenregel:</p>
 
 <p>$\underline U_1=\underline U_0-R_0\cdot\underline I_1 =$ [Q6]</p>
 
-<hr />
+<hr/>
 <p>(d) Bestimmen Sie die Spannung $\underline U_L$ an der Last</p>
 
 <p>Die Spannung $\underline U_L$&nbsp;ist der Spannungsabfall an der Last:</p>
 
 <p>$\underline U_L=\underline Z_L\cdot\underline I_L =$ [Q7]</p>
 
-<hr />
+<hr/>
 <p>(e) Bestimmen Sie die Spannung $\underline U_2$</p>
 
 <p>Die Spannung $\underline U_2$&nbsp;kann nun direkt aus dem Summen-Spannungsabfall an den Impedanzen $R_z$&nbsp;und $\underline Z_L$&nbsp;im&nbsp;Ersatzschaltbild&nbsp;bestimmt.</p>
 
 <p>$\underline U_2=(R_z+\underline Z_L)\cdot\underline I_L&nbsp; = R_z \cdot \underline I_L + \underline U_L =$ [Q8]</p>
 
-<hr />
+<hr/>
 <p>(f) Bestimmen Sie die Spannung $\underline U_2^\prime$</p>
 
 <p>Die Spannung $\underline U_2^\prime$ l&auml;sst sich auf unterschiedliche Weise bestimmen. Einmal ist die Spannung $\underline U_2^\prime$ &uuml;ber das Transformationsverh&auml;ltnis $n_{12}$ des idealen Transformators&nbsp; bestimmbar, wobei $\underline U_2^\prime$ (und nicht $\underline U_1$) sowie $\underline U_2$ &uuml;ber das Verh&auml;ltnis der Windungszahlen in direkter Beziehung stehen:</p>
@@ -12978,28 +12982,28 @@ PRz:Rz*cabs(IL)^2
 
 <p>bestimmen. Durch Umformen dieser Gleichung erh&auml;lt man $\underline U_2^\prime =$ [Q20]</p>
 
-<hr />
+<hr/>
 <p>(g) Bestimmen Sie die Verluste im Transformator $P_v$</p>
 
 <p>Verluste im Transformator entstehen im Widerstand $R_k$&nbsp;im Ersatzschaltbild; die Eisenverluste werden nicht ber&uuml;cksichtigt.</p>
 
 <p>$P_v=R_k\cdot|\underline I_1|^2=$ [Q9]</p>
 
-<hr />
+<hr/>
 <p>(h) Bestimmen Sie die Blindleistung der Last $Q_L$</p>
 
 <p>Die Blindleistung in der Last kann auf unterschiedliche Weise berechnet werden:</p>
 
 <p>$Q_L&nbsp; &nbsp; = \mathrm{Im}(\underline U_L \cdot\underline I_L^{*}) =$ [Q10]</p>
 
-<hr />
+<hr/>
 <p>(i) Bestimmen Sie die vom Netz in den Transformator auf der Seite 1 eingespeise&nbsp;Blindleistung $Q_1$</p>
 
 <p>Die in den Transformator eingespeiste Blindleistung betr&auml;gt:</p>
 
 <p>$Q_1=\mathrm{Im}(\underline U_1\cdot\underline I_1^{*}) =$ [Q11]</p>
 
-<hr />
+<hr/>
 <p>(j) Bestimmen Sie den Wirkungsgrad $\eta$ des Transformators</p>
 
 <p>F&uuml;r die Bestimmung des Wirkungsgrads m&uuml;ssen&nbsp;die dem Transformator zugef&uuml;hrte und abgegebene Wirkleistung bestimmt werden. Deren Differenz sind die Verluste $P_v$ aus Punkt (g). Die zugef&uuml;hrte Wirkleistung errechnet sich direkt aus den komplexen Spannungs- und Stromzeigern der Prim&auml;rseite,</p>
@@ -13016,28 +13020,27 @@ PRz:Rz*cabs(IL)^2
 
 <p>Aufgrund der rein induktiven Last und des $-$ im Vergleich zu $R_k$ $-$ geringen Leitungswiderstands $R_z$ ist der Wirkungsgrad relativ gering.&nbsp;</p>
 
-<hr />
+<hr/>
 <p>(k) Bestimmen Sie die Verluste im Widerstand $R_0$</p>
 
 <p>Verluste werde immer von ohmschen Widerst&auml;nden und nie von Blindwiderst&auml;nden verursacht. Die Verluste im Widerstand $R_0$ sind daher&nbsp;</p>
 
 <p>$P_{R0} = R_0 \cdot | \underline I_1 |^2 =$ [Q13]</p>
 
-<hr />
+<hr/>
 <p>(l) Bestimmen Sie die Verluste im Widerstand $R_z$</p>
 
 <p>F&uuml;r die Verluste im Widerstand $R_z$ ergibt sich</p>
 
-<p>$P_{Rz} = R_z \cdot | \underline I_L |^2 =$ [Q14]</p>
-]]></inhalt>
+<p>$P_{Rz} = R_z \cdot | \underline I_L |^2 =$ [Q14]</p>]]></inhalt>
 
-                  <file filename="Zk_Transformator-1.png" id="156972384" md5="c4355d735f6e29a86c6f1bd64bda567f" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Zk_Transformator-1.png" id="158665717" md5="c4355d735f6e29a86c6f1bd64bda567f" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/c4/c4355d735f6e29a86c6f1bd64bda567f.png]]></webPath>
                   </file>
-                  <file filename="Musterbeispiel_TransformatorBetriebsverhalten.pdf" id="156972385" md5="e2162f9a54cd5e769febfb3630deedd0" idUser="0" ext="pdf" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Musterbeispiel_TransformatorBetriebsverhalten.pdf" id="158665716" md5="e2162f9a54cd5e769febfb3630deedd0" idUser="0" ext="pdf" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/e2/e2162f9a54cd5e769febfb3630deedd0.pdf]]></webPath>
                   </file>
-                  <file filename="Zk_Transformator-1prime.png" id="156972386" md5="dea87b3a13c9e9d993c0696351122d76" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Zk_Transformator-1prime.png" id="158665715" md5="dea87b3a13c9e9d993c0696351122d76" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/de/dea87b3a13c9e9d993c0696351122d76.png]]></webPath>
                   </file>
                </text>
@@ -13812,14 +13815,14 @@ falsch:wenn(phiZL<0,"ohmsch-induktiv","ohmsch-kapazitiv")]]></maxima>
 
 <p>(o) Bestimmen sie den Parallelwiderstand $R_L$ der Lastimpedanz [Q13]&nbsp;</p>
 
-<p>(p Bestimmen sie die Parallelreaktanz der $X_L$ Lastimpedanz [Q14]&nbsp;</p>
+<p>(p) Bestimmen sie die Parallelreaktanz der $X_L$ Lastimpedanz [Q14]&nbsp;</p>
 
 <p>(q) Kontrollrechnung der&nbsp;Lastimpedanz $\dfrac {R_L \cdot \mathrm j&nbsp;\cdot X_L}{R_L + \mathrm j&nbsp;\cdot X_L}&nbsp;= $&nbsp;[Q15]</p>]]></inhalt>
 
-                  <file filename="Zk_Transformator-2.png" id="157038500" md5="b67d4ef060d8d217a66835afe8a9f4f" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Zk_Transformator-2.png" id="158665710" md5="b67d4ef060d8d217a66835afe8a9f4f" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/b6/b67d4ef060d8d217a66835afe8a9f4f.png]]></webPath>
                   </file>
-                  <file filename="Zk_Transformator-2prime.png" id="157038501" md5="c52a4e66cae67bb2b4b853acd4ed925" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Zk_Transformator-2prime.png" id="158665709" md5="c52a4e66cae67bb2b4b853acd4ed925" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/c5/c52a4e66cae67bb2b4b853acd4ed925.png]]></webPath>
                   </file>
                </text>
@@ -13828,7 +13831,7 @@ falsch:wenn(phiZL<0,"ohmsch-induktiv","ohmsch-kapazitiv")]]></maxima>
 
 <p>[IMG0]</p>]]></inhalt>
 
-                  <file filename="Clipboard.png" id="157038502" md5="c52a4e66cae67bb2b4b853acd4ed925" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
+                  <file filename="Clipboard.png" id="158665711" md5="c52a4e66cae67bb2b4b853acd4ed925" idUser="0" ext="png" width="50%" height="0" title="" alt="" style="">
                      <webPath><![CDATA[https://letto.tgm.ac.at/images/c5/c52a4e66cae67bb2b4b853acd4ed925.png]]></webPath>
                   </file>
                </text>
