@@ -16749,7 +16749,7 @@ Xk:sqrt(Zk^2-Rk^2)
 Pk:Rk*I1N^2
 U1k:uk*U1N
 cosphi:Pk/(U1k*I1N)]]></maxima>
-               <maximaAngabe><![CDATA[;::;I1N:SN/U1N;Pk:uk*urrel*SN;Rk:uk*urrel*U1N^2/SN;U1k:uk*U1N;Xk:sqrt(uk^2*U1N^4/SN^2-uk^2*urrel^2*U1N^4/SN^2,2);Zk:uk*U1N^2/SN;cosphi:urrel;ur:uk*urrel;]]></maximaAngabe>
+               <maximaAngabe><![CDATA[;::;I1N:SN/U1N;Pk:SN*uk*urrel;Rk:(U1N^2*uk*urrel)/SN;U1k:U1N*uk;Xk:sqrt((U1N^4*uk^2)/SN^2-(U1N^4*uk^2*urrel^2)/SN^2,2);Zk:(U1N^2*uk)/SN;cosphi:urrel;ur:uk*urrel;]]></maximaAngabe>
                <responseFormat><![CDATA[editor]]></responseFormat>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
@@ -16787,7 +16787,7 @@ cosphi:Pk/(U1k*I1N)]]></maxima>
 
 <p>(e) Bestimmen sie den Leistungsfaktor [Q5]</p>
 
-<p>(f) Bestimmen sie aufgenomme Wirkleistung des Transformators, wenn der Kurzschlussversuch bei der Spannung von $U_1={=uk * U1N,4}$ durchgef&uuml;hrt werden w&uuml;rde [Q6]</p>]]></inhalt>
+<p>(f) Bestimmen sie aufgenomme Wirkleistung des Transformators, wenn der Kurzschlussversuch bei der Spannung von $U_1={=uk * U1N/k,4}$ durchgef&uuml;hrt werden w&uuml;rde [Q6]</p>]]></inhalt>
 </text>
                <text art="general feedback" id="82834" format="html">               <inhalt/>
 </text>
@@ -16835,7 +16835,7 @@ cosphi:Pk/(U1k*I1N)]]></maxima>
                      <id>82842</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[uk*U1N^2/SN]]></text>
+                     <text><![CDATA[(U1N^2*uk)/SN]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -16858,7 +16858,7 @@ cosphi:Pk/(U1k*I1N)]]></maxima>
                      <id>82844</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[uk*urrel*U1N^2/SN]]></text>
+                     <text><![CDATA[(U1N^2*uk*urrel)/SN]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -16881,7 +16881,7 @@ cosphi:Pk/(U1k*I1N)]]></maxima>
                      <id>82846</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[sqrt(uk^2*U1N^4/SN^2-uk^2*urrel^2*U1N^4/SN^2)]]></text>
+                     <text><![CDATA[sqrt((U1N^4*uk^2)/SN^2-(U1N^4*uk^2*urrel^2)/SN^2)]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
@@ -16927,13 +16927,13 @@ cosphi:Pk/(U1k*I1N)]]></maxima>
                      <id>82850</id>
                      <fraction>100</fraction>
                      <format><![CDATA[html]]></format>
-                     <text><![CDATA[uk*urrel*SN]]></text>
+                     <text><![CDATA[(SN*uk*urrel)/k^2]]></text>
                      <feedback/>
                      <tolerance><![CDATA[1.0%]]></tolerance>
                      <correctAnswerFormat>2</correctAnswerFormat>
                      <correctAnswerLength>5</correctAnswerLength>
-                     <maxima><![CDATA[Pk]]></maxima>
-                     <answer><![CDATA[2.4365kW]]></answer>
+                     <maxima><![CDATA[Pk/k^2]]></maxima>
+                     <answer><![CDATA[3.008kW]]></answer>
                      <einheit/>
                   </answer>
                </subquestion>
@@ -17371,7 +17371,7 @@ P1e:Rk*I1e^2
                <maxima><![CDATA[U1k:uk*U1N
 U2k:uk*U2N
 ]]></maxima>
-               <maximaAngabe><![CDATA[;::;U1k:uk*U1N;U2k:uk*U2N;]]></maximaAngabe>
+               <maximaAngabe><![CDATA[;::;U1k:U1N*uk;U2k:U2N*uk;]]></maximaAngabe>
                <responseFormat><![CDATA[editor]]></responseFormat>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
@@ -17504,14 +17504,14 @@ U2k:uk*U2N
                   <name><![CDATA[U2N]]></name>
                   <type><![CDATA[calculated]]></type>
                   <distribution><![CDATA[uniform]]></distribution>
-                  <minimum><![CDATA[200]]></minimum>
-                  <maximum><![CDATA[500]]></maximum>
+                  <minimum><![CDATA[600]]></minimum>
+                  <maximum><![CDATA[900]]></maximum>
                   <decimals><![CDATA[0]]></decimals>
                   <itemcount>40</itemcount>
-                  <zahlenbereich><![CDATA[500,200]]></zahlenbereich>
-                  <ziffern>14</ziffern>
+                  <zahlenbereich><![CDATA[600,800,900]]></zahlenbereich>
+                  <ziffern>12</ziffern>
                   <einheit><![CDATA[V]]></einheit>
-                  <items><![CDATA[500;200;500;500;200;500;200;200;500;200;500;200;200;200;200;200;200;200;500;200;500;200;200;500;500;500;200;200;200;200;500;500;200;500;200;500;200;200;500;200]]></items>
+                  <items><![CDATA[800;600;800;900;900;800;900;600;800;600;800;900;900;900;900;600;900;900;800;800;900;800;800;900;800;800;800;600;800;800;800;600;600;600;900;800;900;900;800;900]]></items>
                </dataset>
                <dataset>
                   <id>3495003</id>
@@ -17550,7 +17550,7 @@ U2k:uk*U2N
                <maxima><![CDATA[U1k:uk*U1N
 U2k:uk*U2N
 ]]></maxima>
-               <maximaAngabe><![CDATA[;::;U1k:uk*U1N;U2k:uk*U2N;]]></maximaAngabe>
+               <maximaAngabe><![CDATA[;::;U1k:U1N*uk;U2k:U2N*uk;]]></maximaAngabe>
                <responseFormat><![CDATA[editor]]></responseFormat>
                <responseFieldLines>10</responseFieldLines>
                <attachments>3</attachments>
@@ -17683,14 +17683,14 @@ U2k:uk*U2N
                   <name><![CDATA[U2N]]></name>
                   <type><![CDATA[calculated]]></type>
                   <distribution><![CDATA[uniform]]></distribution>
-                  <minimum><![CDATA[200]]></minimum>
-                  <maximum><![CDATA[500]]></maximum>
+                  <minimum><![CDATA[600]]></minimum>
+                  <maximum><![CDATA[900]]></maximum>
                   <decimals><![CDATA[0]]></decimals>
                   <itemcount>40</itemcount>
-                  <zahlenbereich><![CDATA[500,200]]></zahlenbereich>
-                  <ziffern>14</ziffern>
+                  <zahlenbereich><![CDATA[600,800,900]]></zahlenbereich>
+                  <ziffern>12</ziffern>
                   <einheit><![CDATA[V]]></einheit>
-                  <items><![CDATA[500;200;500;500;200;500;200;200;500;200;500;200;200;200;200;200;200;200;500;200;500;200;200;500;500;500;200;200;200;200;500;500;200;500;200;500;200;200;500;200]]></items>
+                  <items><![CDATA[800;600;600;800;600;800;900;900;900;600;800;800;600;900;800;600;800;800;600;600;900;800;600;800;600;800;900;900;900;800;900;600;800;800;800;800;800;800;600;900]]></items>
                </dataset>
                <dataset>
                   <id>3494981</id>
