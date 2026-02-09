@@ -4,7 +4,8 @@ Das Fachbuch ist im [Carl Hanser Verlag](https://www.hanser-kundencenter.de/fach
 
 <img src="https://res.cloudinary.com/literaturverlage/image/upload/MAM/Image/ARTK_CT0_9783446478206_0001.jpg" width="300"/>
 
-Aktuelle [Errata zum Buch](https://github.com/christiankral/Grundlagen-der-Antriebstechnik/blob/main/Errata/Errata-Grundlagen-der-Antriebstechnik-Auflage-1.pdf)
+- [Errata zur ersten Auflage](https://github.com/christiankral/Grundlagen-der-Antriebstechnik/blob/main/Errata/Errata-Grundlagen-der-Antriebstechnik-Auflage-1.pdf)
+- [Errata zur zweiten Auflage](https://github.com/christiankral/Grundlagen-der-Antriebstechnik/blob/main/Errata/Errata-Grundlagen-der-Antriebstechnik-Auflage-2.pdf)
 
 # Das Repository zum Buch
 
